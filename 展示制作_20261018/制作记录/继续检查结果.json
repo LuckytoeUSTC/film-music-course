@@ -1,0 +1,17 @@
+{
+  "time": "2026-10-18T23:11:32.558326+08:00",
+  "slide_count": 23,
+  "html_script_syntax_pass": true,
+  "syntax_error": "",
+  "reference_count": 25,
+  "missing_references": [],
+  "ppt_zip_integrity_pass": true,
+  "ppt_embedded_media_count": 8,
+  "limits": [
+    "本次为文件和脚本静态检查，未运行浏览器播放。",
+    "本地file URL被浏览器工具策略拒绝，未绕过。",
+    "音频听辨、课堂设备实际播放仍未完成。"
+  ],
+  "mock_dom_23_slide_render_pass": true,
+  "fixed": "修复讲稿换行导致JavaScript语法错误，同时修复生成器转义。"
+}
