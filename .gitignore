@@ -7,3 +7,14 @@ __pycache__/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Local mail control state and temporary build files
+邮件测控_末代皇帝/
+邮件控制测试_20261018/
+tmp/
+展示制作_20261018/build/
+展示制作_20261018/媒体/
+展示制作_20261018/工具/renders/
+展示制作_20261018/工具/candidate*.pptx
+展示制作_20261018/工具/*.inspect.ndjson
+展示制作_20261018/发布包/

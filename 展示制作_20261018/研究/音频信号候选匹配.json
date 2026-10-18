@@ -1,0 +1,281 @@
+{
+  "method": "72 semitone log spectrum, cosine diagonal mean over 8s; no tempo correction; computational candidates only, not listening verification",
+  "results": [
+    {
+      "clip": "01_片头音色.mp4",
+      "candidates": [
+        {
+          "album": "10 - The Last Emperor (Main Title Theme).opus",
+          "similarity": 0.8178,
+          "clip_offset": 18.2,
+          "album_offset": 26.6
+        },
+        {
+          "album": "13 - Wind Rain And Water.opus",
+          "similarity": 0.5533,
+          "clip_offset": 33.4,
+          "album_offset": 39.2
+        },
+        {
+          "album": "17 - The Emperor's Waltz.opus",
+          "similarity": 0.472,
+          "clip_offset": 10.8,
+          "album_offset": 72.6
+        }
+      ]
+    },
+    {
+      "clip": "02_首次回忆转场.mp4",
+      "candidates": [
+        {
+          "album": "02 - Open The Door.opus",
+          "similarity": 0.828,
+          "clip_offset": 29.0,
+          "album_offset": 12.0
+        },
+        {
+          "album": "18 - Red Guard Dance.opus",
+          "similarity": 0.7908,
+          "clip_offset": 36.2,
+          "album_offset": 18.2
+        },
+        {
+          "album": "10 - The Last Emperor (Main Title Theme).opus",
+          "similarity": 0.7529,
+          "clip_offset": 36.8,
+          "album_offset": 229.2
+        }
+      ]
+    },
+    {
+      "clip": "03_紫禁城初见.mp4",
+      "candidates": [
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.7696,
+          "clip_offset": 1.4,
+          "album_offset": 80.2
+        },
+        {
+          "album": "18 - Red Guard Dance.opus",
+          "similarity": 0.7598,
+          "clip_offset": 2.6,
+          "album_offset": 18.2
+        },
+        {
+          "album": "04 - Picking Up Brides.opus",
+          "similarity": 0.7475,
+          "clip_offset": 2.0,
+          "album_offset": 118.4
+        }
+      ]
+    },
+    {
+      "clip": "04_童年奔跑.mp4",
+      "candidates": [
+        {
+          "album": "18 - Red Guard Dance.opus",
+          "similarity": 0.8408,
+          "clip_offset": 24.4,
+          "album_offset": 18.4
+        },
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.8132,
+          "clip_offset": 19.2,
+          "album_offset": 80.2
+        },
+        {
+          "album": "10 - The Last Emperor (Main Title Theme).opus",
+          "similarity": 0.8103,
+          "clip_offset": 22.4,
+          "album_offset": 229.2
+        }
+      ]
+    },
+    {
+      "clip": "05_追阿嬷.mp4",
+      "candidates": [
+        {
+          "album": "03 - Where Is Armo？.opus",
+          "similarity": 0.9172,
+          "clip_offset": 13.6,
+          "album_offset": 99.2
+        },
+        {
+          "album": "04 - Picking Up Brides.opus",
+          "similarity": 0.7447,
+          "clip_offset": 74.6,
+          "album_offset": 120.4
+        },
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.7393,
+          "clip_offset": 75.8,
+          "album_offset": 79.6
+        }
+      ]
+    },
+    {
+      "clip": "06_紫禁城与人群.mp4",
+      "candidates": [
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.7808,
+          "clip_offset": 14.8,
+          "album_offset": 80.2
+        },
+        {
+          "album": "18 - Red Guard Dance.opus",
+          "similarity": 0.7782,
+          "clip_offset": 14.8,
+          "album_offset": 12.8
+        },
+        {
+          "album": "13 - Wind Rain And Water.opus",
+          "similarity": 0.7726,
+          "clip_offset": 14.8,
+          "album_offset": 101.0
+        }
+      ]
+    },
+    {
+      "clip": "07_自行车.mp4",
+      "candidates": [
+        {
+          "album": "18 - Red Guard Dance.opus",
+          "similarity": 0.8418,
+          "clip_offset": 0.2,
+          "album_offset": 18.8
+        },
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.8198,
+          "clip_offset": 10.0,
+          "album_offset": 80.0
+        },
+        {
+          "album": "12 - Bed.opus",
+          "similarity": 0.8017,
+          "clip_offset": 0.2,
+          "album_offset": 31.0
+        }
+      ]
+    },
+    {
+      "clip": "08_离开紫禁城.mp4",
+      "candidates": [
+        {
+          "album": "12 - Bed.opus",
+          "similarity": 0.8545,
+          "clip_offset": 27.8,
+          "album_offset": 257.6
+        },
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.6721,
+          "clip_offset": 0.0,
+          "album_offset": 66.4
+        },
+        {
+          "album": "04 - Picking Up Brides.opus",
+          "similarity": 0.6385,
+          "clip_offset": 0.0,
+          "album_offset": 123.6
+        }
+      ]
+    },
+    {
+      "clip": "09_雨中离开.mp4",
+      "candidates": [
+        {
+          "album": "06 - Rain (I Want A Divorce).opus",
+          "similarity": 0.8978,
+          "clip_offset": 25.6,
+          "album_offset": 68.8
+        },
+        {
+          "album": "18 - Red Guard Dance.opus",
+          "similarity": 0.6523,
+          "clip_offset": 25.8,
+          "album_offset": 24.6
+        },
+        {
+          "album": "02 - Open The Door.opus",
+          "similarity": 0.5878,
+          "clip_offset": 27.2,
+          "album_offset": 10.8
+        }
+      ]
+    },
+    {
+      "clip": "10_追婉容.mp4",
+      "candidates": [
+        {
+          "album": "13 - Wind Rain And Water.opus",
+          "similarity": 0.693,
+          "clip_offset": 30.2,
+          "album_offset": 100.2
+        },
+        {
+          "album": "04 - Picking Up Brides.opus",
+          "similarity": 0.6842,
+          "clip_offset": 30.2,
+          "album_offset": 101.8
+        },
+        {
+          "album": "16 - Red Guard.opus",
+          "similarity": 0.6753,
+          "clip_offset": 30.2,
+          "album_offset": 45.2
+        }
+      ]
+    },
+    {
+      "clip": "11_枪声转场.mp4",
+      "candidates": [
+        {
+          "album": "05 - The Last Emperor： Theme Variation 1.opus",
+          "similarity": 0.6909,
+          "clip_offset": 20.6,
+          "album_offset": 69.6
+        },
+        {
+          "album": "04 - Picking Up Brides.opus",
+          "similarity": 0.6642,
+          "clip_offset": 18.8,
+          "album_offset": 106.8
+        },
+        {
+          "album": "13 - Wind Rain And Water.opus",
+          "similarity": 0.6414,
+          "clip_offset": 18.4,
+          "album_offset": 99.6
+        }
+      ]
+    },
+    {
+      "clip": "12_重访紫禁城.mp4",
+      "candidates": [
+        {
+          "album": "07 - The Baby (Was Born Dead).opus",
+          "similarity": 0.524,
+          "clip_offset": 29.2,
+          "album_offset": 22.2
+        },
+        {
+          "album": "04 - Picking Up Brides.opus",
+          "similarity": 0.5078,
+          "clip_offset": 42.0,
+          "album_offset": 52.8
+        },
+        {
+          "album": "10 - The Last Emperor (Main Title Theme).opus",
+          "similarity": 0.4956,
+          "clip_offset": 15.8,
+          "album_offset": 0.0
+        }
+      ]
+    }
+  ]
+}

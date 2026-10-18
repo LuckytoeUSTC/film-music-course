@@ -1,0 +1,119 @@
+[
+  {
+    "id": "01_片头音色",
+    "start": 10,
+    "end": 65,
+    "duration": 55,
+    "role": "核心",
+    "description": "片头音色与署名",
+    "file": "媒体/01_片头音色.mp4"
+  },
+  {
+    "id": "02_首次回忆转场",
+    "start": 370,
+    "end": 415,
+    "duration": 45,
+    "role": "核心",
+    "description": "1950年与童年之间的剪辑",
+    "file": "媒体/02_首次回忆转场.mp4"
+  },
+  {
+    "id": "03_紫禁城初见",
+    "start": 548,
+    "end": 575,
+    "duration": 27,
+    "role": "核心",
+    "description": "夜色、宫门与进宫队伍",
+    "file": "媒体/03_紫禁城初见.mp4"
+  },
+  {
+    "id": "04_童年奔跑",
+    "start": 1625,
+    "end": 1685,
+    "duration": 60,
+    "role": "备选",
+    "description": "奔跑与追随的队列",
+    "file": "媒体/04_童年奔跑.mp4"
+  },
+  {
+    "id": "05_追阿嬷",
+    "start": 2165,
+    "end": 2255,
+    "duration": 90,
+    "role": "核心",
+    "description": "奔跑、呼喊与空间距离",
+    "file": "媒体/05_追阿嬷.mp4"
+  },
+  {
+    "id": "06_紫禁城与人群",
+    "start": 2472,
+    "end": 2505,
+    "duration": 33,
+    "role": "核心",
+    "description": "同一空间中的群体秩序",
+    "file": "媒体/06_紫禁城与人群.mp4"
+  },
+  {
+    "id": "07_自行车",
+    "start": 3185,
+    "end": 3245,
+    "duration": 60,
+    "role": "备选",
+    "description": "运动的愉悦与宫墙边界",
+    "file": "媒体/07_自行车.mp4"
+  },
+  {
+    "id": "08_离开紫禁城",
+    "start": 4835,
+    "end": 4885,
+    "duration": 50,
+    "role": "核心",
+    "description": "离开时的空间与人物关系",
+    "file": "媒体/08_离开紫禁城.mp4"
+  },
+  {
+    "id": "09_雨中离开",
+    "start": 5815,
+    "end": 5880,
+    "duration": 65,
+    "role": "核心",
+    "description": "文绣与雨中的离开",
+    "file": "媒体/09_雨中离开.mp4"
+  },
+  {
+    "id": "10_追婉容",
+    "start": 8155,
+    "end": 8225,
+    "duration": 70,
+    "role": "核心",
+    "description": "成年奔跑与再次受阻",
+    "file": "媒体/10_追婉容.mp4"
+  },
+  {
+    "id": "11_枪声转场",
+    "start": 8435,
+    "end": 8465,
+    "duration": 30,
+    "role": "备选",
+    "description": "声音与场景衔接",
+    "file": "媒体/11_枪声转场.mp4"
+  },
+  {
+    "id": "12_重访紫禁城",
+    "start": 9315,
+    "end": 9365,
+    "duration": 50,
+    "role": "核心",
+    "description": "重返时的空间身份",
+    "file": "媒体/12_重访紫禁城.mp4"
+  },
+  {
+    "id": "13_龙椅与蝈蝈",
+    "start": 9388,
+    "end": 9480,
+    "duration": 92,
+    "role": "核心",
+    "description": "身份对话与记忆物件",
+    "file": "媒体/13_龙椅与蝈蝈.mp4"
+  }
+]

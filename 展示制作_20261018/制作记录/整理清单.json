@@ -1,0 +1,79 @@
+[
+  {
+    "from": "tmp\\build_delivery.py",
+    "to": "展示制作_20261018\\工具\\build_delivery.py",
+    "sha256_before": "a05e61ebbb135ce8e56f485de47b8318beaf0d134ff2d32b0b280fba680ad3a9",
+    "sha256_after": "17354d18b59e0c537db573eda5a540d767b8492ef566f6bca94304220e7b4168",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\build_media.py",
+    "to": "展示制作_20261018\\工具\\build_media.py",
+    "sha256_before": "2ba3d22e3cd6212883e07978940330a78b69c81777bba5787b6be9caed5f0f66",
+    "sha256_after": "578a9197161fae8428f21149c605822b7a7600bdd14bae6a6a21de63cc6fefc6",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\contact.py",
+    "to": "展示制作_20261018\\工具\\contact.py",
+    "sha256_before": "73f830bdd036ce96d9b2b9c930e1868eeb0f4efd02787c1bf487889c0da4a29b",
+    "sha256_after": "8b040f73e642cf0ba62203f3c3402362a0dc3914b91df0309e4a53c9b3428e3f",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\embed_media.py",
+    "to": "展示制作_20261018\\工具\\embed_media.py",
+    "sha256_before": "039672151adf9b93e67b033bee677a32bbada49c6894c597ce5c738c3f3583d3",
+    "sha256_after": "9717b019514d52ebef193c3abd92e49410611a3fd6383f9b2a0b1c0da473b9c3",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\extra_frames.py",
+    "to": "展示制作_20261018\\工具\\extra_frames.py",
+    "sha256_before": "c56119c5aa9891c17a990677d39ba3b8cbf1dd139d2b20dc8044a2e9ce198a75",
+    "sha256_after": "a5cbd7adbca90817dbc9a399e0a2e91820f40c29a48c8dc29b143e4ad2be25ab",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\make_clips.py",
+    "to": "展示制作_20261018\\工具\\make_clips.py",
+    "sha256_before": "4522b42d7620b4ff101fdc157c3e74d1bd909e5a14c1e6e9ec1893be27a2fb74",
+    "sha256_after": "db6f5f81e81bbe7a5ce1e043766a6d015d42f847010ef19e7dafd01566519ede",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\prepare_portable.py",
+    "to": "展示制作_20261018\\工具\\prepare_portable.py",
+    "sha256_before": "1dddf3ace6e79f1aeaea3d9eaeac3b3ae8c8a0385aaea2d95097b7118763f264",
+    "sha256_after": "b40b931c8cf3e5339e7909869ef500b8dd48e1a1c511d2cda80601276040e394",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\signal_match.py",
+    "to": "展示制作_20261018\\工具\\signal_match.py",
+    "sha256_before": "a1442fe9adab32b46a3b463ee3d3d6bf23f4b034bcdea9719f0228f616ec0f97",
+    "sha256_after": "e34d5ea94f0e56d834a75edde95439c4cf459426ec009f755905a60afc2c5ce4",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\slide_contact.py",
+    "to": "展示制作_20261018\\工具\\slide_contact.py",
+    "sha256_before": "5452d6fd8d3445b96612b8dfd14c229a80053bbf297a1e0f00222fdfcffa2ae1",
+    "sha256_after": "7f3e484ae2f507c2a1323b8cf07edc629b39af86cb59ce3b39695a7da2ee20b2",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\verify_media.py",
+    "to": "展示制作_20261018\\工具\\verify_media.py",
+    "sha256_before": "d142c9c8d6e63077c0d8ac236158dc13d960dffd6fe38181d31f2e2dfaa3afa1",
+    "sha256_after": "74fe0a922ce994beb7e3c21603ea06b97538a8f154e83fc86d271cf53789feb4",
+    "change": "调整脚本位置并修正相对路径"
+  },
+  {
+    "from": "tmp\\verify_powerpoint.ps1",
+    "to": "展示制作_20261018\\工具\\verify_powerpoint.ps1",
+    "sha256_before": "f27f455869b726a2d327f3c264ffdfa740b121c7be99fed82baff5634377dbc9",
+    "sha256_after": "758062e3c34fc8e6db1488c6ca2ede6243a845e5b58b3e0afaf7a41dee060e26",
+    "change": "调整脚本位置并修正相对路径"
+  }
+]

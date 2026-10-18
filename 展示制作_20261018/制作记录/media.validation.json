@@ -1,0 +1,536 @@
+{
+  "media": [
+    {
+      "file": "01_片头音色.mp4",
+      "bytes": 7995333,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "55.013292"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "3d8f83cb42a6b563b90fbdb10d9e752cb403d4355d1005fce6466afdc10dedcb"
+    },
+    {
+      "file": "02_首次回忆转场.mp4",
+      "bytes": 7487163,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "45.003000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "2d59da97c3ad2853c2c45f9e0b572c0a27c395ca7631d3adcadf5c239f43a70e"
+    },
+    {
+      "file": "03_紫禁城初见.mp4",
+      "bytes": 5408415,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "27.027000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "c2af2cf0c275c9c6f27a2131d1027b156f73b45d20d190609289d3147fcdf116"
+    },
+    {
+      "file": "04_童年奔跑.mp4",
+      "bytes": 14409996,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "60.018000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "ef7b660636028f27fbb0b587c8d3a3486e754f5e23a95b77f3df5d58a3a9f181"
+    },
+    {
+      "file": "05_追阿嬷.mp4",
+      "bytes": 13075177,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "90.006000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "ae2e35fb8fc5f788bdeebbb250309b97525cbbbc5cb378f84ca86a289a68d484"
+    },
+    {
+      "file": "06_紫禁城与人群.mp4",
+      "bytes": 8109098,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "33.033000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "7dd50d412abff17248ca913890faacd1fbbf7fd66673af6cfde5ae163fd41fa3"
+    },
+    {
+      "file": "07_自行车.mp4",
+      "bytes": 11011984,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "60.018292"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "e0548e7b9060488a680c359c9680eeebc62b3e55fe02ddd19308efbf68f505d8"
+    },
+    {
+      "file": "08_离开紫禁城.mp4",
+      "bytes": 13102119,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "50.008000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "43164401f382cf0a4cb269dfa57968c39e956baaa6228193dd8c28e1fe3cc5d4"
+    },
+    {
+      "file": "09_雨中离开.mp4",
+      "bytes": 17808645,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "65.023292"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "5b6b3304861349916a7de9c01acce8789034fb7440eedc7ec98cd5ecce6f1dde"
+    },
+    {
+      "file": "10_追婉容.mp4",
+      "bytes": 10382312,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "70.028000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "4d5db9539b37be3866f23c60106cce8dc3f37cf11f69eb9e4599dca02f429c7d"
+    },
+    {
+      "file": "11_枪声转场.mp4",
+      "bytes": 3836197,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "30.030000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "abe90b5092d76f3a6da64cb870ad060f8f19a7e33958c4111c1b4174fe8c0b99"
+    },
+    {
+      "file": "12_重访紫禁城.mp4",
+      "bytes": 7805201,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "50.008000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "c579152c66fe5d52bf00185ad7f711a266c32b9912e183511b49782dd7e454a2"
+    },
+    {
+      "file": "13_龙椅与蝈蝈.mp4",
+      "bytes": 16396985,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "h264",
+            "codec_type": "video",
+            "width": 1280,
+            "height": 720,
+            "side_data_list": [
+              {},
+              {}
+            ]
+          },
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          },
+          {
+            "codec_name": "bin_data",
+            "codec_type": "data"
+          }
+        ],
+        "format": {
+          "duration": "92.009000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "f09b7431bcfc9dc2c29fab5761bd964ca120372eee6bc0c005b257c420b60991"
+    },
+    {
+      "file": "音频_05.m4a",
+      "bytes": 608157,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "25.000000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "b6a18034f9af6f4fc7c56511888e48c4a73a385c0ae9e4917c9e2b52471c7e6c"
+    },
+    {
+      "file": "音频_08.m4a",
+      "bytes": 727703,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "30.000000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "f78b8d4318d42293aa74410048e21e3d91c32e2c7c3140642d7e098c60c28031"
+    },
+    {
+      "file": "音频_09.m4a",
+      "bytes": 850380,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "35.000000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "c22e0020611a9c55ff3d80b8e8b29024ae59cd1bbf63ad1ef6716d84b44c2374"
+    },
+    {
+      "file": "音频_10.m4a",
+      "bytes": 856493,
+      "probe": {
+        "programs": [],
+        "stream_groups": [],
+        "streams": [
+          {
+            "codec_name": "aac",
+            "codec_type": "audio"
+          }
+        ],
+        "format": {
+          "duration": "35.000000"
+        }
+      },
+      "decode_ok": true,
+      "error": "",
+      "sha256": "166e29970c7becb153d84f093e718e4261812c81af3ff96bae25e9779ecff2a8"
+    }
+  ],
+  "html": [
+    {
+      "file": "媒体回放.html",
+      "missing_static_targets": []
+    },
+    {
+      "file": "离线展示.html",
+      "missing_static_targets": []
+    }
+  ]
+}
