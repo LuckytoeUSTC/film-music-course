@@ -1,0 +1,232 @@
+{
+  "commit": "5d6575a04c7aa44600be6fd5bcd0c0b99456d636",
+  "files": [
+    {
+      "path": "双人逐页讲稿.md",
+      "remote_sha": "71871fd5a9f728dd45f600cf6214b71359351bb3",
+      "local_git_sha": "71871fd5a9f728dd45f600cf6214b71359351bb3"
+    },
+    {
+      "path": "媒体回放.html",
+      "remote_sha": "5823af1223558dcf1f0283c60ca05449448ad9e1",
+      "local_git_sha": "5823af1223558dcf1f0283c60ca05449448ad9e1"
+    },
+    {
+      "path": "宫门之内的奔跑_展示稿.pptx",
+      "remote_sha": "aeafe8e7b20ad55ae8a8911db917872fc6a0b33a",
+      "local_git_sha": "aeafe8e7b20ad55ae8a8911db917872fc6a0b33a"
+    },
+    {
+      "path": "宫门之内的奔跑_静态备份.pdf",
+      "remote_sha": "c501fded45b7f26c1757ee1dd335eb37d8b243bb",
+      "local_git_sha": "c501fded45b7f26c1757ee1dd335eb37d8b243bb"
+    },
+    {
+      "path": "开始阅读.md",
+      "remote_sha": "816abcc21352ca80cbc230f973581bd773eb1484",
+      "local_git_sha": "816abcc21352ca80cbc230f973581bd773eb1484"
+    },
+    {
+      "path": "片段与现场顺序.md",
+      "remote_sha": "bd613b4cdf97e65629374b5ac76ad01882daecb3",
+      "local_git_sha": "bd613b4cdf97e65629374b5ac76ad01882daecb3"
+    },
+    {
+      "path": "离线展示.html",
+      "remote_sha": "c6de65e04445e7dfe5339f65de9e4c8469a7ef44",
+      "local_git_sha": "c6de65e04445e7dfe5339f65de9e4c8469a7ef44"
+    },
+    {
+      "path": "课程群标题与大纲.md",
+      "remote_sha": "70219366be618235ce7380b2af3c945e0b90f6eb",
+      "local_git_sha": "70219366be618235ce7380b2af3c945e0b90f6eb"
+    },
+    {
+      "path": "参考资料/片段清单.json",
+      "remote_sha": "7bd5f90f95fec4ecaaa028b15ec65cd6a130e7c2",
+      "local_git_sha": "7bd5f90f95fec4ecaaa028b15ec65cd6a130e7c2"
+    },
+    {
+      "path": "参考资料/证据与判断边界.md",
+      "remote_sha": "bfac2b849ce214bbeb576fb6635d57c6e9914533",
+      "local_git_sha": "bfac2b849ce214bbeb576fb6635d57c6e9914533"
+    },
+    {
+      "path": "参考资料/评论阅读与取舍.md",
+      "remote_sha": "41a008b048f5c32425a6fcd7ef714ab078c332a6",
+      "local_git_sha": "41a008b048f5c32425a6fcd7ef714ab078c332a6"
+    },
+    {
+      "path": "图片/00035_片头题字.jpg",
+      "remote_sha": "b35c7ee6ec01b64f8fc8dd4d2613bfd0a7e0a17c",
+      "local_git_sha": "b35c7ee6ec01b64f8fc8dd4d2613bfd0a7e0a17c"
+    },
+    {
+      "path": "图片/00390_首次转场.jpg",
+      "remote_sha": "e77211f4b063c501bcef64660487295c9047e1f1",
+      "local_git_sha": "e77211f4b063c501bcef64660487295c9047e1f1"
+    },
+    {
+      "path": "图片/00399_回忆宫门.jpg",
+      "remote_sha": "13436f4c1a905517f5582f0ec00b928350c7e389",
+      "local_git_sha": "13436f4c1a905517f5582f0ec00b928350c7e389"
+    },
+    {
+      "path": "图片/00554_紫禁城初见.jpg",
+      "remote_sha": "3c0e257e45886478bef7397671e701be2a8caacd",
+      "local_git_sha": "3c0e257e45886478bef7397671e701be2a8caacd"
+    },
+    {
+      "path": "图片/01633_奔跑.jpg",
+      "remote_sha": "04c7f5de0fcf78243ce6d76a6c295dcff61b4afd",
+      "local_git_sha": "04c7f5de0fcf78243ce6d76a6c295dcff61b4afd"
+    },
+    {
+      "path": "图片/01640_童年奔跑全景.jpg",
+      "remote_sha": "f8e3c6d92d70734621038b4ef6e192e46135688d",
+      "local_git_sha": "f8e3c6d92d70734621038b4ef6e192e46135688d"
+    },
+    {
+      "path": "图片/02185_追阿嬷奔跑.jpg",
+      "remote_sha": "811718e6bc2640fb1656c6c11a2e366188653002",
+      "local_git_sha": "811718e6bc2640fb1656c6c11a2e366188653002"
+    },
+    {
+      "path": "图片/02205_追阿嬷远景.jpg",
+      "remote_sha": "7f803b37f148703dfc2a22e7361fa38f9fd71ddd",
+      "local_git_sha": "7f803b37f148703dfc2a22e7361fa38f9fd71ddd"
+    },
+    {
+      "path": "图片/02484_庄士敦到来.jpg",
+      "remote_sha": "f6b42771f7533a8eae7c836a7cfad255e664ed8a",
+      "local_git_sha": "f6b42771f7533a8eae7c836a7cfad255e664ed8a"
+    },
+    {
+      "path": "图片/03196_自行车.jpg",
+      "remote_sha": "a699c6c5ff375ddbe2a16910da08e60553509b63",
+      "local_git_sha": "a699c6c5ff375ddbe2a16910da08e60553509b63"
+    },
+    {
+      "path": "图片/03205_自行车宫门.jpg",
+      "remote_sha": "3b594a08fa11a62da22297028750a1bb86e470af",
+      "local_git_sha": "3b594a08fa11a62da22297028750a1bb86e470af"
+    },
+    {
+      "path": "图片/04844_紫禁城离开.jpg",
+      "remote_sha": "e169871b5e26c09f91088d2879cb3edfb286a99d",
+      "local_git_sha": "e169871b5e26c09f91088d2879cb3edfb286a99d"
+    },
+    {
+      "path": "图片/04860_离宫全景.jpg",
+      "remote_sha": "0810d7da5f1523fce49cbb915f9d10f47d5c9067",
+      "local_git_sha": "0810d7da5f1523fce49cbb915f9d10f47d5c9067"
+    },
+    {
+      "path": "图片/05860_雨.jpg",
+      "remote_sha": "9fb0b7012c9a27ccddaee6f17f31688525a02b4f",
+      "local_git_sha": "9fb0b7012c9a27ccddaee6f17f31688525a02b4f"
+    },
+    {
+      "path": "图片/08218_追婉容门.jpg",
+      "remote_sha": "3c6f4151358667f5a7177d5573c066dfe6572697",
+      "local_git_sha": "3c6f4151358667f5a7177d5573c066dfe6572697"
+    },
+    {
+      "path": "图片/09338_重访背影.jpg",
+      "remote_sha": "494bf8457011d9efe8b533f566710be36cd91b0e",
+      "local_git_sha": "494bf8457011d9efe8b533f566710be36cd91b0e"
+    },
+    {
+      "path": "图片/09385_重返龙椅.jpg",
+      "remote_sha": "a6e6fb6191dec9997b64e15e1d24dad3bb3632ea",
+      "local_git_sha": "a6e6fb6191dec9997b64e15e1d24dad3bb3632ea"
+    },
+    {
+      "path": "媒体/01_片头音色.mp4",
+      "remote_sha": "de356ba4dfb4075b0b357d0f72bb166e655bccdf",
+      "local_git_sha": "de356ba4dfb4075b0b357d0f72bb166e655bccdf"
+    },
+    {
+      "path": "媒体/02_首次回忆转场.mp4",
+      "remote_sha": "f01355ec54a190ebdb7dc28c17ecc77836203136",
+      "local_git_sha": "f01355ec54a190ebdb7dc28c17ecc77836203136"
+    },
+    {
+      "path": "媒体/03_紫禁城初见.mp4",
+      "remote_sha": "f40b037102981773cdd15f9e2e7c0a18ee8bbd09",
+      "local_git_sha": "f40b037102981773cdd15f9e2e7c0a18ee8bbd09"
+    },
+    {
+      "path": "媒体/04_童年奔跑.mp4",
+      "remote_sha": "8997e0c7798dc50d6549fedab908b0b2699f9b31",
+      "local_git_sha": "8997e0c7798dc50d6549fedab908b0b2699f9b31"
+    },
+    {
+      "path": "媒体/05_追阿嬷.mp4",
+      "remote_sha": "f4d080f16468dcdeeb5977097aac037c347cb2c6",
+      "local_git_sha": "f4d080f16468dcdeeb5977097aac037c347cb2c6"
+    },
+    {
+      "path": "媒体/06_紫禁城与人群.mp4",
+      "remote_sha": "11dd6501ff04d66d024c9583af54b85d0e2d3335",
+      "local_git_sha": "11dd6501ff04d66d024c9583af54b85d0e2d3335"
+    },
+    {
+      "path": "媒体/07_自行车.mp4",
+      "remote_sha": "e6a5ff2938f65c70514d7101d98da68d308f8a0a",
+      "local_git_sha": "e6a5ff2938f65c70514d7101d98da68d308f8a0a"
+    },
+    {
+      "path": "媒体/08_离开紫禁城.mp4",
+      "remote_sha": "6c7479c44af6c415e2c9e27d4a9162d60605d5a1",
+      "local_git_sha": "6c7479c44af6c415e2c9e27d4a9162d60605d5a1"
+    },
+    {
+      "path": "媒体/09_雨中离开.mp4",
+      "remote_sha": "47048af89f7578c4ebe49144fb245c67747314a3",
+      "local_git_sha": "47048af89f7578c4ebe49144fb245c67747314a3"
+    },
+    {
+      "path": "媒体/10_追婉容.mp4",
+      "remote_sha": "6fd568b7d1a61ab67fa5d01fe746ae99d09af924",
+      "local_git_sha": "6fd568b7d1a61ab67fa5d01fe746ae99d09af924"
+    },
+    {
+      "path": "媒体/11_枪声转场.mp4",
+      "remote_sha": "75fa92ff0e1a3df04aba53dcbbabeff492b5056d",
+      "local_git_sha": "75fa92ff0e1a3df04aba53dcbbabeff492b5056d"
+    },
+    {
+      "path": "媒体/12_重访紫禁城.mp4",
+      "remote_sha": "3361d6cfe04c428b9e266424e829c284ad8d59f4",
+      "local_git_sha": "3361d6cfe04c428b9e266424e829c284ad8d59f4"
+    },
+    {
+      "path": "媒体/13_龙椅与蝈蝈.mp4",
+      "remote_sha": "39d41ffe70a02a4e51642349df00caee835e846a",
+      "local_git_sha": "39d41ffe70a02a4e51642349df00caee835e846a"
+    },
+    {
+      "path": "媒体/音频_05.m4a",
+      "remote_sha": "d01008d9d94c99ec79b93a6f3c7b0aee453aadf3",
+      "local_git_sha": "d01008d9d94c99ec79b93a6f3c7b0aee453aadf3"
+    },
+    {
+      "path": "媒体/音频_08.m4a",
+      "remote_sha": "ae501dea3e80601ed83a4c9a5150553f7ab94ba6",
+      "local_git_sha": "ae501dea3e80601ed83a4c9a5150553f7ab94ba6"
+    },
+    {
+      "path": "媒体/音频_09.m4a",
+      "remote_sha": "fc83acbcc4d553311621df4c8c93b833e1fe4ae0",
+      "local_git_sha": "fc83acbcc4d553311621df4c8c93b833e1fe4ae0"
+    },
+    {
+      "path": "媒体/音频_10.m4a",
+      "remote_sha": "67502e26e40b2344c3da7b06d277c620d909640f",
+      "local_git_sha": "67502e26e40b2344c3da7b06d277c620d909640f"
+    }
+  ],
+  "all_match": true,
+  "note": "远端与本地Git对象哈希一致。部分文本由Git规范化换行，不能要求工作区字节大小与远端相同。"
+}
