@@ -7,8 +7,12 @@ def run(args):subprocess.run([ff,'-hide_banner','-loglevel','error','-y',*args],
 base=['-c:v','libx264','-preset','fast','-crf','19','-pix_fmt','yuv420p','-c:a','aac','-b:a','192k','-ar','48000','-ac','2','-movflags','+faststart']
 items=[]
 def card(name,text,seconds):
- (B/(name+'.txt')).write_bytes(text.encode('utf-8'))
- run(['-f','lavfi','-i','color=c=0x171714:s=1280x720:r=25','-f','lavfi','-i','anullsrc=r=48000:cl=stereo','-t',str(seconds),'-vf',f'drawtext=fontfile=font.ttc:textfile={name}.txt:fontcolor=0xF1E7D3:fontsize=48:x=(w-text_w)/2:y=(h-text_h)/2:line_spacing=22',*base,name+'.mp4']);items.append(name+'.mp4')
+ lines=text.splitlines(); filters=[]
+ for index,line in enumerate(lines):
+  txt=f'{name}_{index}.txt';(B/txt).write_bytes(line.encode('utf-8'))
+  y=360-len(lines)*40+index*80
+  filters.append(f'drawtext=fontfile=font.ttc:textfile={txt}:fontcolor=0xF1E7D3:fontsize=48:x=(w-text_w)/2:y={y}')
+ run(['-f','lavfi','-i','color=c=0x171714:s=1280x720:r=25','-f','lavfi','-i','anullsrc=r=48000:cl=stereo','-t',str(seconds),'-vf',','.join(filters),*base,name+'.mp4']);items.append(name+'.mp4')
 card('intro','追赶，离开，重访\n《末代皇帝》片段并置',2)
 cuts=[('05_追阿嬷.mp4',20,8,'童年：追赶'),('10_追婉容.mp4',40,8,'成年：追赶'),('09_雨中离开.mp4',41,8,'雨中：离开'),('12_重访紫禁城.mp4',19,8,'晚年：重访')]
 for i,(file,start,dur,label) in enumerate(cuts,1):

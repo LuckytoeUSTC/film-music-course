@@ -18,7 +18,7 @@ PDF是静态备用，不含可播放媒体。用PDF展示时，可按需打开�
 ''',encoding='utf-8')
 rows=[]
 for p in sorted(pkg.rglob('*')):
- if p.is_file():rows.append({'文件':str(p.relative_to(pkg)).replace('\\','/'),'字节':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
+ if p.is_file() and p.name!='文件校验.json':rows.append({'文件':str(p.relative_to(pkg)).replace('\\','/'),'字节':p.stat().st_size,'sha256':hashlib.sha256(p.read_bytes()).hexdigest()})
 (pkg/'文件校验.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2),encoding='utf-8')
 archive=base/'TheLastEmperor-Classroom-20261019.zip'
 with zipfile.ZipFile(archive,'w',zipfile.ZIP_DEFLATED,compresslevel=3) as z:
