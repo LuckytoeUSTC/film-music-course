@@ -4,7 +4,7 @@
 
 封面已加入37秒“追赶、离开、重访”开场短片，点击播放；之后在对应页面播放分析片段。课堂展示包提供PPT、PDF、媒体文件夹与使用说明，解压后整包拷贝。
 
-**课堂拷贝：**[下载展示包ZIP](https://github.com/LuckytoeUSTC/film-music-course/releases/download/classroom-20261019/TheLastEmperor-Classroom-20261019.zip)。解压后打开“末代皇帝.pptx”，媒体已内嵌；同目录PDF和媒体文件夹作备用。
+**课堂拷贝：**本地“发布包”目录已生成TheLastEmperor-Classroom-20261019.zip。完整解压后打开“末代皇帝.pptx”，媒体已内嵌；同目录PDF和媒体文件夹作备用。GitHub附件尚未发布。
 
 ## 现在怎么看
 
