@@ -1,0 +1,12 @@
+{
+  "time": "2026-10-19T17:23:25.057200+08:00",
+  "originals": 19,
+  "readable_heic_copies": 13,
+  "original_hashes_verified": true,
+  "removed_duplicate_incoming_folders": [
+    "末代皇帝ppt",
+    "其它的ppt"
+  ],
+  "removal_method": "逐文件与归档SHA256一致后删除收件副本，仅删除两个空文件夹；原件全部在归档保留。",
+  "timestamp_order": "IMG_4937视频截帧相对顺序，非完整PPT页码"
+}

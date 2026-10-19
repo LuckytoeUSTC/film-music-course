@@ -1,0 +1,252 @@
+[
+  {
+    "path": "参考资料/片段清单.json",
+    "bytes": 2834,
+    "sha256": "fb541d746acbe60e702174c4d88594a6148582d701f14d697edda312a21196cc"
+  },
+  {
+    "path": "参考资料/证据与判断边界.md",
+    "bytes": 2999,
+    "sha256": "093013fbc617fb43089fb452b3b22be07f45625027c8bb61992530ec6ee9f67c"
+  },
+  {
+    "path": "参考资料/评论阅读与取舍.md",
+    "bytes": 8520,
+    "sha256": "eb2228abec1f5b16d34529e737d04bb5985fd630f66284934cb4012f3f28e25e"
+  },
+  {
+    "path": "参考资料/重做依据与资料口径.md",
+    "bytes": 3494,
+    "sha256": "43564a7cc165bba6bc9eb8d825f04d64f597e25f996dd6a7a949c043116fbf6f"
+  },
+  {
+    "path": "双人逐页讲稿.md",
+    "bytes": 22644,
+    "sha256": "2be25d159ea796b7d2ecfcdd9ba6acc605730b0bd53b5db419e68e899461ba6b"
+  },
+  {
+    "path": "听见末代皇帝_静态备份.pdf",
+    "bytes": 1417424,
+    "sha256": "ac23358b2e0ad3120b49535d6e459618c2b53bd4b7f06e37ec6d88a88d3d4b53"
+  },
+  {
+    "path": "听见末代皇帝_音乐赏析.pptx",
+    "bytes": 72155498,
+    "sha256": "d918161adb843bc55625fe74dfc25f81ce6c75a953b728f95bb18087974c793d"
+  },
+  {
+    "path": "图片/00035_片头题字.jpg",
+    "bytes": 93900,
+    "sha256": "08f14efa142a7b17b4494aa94ccc62a571898b303afc495433a2722d1faa7efb"
+  },
+  {
+    "path": "图片/00378_割腕.jpg",
+    "bytes": 58489,
+    "sha256": "a3d4becfd91cd5024b54d5279f3821a2c31ee88b4482883e3c72347e4f5c25ac"
+  },
+  {
+    "path": "图片/00390_首次转场.jpg",
+    "bytes": 49117,
+    "sha256": "0619a94ed43a508a74129bf50dca724662ab752fc391623b3545876fc3911e68"
+  },
+  {
+    "path": "图片/00399_回忆宫门.jpg",
+    "bytes": 59919,
+    "sha256": "9dfc8a0b7d98c1cac09eb9f5d1f49ef591afa390b0be1168e18c2cba8b777d71"
+  },
+  {
+    "path": "图片/00560_初见全景.jpg",
+    "bytes": 176426,
+    "sha256": "23625a84ba63ea7f1f0fd0298ac6c2f33b0d6d2394cbc26046f20a1329924af3"
+  },
+  {
+    "path": "图片/01640_童年奔跑全景.jpg",
+    "bytes": 110143,
+    "sha256": "3978d48c9eb4414bcd3be1811d7034a75597e06376c4c0f936b3b09f8aab91af"
+  },
+  {
+    "path": "图片/02175_追阿嬷.jpg",
+    "bytes": 42335,
+    "sha256": "961e6b9c7d56961720bd9e78812faa1a37717351dd3aec7cf3b409f135df91e8"
+  },
+  {
+    "path": "图片/02185_追阿嬷奔跑.jpg",
+    "bytes": 45698,
+    "sha256": "ff8d31885ee76843e1f4fad0a50bb5f954fcd28d6435f5deea210597e5948ea8"
+  },
+  {
+    "path": "图片/02484_庄士敦到来.jpg",
+    "bytes": 146779,
+    "sha256": "aa5ab91c25bd9f359cad7ce2c1d87c2e292ce5ca7fc0f6872aebf09eefeba0d3"
+  },
+  {
+    "path": "图片/03196_自行车.jpg",
+    "bytes": 104705,
+    "sha256": "b6fa2994ee638730b5c2813559d3f431639c2786e4e442186daa8772640bb7f2"
+  },
+  {
+    "path": "图片/04844_紫禁城离开.jpg",
+    "bytes": 65002,
+    "sha256": "3e5e2f9763901a2b62d18f6bfd811ef91f48ae9ee339a60536baa0fc4809a0a2"
+  },
+  {
+    "path": "图片/05840_雨中出门.jpg",
+    "bytes": 101402,
+    "sha256": "77ccc422817c4cad8ce00f079a11c802672753bb73c14ea4896bd0c33b805184"
+  },
+  {
+    "path": "图片/05860_雨.jpg",
+    "bytes": 55655,
+    "sha256": "1c7201226f8247d0449d64c6bd7a8454fed2756ae81be5133d0c651afe5efcd1"
+  },
+  {
+    "path": "图片/08170_追婉容.jpg",
+    "bytes": 71023,
+    "sha256": "8b3f74665203817c54912c2e0686d464952bfe9e05bf6138a06f771ecbdd7588"
+  },
+  {
+    "path": "图片/09328_重访紫禁城.jpg",
+    "bytes": 169911,
+    "sha256": "4d55ddf0ccab6c99647f5e87af0eab82f1c540eb8f5e1f80cdc4df1e8d2118e2"
+  },
+  {
+    "path": "图片/09338_重访背影.jpg",
+    "bytes": 171828,
+    "sha256": "b5aa1407fb63341500cbe1f140b1e00e38e9c98c5589c2ecd51e3b30fd7a075c"
+  },
+  {
+    "path": "图片/09385_重返龙椅.jpg",
+    "bytes": 137389,
+    "sha256": "d1dcd3721af04370d9f5dc60e057eb0a0a907c49a147e65283e2c7aa11a5df13"
+  },
+  {
+    "path": "媒体/01_片头音色.mp4",
+    "bytes": 7995333,
+    "sha256": "3d8f83cb42a6b563b90fbdb10d9e752cb403d4355d1005fce6466afdc10dedcb"
+  },
+  {
+    "path": "媒体/02_首次回忆转场.mp4",
+    "bytes": 7487163,
+    "sha256": "2d59da97c3ad2853c2c45f9e0b572c0a27c395ca7631d3adcadf5c239f43a70e"
+  },
+  {
+    "path": "媒体/03_紫禁城初见.mp4",
+    "bytes": 5408415,
+    "sha256": "c2af2cf0c275c9c6f27a2131d1027b156f73b45d20d190609289d3147fcdf116"
+  },
+  {
+    "path": "媒体/04_童年奔跑.mp4",
+    "bytes": 14409996,
+    "sha256": "ef7b660636028f27fbb0b587c8d3a3486e754f5e23a95b77f3df5d58a3a9f181"
+  },
+  {
+    "path": "媒体/05_追阿嬷.mp4",
+    "bytes": 13075177,
+    "sha256": "ae2e35fb8fc5f788bdeebbb250309b97525cbbbc5cb378f84ca86a289a68d484"
+  },
+  {
+    "path": "媒体/06_紫禁城与人群.mp4",
+    "bytes": 8109098,
+    "sha256": "7dd50d412abff17248ca913890faacd1fbbf7fd66673af6cfde5ae163fd41fa3"
+  },
+  {
+    "path": "媒体/07_自行车.mp4",
+    "bytes": 11011984,
+    "sha256": "e0548e7b9060488a680c359c9680eeebc62b3e55fe02ddd19308efbf68f505d8"
+  },
+  {
+    "path": "媒体/08_离开紫禁城.mp4",
+    "bytes": 13102119,
+    "sha256": "43164401f382cf0a4cb269dfa57968c39e956baaa6228193dd8c28e1fe3cc5d4"
+  },
+  {
+    "path": "媒体/09_雨中离开.mp4",
+    "bytes": 17808645,
+    "sha256": "5b6b3304861349916a7de9c01acce8789034fb7440eedc7ec98cd5ecce6f1dde"
+  },
+  {
+    "path": "媒体/10_追婉容.mp4",
+    "bytes": 10382312,
+    "sha256": "4d5db9539b37be3866f23c60106cce8dc3f37cf11f69eb9e4599dca02f429c7d"
+  },
+  {
+    "path": "媒体/11_枪声转场.mp4",
+    "bytes": 3836197,
+    "sha256": "abe90b5092d76f3a6da64cb870ad060f8f19a7e33958c4111c1b4174fe8c0b99"
+  },
+  {
+    "path": "媒体/12_重访紫禁城.mp4",
+    "bytes": 7805201,
+    "sha256": "c579152c66fe5d52bf00185ad7f711a266c32b9912e183511b49782dd7e454a2"
+  },
+  {
+    "path": "媒体/13_龙椅与蝈蝈.mp4",
+    "bytes": 16396985,
+    "sha256": "f09b7431bcfc9dc2c29fab5761bd964ca120372eee6bc0c005b257c420b60991"
+  },
+  {
+    "path": "媒体/音频_01.m4a",
+    "bytes": 846995,
+    "sha256": "f0aa7306bebba9c28aa93ab21b55eb182af3b8835347ee23c5d909f1ff4cb848"
+  },
+  {
+    "path": "媒体/音频_02.m4a",
+    "bytes": 727710,
+    "sha256": "72a853b76554c5869c9767e17515de7b9ed7a43e7a28da7c737447f4a6137ff1"
+  },
+  {
+    "path": "媒体/音频_03.m4a",
+    "bytes": 727745,
+    "sha256": "24012ba3435ef727d9f1fc483cebcc7dd0c1e88b36773b9a662fff229b39feb0"
+  },
+  {
+    "path": "媒体/音频_05.m4a",
+    "bytes": 608157,
+    "sha256": "b6a18034f9af6f4fc7c56511888e48c4a73a385c0ae9e4917c9e2b52471c7e6c"
+  },
+  {
+    "path": "媒体/音频_06.m4a",
+    "bytes": 729237,
+    "sha256": "1d458a4f7e3a3b274fc00d30dd4696729e8fc77770088b3024105eda8fd89bab"
+  },
+  {
+    "path": "媒体/音频_08.m4a",
+    "bytes": 727703,
+    "sha256": "f78b8d4318d42293aa74410048e21e3d91c32e2c7c3140642d7e098c60c28031"
+  },
+  {
+    "path": "媒体/音频_09.m4a",
+    "bytes": 850380,
+    "sha256": "c22e0020611a9c55ff3d80b8e8b29024ae59cd1bbf63ad1ef6716d84b44c2374"
+  },
+  {
+    "path": "媒体/音频_10.m4a",
+    "bytes": 856493,
+    "sha256": "166e29970c7becb153d84f093e718e4261812c81af3ff96bae25e9779ecff2a8"
+  },
+  {
+    "path": "媒体回放.html",
+    "bytes": 3995,
+    "sha256": "cdfa9fddda9e3318ebcf4174dc861f9b6403fd293b1815e6e689ac142b3da9c9"
+  },
+  {
+    "path": "开始阅读.md",
+    "bytes": 1943,
+    "sha256": "d70d7a4143e448271780796dd0cec71dc88b37a7b59fc591414f865f06b6e40c"
+  },
+  {
+    "path": "片段与现场顺序.md",
+    "bytes": 1935,
+    "sha256": "d7a07c785edcf3f8718d99b49156ba154ad0c4d4464cfaa970881b0bc1d28282"
+  },
+  {
+    "path": "离线展示.html",
+    "bytes": 26862,
+    "sha256": "27f7af46a8dd2fee250de62858a142d4083e54d5c2c193530c32ecfe57305e37"
+  },
+  {
+    "path": "课程群标题与大纲.md",
+    "bytes": 880,
+    "sha256": "681ede5d9163fca231780d971b487d68fe89bcd0b1ab6612cb9bdfc219de0531"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "time": "2026-10-19T17:24:55.363629+08:00",
+  "slides": 28,
+  "pdf_pages": 28,
+  "source_text_notes_match": true,
+  "native_powerpoint_media": 12,
+  "visual_review": "28页已逐页检查；更换封面与第7页配图后再次检查这两页",
+  "html_syntax_and_28_mock_render": true,
+  "audio_full_decode": 8,
+  "video_reused_full_decode_previous": 13,
+  "music_and_creation_slides": "8—24页，共17页",
+  "budget_minutes": 36.2,
+  "media_seconds": 687,
+  "limits": [
+    "实际听辨、真实点击播放和课堂设备排练未完成",
+    "照片中的具体乐器、调式和跨片旋律关联未直接当成已证实结论"
+  ]
+}
