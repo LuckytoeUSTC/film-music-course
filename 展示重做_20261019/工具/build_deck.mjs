@@ -23,6 +23,7 @@ for(let i=0;i<data.length;i++){
  const images=(d.images||[]).map(f=>path.join(root,'截图',f));
  if(d.layout==='cover'){
   await image(s,images[0],0,0,1280,495);
+  if(d.media)media.push({slide:i+1,name:'MEDIA_'+i,file:d.media,kind:'video'});
   text(s,d.title,60,535,1160,75,56,paper,true);
   text(s,d.subtitle,62,625,1160,50,32,gold);
  }else{

@@ -26,7 +26,7 @@ try {
   }
   if ($i -eq 9) {for($k=0;$k -lt $d.body.Count;$k++) {$texts[$k+1].TextFrame.TextRange.Text=$d.body[$k]}}
   # Native slide footer is the last text shape.
-  $texts[-1].TextFrame.TextRange.Text=('{0:00}' -f $i)
+  if ($i -ne 1) {$texts[-1].TextFrame.TextRange.Text=('{0:00}' -f $i)}
   $found=$false
   foreach($shape in $slide.NotesPage.Shapes) {
    if($shape.Type -eq 14 -and $shape.PlaceholderFormat.Type -eq 2) {
