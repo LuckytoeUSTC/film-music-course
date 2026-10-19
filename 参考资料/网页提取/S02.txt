@@ -1,0 +1,3349 @@
+--- PDF第1页 ---
+ 
+ 
+ 
+UNIVERSITÀ DEGLI STUDI DI PADOVA 
+ 
+Dipartimento dei beni culturali: 
+Archeologia, storia dell’arte, del cinema e della musica 
+ 
+ 
+Corso di laurea in Scienze dello spettacolo e  
+produzione multimediale 
+ 
+ 
+ 
+Tesi di laurea magistrale 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Harmony in Motion: Exploring the Cinematic Soundscapes of 
+Ryuichi Sakamoto 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Relatore:                                                                                                                                      Laureanda: 
+Prof. Denis Brotto                                                                                                Oksana Venzheha 
+ 
+2044780 
+ 
+ 
+ 
+Anno Accademico 2023/2024 
+ 
+ 
+ 
+
+
+--- PDF第2页 ---
+2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF第3页 ---
+3 
+ 
+Contents 
+ 
+Introduction…………………………………………………………………………………… 5 
+ 
+Chapter I. Film Music Overview: Its Role in Cinema and Examination of Relevant Theories  
+And Frameworks in Film Music Analysis 
+1.1. Music Application Dichotomy Concerning its Function in Film………………………… 8 
+1.2. Sergio Miceli’s Method of Levels……………………………………………………….. 11 
+1.3. The “Audio-Vision” of Michel Chion…………………………………………………… 14 
+1.4. Audiovisual Chord of Martine Huvenne………………………………………………… 16 
+ 
+Chapter II. Biographical Overview of Ryuichi Sakamoto 
+   2.1. Overview of Sakamoto's Life, Career, and Musical Influences………………………… 18 
+   2.2. Exploration of Sakamoto's Contributions to Film Music……………………………….. 22 
+   2.3. The Philosophy of the Music of Sakamoto……………………………………………... 25 
+ 
+Chapter III. Analysis of Selected Film Scores 
+ 3.1. Collaboration of Ryuichi Sakamoto with Bernardo Bertolucci………………………… 28 
+3.1.1. The Last Emperor (1988)………………………………………………………… 30 
+3.1.2. The Sheltering Sky (1990)………………………………………………………... 45 
+3.2. Derrida (2003)………………………………………………………………………… 59 
+3.3. The Staggering Girl (2019)……………………………………………………………. 64 
+3.4. Minamata (2020)………………………………………………………………………. 69 
+ 
+Chapter IV. Exploration of Sakamoto's Innovative Approaches and Influences 
+ 
+    4.1. Identification of Unique Features and Contributions of Sakamoto's Film Music………. 80 
+ 
+Bibliography…………………………………………………………………………………… 87 
+ 
+Filmography...............................................................................................................................  89 
+ 
+Figures.......................................................................................................................................... 90 
+ 
+ 
+
+
+--- PDF第4页 ---
+4 
+ 
+ 
+Abstract: 
+ 
+ 
+This master’s thesis explores the multifaceted career of Ryuichi Sakamoto with a particular focus 
+on his contribution to film music. The study begins with providing an overview of the role of music 
+in cinema and relevant theories, introducing methodologies of Sergio Miceli, Michel Chion, and 
+Martine Huvenne, which I selected for in-depth analysis of composer’s film scores. The second 
+chapter presents a short biographical overview of the composer’s life and artistic portrait 
+uncovering the stylistic and thematic evolution in his compositions. The third chapter analyzes the 
+development of Sakamoto’s film music career through selected five films of different genres in 
+collaboration with Bernardo Bertolucci, Amy Ziering and Kirby Dick, Luca Guadagnino, and 
+Andrew Levitas, ending with identifying the fundamental sonic features of the composer’s music. 
+In general, the case studies of the films explore how his music signatures affect narratives, 
+characters, diegetic and non-diegetic spaces, and viewer engagement.  
+ 
+ 
+ 
+ 
+Questa tesi magistrale esplora la poliedrica carriera di Ryuichi Sakamoto con particolare 
+attenzione al suo contributo alla musica da film. Lo studio inizia fornendo una panoramica del 
+ruolo della musica nel cinema e delle teorie pertinenti, introducendo le metodologie di Sergio 
+Miceli, Michel Chion e Martine Huvenne, che ho selezionato per un'analisi approfondita delle 
+colonne sonore del compositore. Il secondo capitolo presenta una breve panoramica biografica 
+della vita e del ritratto artistico del compositore scoprendo l'evoluzione stilistica e tematica nelle 
+sue composizioni. Il terzo capitolo analizza lo sviluppo della carriera musicale per film di 
+Sakamoto attraverso cinque film selezionati di generi diversi in collaborazione con Bernardo 
+Bertolucci, Amy Ziering e Kirby Dick, Luca Guadagnino e Andrew Levitas. La tesi si conclude 
+nel quarto capitolo con l'identificazione delle caratteristiche sonore fondamentali della musica del 
+compositore. In generale, gli studi dei film selezionati esplorano il modo in cui il tocco di Ryuichi 
+Sakamoto influenza le narrazioni, i personaggi, gli spazi diegetici e non diegetici e il 
+coinvolgimento dello spettatore attraverso le sue composizioni. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF第5页 ---
+5 
+ 
+ 
+ 
+ 
+Introduction 
+ 
+    Ryuichi Sakamoto, a prolific composer, musician, and innovator in the world of contemporary 
+music, has made significant contributions to the realm of film music. Speaking of his career as a 
+free music artist, he left behind a huge and diverse legacy and was noted in almost all musical 
+movements that have excited minds in the last half-century. Free jazz, synth-pop, electro-funk, 
+ethno-fusion, neoclassical, ambient, noise, and Japanese flute opera can all be found in his 
+extensive portfolio. Sakamoto liked to forge unexpected creative alliances: his collaborative list, 
+stunning in its size and quality, includes famous musicians from completely different worlds - 
+from rock idols like David Sylvian, David Byrne, and Iggy Pop to electronic experimenters Alva 
+Noto and Arca. This master's thesis delves into the multifaceted career of Ryuichi Sakamoto as a 
+film composer, analyzing his distinctive approach to crafting film scores and the profound impact 
+of his work on the cinematic landscape.  
+ 
+    The study begins by overviewing the role of music in cinema and examining relevant theories 
+and frameworks in film music analysis to select a suitable methodology and introduce the reader 
+to it. This methodology described in this chapter will be applied to provide a further analysis of 
+the scores for the selected films. 
+ 
+    In the next second chapter, a short biographical overview followed by the artistic portrait of the 
+composer consisting of his musical influences, attitudes, and ideas can be found. This part is 
+necessary to recreate the context in which Ryuichi Sakamoto was creating his sonic works 
+considering his highly diverse and eclectic style.  
+ 
+    The third chapter is analytical and it traces the evolution of Sakamoto's film music career, from 
+his early forays in collaboration with the renowned filmmaker Bernardo Bertolucci to his later 
+engagements with contemporary directors. In the first part of this chapter, I will explore his 
+collaboration with the Italian director Bernardo Bertolucci for his two films: The Last Emperor 
+(1988) and The Sheltering Sky (1990). Then I will examine his sonic interpretation of the 
+documentary film Derrida (2003) directed by Amy Ziering and Kirby Dick, followed by his 
+collaboration with Luca Guadagnino for his short film The Staggering Girl (2019) and with 
+Andrew Levitas for Minamata (2020). The choice of films is chronological and is not based on the 
+level of success or recognition, instead, it is driven by the goal of highlighting the stylistic and 
+
+
+--- PDF第6页 ---
+6 
+ 
+thematic transformation of the composer, and the creative evolution of his role within the film 
+industry.  
+ 
+    In the next fourth chapter, I will extract and identify the unique features of his style by 
+examining case studies of selected films and the cultural relevance of his music. This study aims 
+to investigate the profound influence of Ryuichi Sakamoto's film music on the broader cinematic 
+experience. By analyzing case studies of selected films from the third chapter, this thesis explores 
+how Sakamoto's unique sonic signatures have left an indelible mark on the narrative, characters, 
+and overall viewer engagement. It also delves into the impact of his work on other film composers 
+and the evolving landscape of film scoring. 
+ 
+    In summary, this master's thesis takes a close look at Ryuichi Sakamoto's career in film music. 
+It examines how his music has changed over time, what features make it unique, and how it has 
+affected the world of filmmaking. By looking at it from different angles, this study helps us better 
+understand how film music works, how different types of music come together in audiovisual 
+work, and how music can deeply affect the way stories are told and culture is expressed. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF第7页 ---
+7 
+ 
+ 
+ 
+ 
+ 
+Chapter I. Film Music Overview: Its Role in Cinema and Examination of Relevant 
+Theories and Frameworks in Film Music Analysis 
+ 
+ 
+    The roots of film music can be traced back to the era of silent movies. During this time, motion 
+pictures lacked audible dialogue, and the only auditory component was the accompanying music. 
+It was crucial because the absence of music would have left the cinematic experience feeling 
+incomplete. The music played a pivotal role in accentuating the narrative. In theaters, musicians 
+would often improvise on the piano or organ to provide the musical backdrop for the film. This 
+period marked the birth of film music, where music emerged as a driving force in enhancing 
+cinematic storytelling. 
+    To provide research on film music a scholar needs to grasp at least two nonverbal systems of 
+communication such as visual and audial. Music differs from the visual by being a more abstract 
+mean because it is a less direct sensorial experience. This also implies that it is not always obvious 
+what the source of a sound in a film is, which results in viewers being less conscious about the 
+audial part of a movie. A professional composer counts on it while scoring a film. Indeed, because 
+of its high subjectivity, it is hard to speak about music without involving metaphors.      
+    Despite film scholars closely examining its extensive history and challenges, film music, often 
+seen as a less central topic in musicology, has received only brief attention. As stated by Martin 
+Marks in his research, “Musicology is a little older than film itself and has emphasized the 
+historical study of Western fine art and folk idioms, along with the ethnological study of music in 
+other cultures; relatively little attention has been given to recent music in the professional and 
+popular idioms-the idioms through which film music usually communicates.”1 
+    Different film genres have their unique musical conventions or styles, resulting in distinct 
+soundscapes for each genre. Westerns, horror films, romantic melodramas, war films, and other 
+genres all have their own characteristic musical elements that set them apart in terms of sound. In 
+spite of the existence of conventions, there is no right or wrong way to score a film and it always 
+depends on the artistic vision of the filmmaker and the composer working together on a certain 
+artistic idea.  
+ 
+ 
+                                                     
+1 Marks, Martin. Film Music: The Material, Literature, and Present State of Research, “Notes”, vol. 36, no. 2, 1979, 
+p. 283. 
+
+
+--- PDF第8页 ---
+8 
+ 
+ 
+ 
+ 
+1.1. Music Application Dichotomy Concerning to Its Function in Film 
+    In the first experimental films of soviet directors such as Sergei Eisenstein, Vsevolod Pudovkin, 
+and Grigoriy Alexandrov, the sound had to be directed along the line of its distinct non-
+synchronization with the visual image. This reformation accelerated the use of contrapuntal and 
+asynchronous sound from then on. With the development of film technologies, more scholars 
+started to write about naturalistic uses of sound2. Gradually these tendencies led to more 
+naturalistic musical accompaniments in films, a program music made of abstract and natural 
+sounds, as well as the phenomenon of “symphonies” of noise and a series of symphonies of the 
+big city.  
+ 
+    One of the scholars who contributed greatly to studying the relationship between film music and 
+montage was Hanns Eisler (1898-1962). He saw montage as a uniting force between music and 
+pictures and stated that the relation between music and pictures is diametrically opposed exactly 
+at the moment of the deepest unity; this is due to many contradictions in this interconnection. 
+Unlike Eisenstein, he was attributing a semantic and psychological meaning to film music, instead 
+of considering it to have a merely technical function of expressing the rhythm of a motion. This 
+view on the aesthetics of film music is close to the vision of Vsevolod Pudovkin, in whose works 
+music had to keep an independent line and not be just an accompaniment. Pudovkin supported this 
+opinion by expressing3 an idea that an accompaniment to the visuals would give only the 
+superficial aspect of the scene and the undertones of meaning would be ignored. In sound films, 
+sound and image can be used in various ways to create a contrast, and this contrast is essential to 
+go beyond simple realism and unlock the deeper meanings that sound can convey.  
+    Hanns Eisler, in his treatment Composing for the Films written in collaboration with Theodor 
+Adorno, explains that “illustrative use of music today results in unfortunate duplication. It is 
+uneconomical, except where quite specific effects are intended, or minute interpretation of the 
+action of the picture. The old operas left a certain amount of elbowroom in their scenic 
+arrangements for what is vague and indefinite; this could be filled out with tone painting. The 
+music of the Wagnerian era was a means of elucidation. But in the cinema, both picture and 
+dialogue are hyper-explicit. Conventional music can add nothing to explicitness but instead may 
+                                                     
+2 Rudolf Arnheim published his theory of Film als Kunst; Bela Balazs stressed film's naturalistic character when 
+combined with sound, in his own treatise, Der Geist des Films. 
+3 Pudovkin, Vsevolod, Film Technique and Film Acting, trans. and ed. Ivor Montagu, New York: Grove Press, 1960, 
+p. 190. 
+
+
+--- PDF第9页 ---
+9 
+ 
+detract from it, since even in the worse pictures standardized musical effects fail to keep up with 
+the concrete elaboration on the screen action. … Musical illustration should either be hyper explicit 
+itself – over illuminating, so to speak, and thereby interpretive – or should be omitted.”4  
+    For around twenty years, the film composers in Hollywood preferred other techniques like 
+illustration, and parallelism, which simply repeated what was visible on screen, instead of 
+counterpoint. Often the music was tasked with concealing imperfections in the film and ensuring 
+the success of productions at the box office. The composers in Europe had a more experimental 
+approach to film music. For instance, Maurice Jaubert thought that music in movies should not 
+just follow the actions or synchronize for no reason. He believed that the job of a film musician 
+was to feel when the movie's story moved away from being strictly realistic and needed the artistic 
+touch of music. He wanted music to help the viewer feel the rhythm of the scenes without spelling 
+out their emotions or drama too obviously. According to him, music should support the movie 
+behind the scenes, making scene changes and references easier to understand, without being too 
+noticeable. 
+ 
+    Canadian director Roger Spottiswoode delineated the functions of film music for the early 
+thirties:  
+1. imitation of natural sounds or the tonal use of speech; 
+2. commentary of the visual in a film, often with irony; 
+3. evocation, in which the score is often synchronized, silence and sound are deliberate, and 
+leitmotifs serve as emotional cues and help the visual provide a deeper understanding of 
+the characters they are associated with; 
+4. contrast of the score with the visual to enhance the effect of the visual; 
+5. dynamic use, when the alignment of what we see and what we hear highlights the pacing 
+and tempo of editing. 
+ 
+Aaron Copland in his turn 5 expanded the theory of the functions of music in film into another 
+five important features:  
+1. setting the atmosphere of time and place  
+2. psychological fundamentals 
+3. neutral filling-in of dialogue gaps  
+4. preserving consistency 
+5. building climaxes and conveying a feeling of closure 
+                                                     
+4 Hanns Eisler, Theodor Adorno. Composing for the Films, New York, Oxford University Press, 1947, pp. 7-8. 
+5 Aaron Copland, What to Listen For in Music, New York, The New American Library, 1963, pp. 154-155. 
+
+
+--- PDF第10页 ---
+10 
+ 
+ 
+The feature that all of the theorists definitely share is the psychological function of music, which 
+refers to how music is used to evoke emotions, enhance the audience's emotional connection to 
+the story, characters, and scenes, and convey underlying psychological elements such as tension, 
+suspense, or mood. Music in film can guide the perception of the viewers, and deepen their 
+engagement with the narrative and characters. Siegfried Kracauer, a prominent film theorist and 
+critic in his treatment of The Theory of Film, has synthesized this conclusion. His theory gathered 
+the ideas and aesthetic views of all major film composers before him and of his time and resulted 
+in a quite comprehensive structured explanation of the functions of film music. 
+ 
+A functional taxonomy of film music by Siegfried Kracauer: 
+ 
+As we can see from the table above, the psychological function appears first and gets more 
+complex with each point as it is mixed with the technical functions. This line of thought brings us 
+to the conclusion that the artistic concept, inherently deeply rooted in psychology as it directly 
+interacts with the psyche of the audience, takes precedence over all other considerations. There is 
+not a singular, universally correct method for composing film music because the approach always 
+hinges on the specific artistic concept that filmmakers aim to communicate. In other words, the 
+
+
+--- PDF第11页 ---
+11 
+ 
+choice of how to compose music for a film should align with and enhance the psychological and 
+emotional aspects of the artistic vision, and this can vary widely from one film to another. As 
+Douglas Gallez concludes for his time in an article from 1970 about film music theories for Cinema 
+Journal6: “Terminology varies; semantic problems occasionally intervene. The foregoing 
+principles appear to be established. Yet there may be others. The world of film is so varied that 
+one would indeed be bold to circumscribe the possibilities for music. There are all kinds of films 
+and many kinds of music. Theatrical pictures are increasingly experimental, and film music styles 
+are having to keep pace. We are in a period of neo-Dada, of anti-rationality. Because the arts of 
+music and film are heavily involved in the game of chance encounter, it may be that the aesthetic 
+principle for our time is no principle at all. Random happenings will be sought or rather, allowed. 
+To some of us, this means chaos. Maybe it is because the possibilities are so great we cannot 
+comprehend them.” 
+ 
+ 
+1.2. Sergio Miceli’s Method of Levels  
+    It would not be completely correct to analyze film music the same as music written 
+independently because film music is presented in a narrative context and is meant to be heard along 
+with the story. That is why it is so important to approach the analysis in a complex with the 
+screenplay and montage. The most accurate and comprehensive theory of film music so far has 
+been elaborated by a musicologist Professor Sergio Miceli that has also been commented on and 
+approved by the praxis of such a great film composer as Ennio Morricone, and documented in the 
+treatment Composing for the Cinema: The Theory and Praxis of Film Music.  
+ 
+    In Miceli’s theory, the accompaniment type of music is distinguished from the commentary type. 
+The first one primarily emphasizes and complements the film through basic musical elements like 
+sound effects and relies on simple musical conventions. In contrast, the commentary type goes 
+beyond this and serves to interpret the narrative and symbolic aspects of the film in a more nuanced 
+and complex way. The commentary music possesses its own distinct quality and formal logic, 
+which may not always align with the visual aspects of film. In some cases it can diverge 
+significantly, involving asynchrony or decontextualization with the visuals, and then, the score 
+makes a meaningful part of a film’s symbolic language and can simultaneously refer to itself as an 
+independent entity.  
+ 
+                                                     
+6 Douglas Gallez. Theories of Film Music, “Cinema Journal”, Vol. 9, No. 2, Spring, 1970, p. 46. 
+
+
+--- PDF第12页 ---
+12 
+ 
+    Speaking of accompaniment music, Miceli divides it into more subtypes and crystalizes the idea 
+of synchronization points between music and film. These points distinguish between two types:  
+⮚ Implicit: in which the music maintains its independent course but makes subtle 
+adjustments in response to film events. ‘The implicit synch point underlines sentiments 
+more than events, thoughts more than actions. The modification can be rhythmic in nature 
+(a momentary suspension in the flow or its rippling), harmonic (a cadential pattern, 
+actually suspended, irresolute, a dissonance on the inside of a complex mixture, a 
+harmonic thickening and clarification due to a series of instrumental doubles) or timbral 
+(the entry of an instrument or a section, a unison, a jump in register). Every case remains 
+coherently within the interior logic of the musical composition.’7 
+⮚ Explicit: the moments when the music and image align in an obvious manner often 
+emphasized by such musical means as a crescendo, chord holding, or rhythmic changes. 
+The explicit way of scoring in some cases can get near to so-called “mickey mousing” (a 
+term that we have already encountered in Kracauer’s taxonomy and indicates the 
+exaggerated imitation). Such points are very often used in comic genres and rarely by the 
+protagonist of this thesis, Ryuichi Sakamoto.  
+ 
+    Following the narrative point of view, linguistic and semiological methodology, Miceli 
+establishes his method of levels. Instead of two levels developed before by other scholars from the 
+Platonic concepts of “diegesis” and “mimesis”8  pointing us into two musical categories – diegetic 
+and extra-diegetic9 –, Miceli approaches three levels of musical involvement: internal, external, 
+and mediated. Here is a schematic description of the levels from the book of Miceli10: 
+ 
+                                                     
+7 Sergio Miceli, Ennio Morricone. Composing for the Cinema: The Theory and Praxis of Film Music, Scarecrow 
+Press, 2013, p.76. 
+8 Diegesis refers to the pure story, or the point of view of the omniscient narrator, and mimesis to the story taken 
+from the point of view of the characters. 
+9 Diegetic involves a tangible musical presence within the film's narrative. 
+  Extradiegetic typically refers to musical commentary or music that exists outside the immediate narrative context. 
+10 Ibid., p. 93. 
+
+
+--- PDF第13页 ---
+13 
+ 
+ 
+ 
+    Sergio Miceli defines the internal level as “particularly dear to those directors who have a 
+radical, documentary conception of the cinema, or who see the cinema first of all as an ideological 
+vehicle”, and according to him, “they have therefore a "little or nothing at all" aestheticism and 
+hide in the expedients of a consolatory spectacularity as an end in itself”.11 
+ 
+    While the internal level is quite clear to comprehend, the external and mediated levels are 
+slightly more complicated. The external level is more artificial in nature and openly reflects the 
+poetic meaning of a work of art and the intention of the director and composer. It works as a 
+revelation from the author’s perspective. In fact, it is similar to the principle of the leitmotiv 
+system, as the music on this level is usually thematically rich and gets linked to a character or 
+certain scene. In contrast to the internal level, which lacks the author’s presence, the external level 
+is a deliberate musical choice of the authors that represents the aesthetic proposal and this choice 
+becomes a part of the moral story and in some cases can even take on the primary role in the story. 
+It is on this level that asynchronous musical use can be applied to reflect a deliberate artistic 
+concept. 
+ 
+    The mediated level goes beyond objective measures and has a semiotic function; it plays a 
+significant role in the development of the narrative and it works similarly to the narrating voice 
+that we perceive as a stream of consciousness, it is a substitute for the verbal language with the 
+                                                     
+11 Miceli, Sergio. Miceli’s Method of Internal, External, and Mediated Levels: Elements for the Definition of a Film-
+Musical Dramaturgy. “Music and the Moving Image”, vol. 4, no. 2, 2011, p. 6. 
+
+
+--- PDF第14页 ---
+14 
+ 
+musical one. As explained by Miceli: “…the mediated level is to the soundtrack as the subjective 
+shot is to shooting technique. The subjective shot forces the spectator to identify with the point of 
+view of the character.”12 … “In the manifestation of an episode [with music] ascribable to the 
+mediated level, the spectator has the privilege of listening to the inner thoughts or perceptions of 
+the character. It is a procedure like that of the voice-over, with the difference that instead of 
+listening to words, one listens to music. Naturally, they cannot be thoughts in the form of verbal 
+organization but [have to be] emotions in a pure state, and obviously [there is] nothing better, more 
+capable, than music to express them.”13 Therefore, to conclude, it is a situation in the film when 
+the character expresses themselves through music. 
+ 
+ 
+1.3. The “Audio-Vision” of Michel Chion 
+    Another prominent figure in film music studies is French film theorist and musician Michel 
+Chion. His concept of “audio-vision” delves into the intricate connections and interactions 
+between what we see and what we hear in audiovisual works. He did not consider only the form 
+of classical film storytelling but also video art and music video clips. Some of the key aspects of 
+his concept from the book are the synesthetic experience, audiovisual contracts, added-value 
+sound, audio-vision as an art form, etc. Michel Chion explores how sound and image can create a 
+synesthetic experience where the senses of hearing and seeing are intertwined, and how this 
+combination can provoke emotions, meanings, and sensory experiences. He proposed the idea of 
+“contracts” that work like an unspoken agreement between filmmakers, actors, and the audience, 
+which influence our perceptions and interpretations of audiovisual works. In other words, it 
+suggests that the audience willingly suspends the disbelief and accepts the constructed reality 
+presented in audiovisual works.   
+ 
+    The idea of added-value sound emphasizes the significant role of sound in enhancing and 
+amplifying the emotional impact of images. He argues that sound can provide layers of meaning 
+and depth to visual storytelling.14 Chion views audio-vision as an art form in its own right, distinct 
+from both music and traditional visual art. He highlights the artistic possibilities that arise when 
+sound and image are combined and synchronized to create a unified sensory experience. He draws 
+from semiotics to explore how audio-visual works can convey meanings, symbolism, and artistic 
+expression. He examines the interplay between signs, codes, and cultural contexts in the audio-
+                                                     
+12 Ibid. p. 16. 
+13 Ibid., p.16. 
+14 Cfr. Michel Chion, Audio-Vision: Sound on Screen, edited and translated by Claudia Gorbman, New York, 
+Columbia University Press, 2019. 
+
+
+--- PDF第15页 ---
+15 
+ 
+visual realm.  
+ 
+    From sound and video art, his work extends into film soundtrack and the music’s contribution 
+to the narrative, mood and themes of a film. In his research, he concludes that the starting point 
+here is language and, for this reason, he borrows the term “acousmatic” (from the Greek word 
+akousmatikoi (ἀκουσματικοί)15 from Pierre Schaeffer about the use of off-screen sound in film. In 
+easy words, this term describes the sounds whose sources are not visible on-screen. Therefore, for 
+the analysis of the relationship between music and visuals, semiotics, as a science of 
+communicative systems and signs used in the process of communication, becomes fundamental. 
+Analyzing film music according to Michel Chion is possible starting with identifying these 
+acousmatic sounds and analyzing how they contribute to the narrative. Chion focused on noise — 
+word, sound—image relationships, emphasizing that film analysis is still influenced by ideas from 
+the time of silent cinema, such as the notions of “shot” and “editing”. Consequently, he introduced 
+the concept of cinema as a form of sound art, portraying it as a sophisticated audio-visual apparatus 
+where reality coexists with the simulated.  
+    According to Chion, in cinema, there are two ways the acousmatic situation can happen. In the 
+first way, we see the sound source first and then it becomes an acousmatic sound. In the second 
+way, the sound starts as acousmatic, meaning we cannot see the source of it, and then it is revealed 
+later. In the first case, we connect the sound with a specific image right away. He calls this 
+“visualized sound”. It becomes a real sound linked to an image and therefore demythologized. In 
+the second case, the veiled sound creates a feeling of tension and suspense, and the source is only 
+shown after. This is often applied in mystery and suspense-based cinema and has the effect of de-
+acousmatising the initially hidden source of the sound. Chion explains that the difference between 
+"visualized" and "acousmatic" is crucial for understanding the idea of off-screen space in films.  
+ 
+    Audio-visual relationships are also crucial for the analysis with the method of Chion. In order 
+to consider how sound and image interact, Chion proposes three categories of audio-visual 
+relationships: synchronous (sound matches the action on-screen), asynchronous (sound contrasts 
+with the image or complements it), diegetic/non-diegetic relations (how sounds relate to its on-
+screen sources).16 Apart from the on-screen sound, comes the off-screen. Chion emphasized the 
+importance of off-screen sound in creating suspense and tension. Sounds from outside the frame 
+can frame the viewer’s perception and this can be analyzed.17 The viewer’s spatial awareness is 
+                                                     
+15 Ibid., chapter 2. 
+16 Ibid., chapter 3. 
+17 Ivi. 
+
+
+--- PDF第16页 ---
+16 
+ 
+formed by sound perspective, with which Chion refers to the placement of sounds in relation to 
+the visual field.18 
+    Another crucial point is audio-visual dissonance. The moments in which sound and image do 
+not align harmoniously can be intentional and convey specific meanings or emotions, prolonging 
+the film’s virtual space.19 Chion introduced three modes of listening to the sounds: causal, 
+semantic and reduced. Analyzing which mode is dominant in specific scenes can tell more about 
+how it influences the viewer’s experience. Causal listening involves understanding sounds in a 
+film as coming from a visible or implied cause within the narrative. It is about identifying the 
+source of the sound and linking it to a specific action or object on the screen. In semantic listening 
+mode, listeners interpret sounds in terms of their symbolic or metaphorical meaning, as they are 
+not just heard as physical occurrences but are also understood as conveying emotions, ideas, or 
+cultural associations. Reduced listening involves focusing on the qualities of the sound itself rather 
+than its source or its symbolic meaning. It is about experiencing sound as a pure phenomenon, 
+paying attention to its timbre, pitch, rhythm, and other acoustic properties. 
+    According to Chion, the timing of sound creates an emotional impact, and examining it relates 
+to the temporal structure of the film. Apart from the temporal relationships, the sound editing 
+choices and juxtaposition of different sounds as well as silences and the overall rhythm of the 
+soundtrack can be helpful points to start an analysis with, focusing on the intricate relationships 
+between sound and image in cinema.  
+ 
+1.4. Audiovisual Chord of Martine Huvenne 
+   In 2022 Martine Huvenne, lecturer and researcher on Sound and Music for Film at the 
+Conservatory of Ghent, published her book in which she explained the concept of audiovisual 
+chord. Similar to Michel Chion, it refers to a synergy between visual elements and musical or 
+sound components in a film, creating a unified and impactful moment that deeply engages the 
+audience’s sensory experiences. This concept goes beyond the mere alignment of sound with 
+visuals, it involves a sophisticated blending where the combination of audio and visual elements 
+produces a meaning, emotion or sensation that is greater than the sum of its parts. She invites us 
+to reflect on a sound as a dynamic movement. 
+    “Neither a “container” of content nor a pointed actual moment, the audiovisual chord enables 
+a superimposition of spaces and places in image, /sound/, music and speech in a poly-chronic 
+context. It is a dynamic multisensorial knot of movements which can be experienced and perceived 
+from different perspectives, and whose intervals invite the audience to participate in the film’s 
+                                                     
+18 Ivi. 
+19 Ivi.  
+
+
+--- PDF第17页 ---
+17 
+ 
+dance of image and sound”, explains Martine Huvenne in her work. 20 
+    An audiovisual chord can be thought of in terms of music—just as a chord is a set of notes that 
+produce a specific sound when played together, an audiovisual chord combines sound and image 
+to create an amplified emotional or narrative effect. This results in embodied listening and can 
+occur in several ways: through emotional amplification, symbolic association, sensory immersion, 
+rhythmic and temporal alignment. The embodied listening can be decomposed to such elements 
+as felt sound, kinesthetic experience, and inner time-consciousness. Our five senses serve us to 
+create a filmic space within us. 
+ 
+    Emotional amplification means that music can heighten the emotional content of a visual 
+scene, such as a soaring orchestral piece accompanying a triumphant moment, or a dissonant, tense 
+score underscoring a scene of suspense or fear.  
+     Certain sounds or musical motifs can become associated with specific characters, locations, or 
+thematic elements, creating a symbolic language that enriches the film’s narrative. This is a 
+symbolic association. When these motifs are paired with corresponding visual elements, they 
+form audiovisual chords that evoke deeper layers of meaning. Sensory immersion works through 
+the combination of sound and visuals that creates an immersive experience that draws viewers 
+more deeply into the film’s world. For instance, the use of ambient sounds and music that matches 
+the visual setting, like the sound of waves paired with the visuals of the ocean, can enhance the 
+sensory realism of a scene.  
+The editing of visuals in rhythm with the music or sound can create a dynamic and engaging 
+experience. This synchronization is achieved through rhythmic and temporal alignment. It is 
+especially used to make action sequences more thrilling or give a poetic quality to more 
+contemplative scenes.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+20 Martine Huvenne, The Audiovisual Chord: Embodied Listening in Film, Singapore, Springer Verlag, 2023, pp. 
+158-159. 
+
+
+--- PDF第18页 ---
+18 
+ 
+ 
+Chapter II. Biographical Overview of Ryuichi Sakamoto 
+ 
+ 
+   2.1. Overview of Sakamoto's Life, Career, and Musical Influences 
+    Japanese composer Ryuichi Sakamoto, born in 1952 in Tokyo, creates an image of a humble 
+and sensitive person who did not like to speak about his life in public, as he stated in many 
+interviews. Taking this into account, and the fact that there are no monographic works on 
+Sakamoto’s life, I would like to dedicate this chapter to his formation as a film composer and have 
+a close look at his musical influences. As the main source of information, I will use the recent 
+documentary films Ryuichi Sakamoto: Coda (2017) and Ryuichi Sakamoto | Opus (2023). As well 
+as the films, I will analyze the interviews he gave to various journalists during film festivals, in 
+which he shared his views on composing, social issues, activism, some of his personal experiences 
+in the field, and other things that can be useful for the research and the following analysis of his 
+works. 
+ 
+    The art of Sakamoto is quite particular as it is a fusion of two worlds – Western and Eastern. 
+Many genres passed through his prism of view on music, the most notorious ones are jazz, avant-
+garde, pop music, bossanova, neoclassical, electronic, free improvisation, and others. It is 
+important to note that the composer’s affinity for music did not solely depend on categorical 
+distinction or genres; rather, his preferences are rooted in the inherent qualities of individual 
+compositions, irrespective of genre. The key to understanding his sonic art lies in being open to 
+the diversity that led to the development of musical metalanguage that has been employed and 
+crafted by Sakamoto.  
+ 
+    He obtained a Bachelor’s degree in music composition and pursued a Master’s degree, focusing 
+extensively on electronic music and ethnic music at the Tokyo National University of Fine Arts 
+and Music. His academic journey included a deep dive into ethnomusicology as he aspired to 
+become a researcher in this field. This knowledge was also useful in his film music career when 
+he had to research musical material that was very far from his own culture in order to provide the 
+music and soundscape for the narratives set for instance in North Africa21 or China22.  Inspired by 
+the German electronic synth band Kraftwerk, he continued to explore the boundaries of electronic 
+music. In 1977, Ryuichi Sakamoto, along with Haruomi Hosono and Yukihiro Takahashi, 
+                                                     
+21 In The Sheltering Sky (1990). 
+22 In The Last Emperor (1987). 
+
+
+--- PDF第19页 ---
+19 
+ 
+collaborated as session musicians, which led to the formation of their widely acclaimed electronic 
+band Yellow Magic Orchestra (YMO) in 1978. Their groundbreaking contributions to electronic 
+music, spanning electropop, synthpop, cyberpunk, ambient house, and electronica have left an 
+enduring mark. Their influence extends across diverse genres, including hip-hop, techno, acid 
+house, and various melodic musical styles the reflections of which we can find in further works of 
+the composer. In his life, both creative and personal, his priority was freedom. For this reason, 
+Yellow Magic Orchestra was the only band he has ever joined out of a deep respect for the two 
+musicians. After that, he went for a solo career, as he wanted to be himself in his creative 
+expression. He has managed to create something for every single audience that has a different 
+palette. 
+ 
+    One of the most influential musical movements that has significantly shaped Sakamoto’s 
+musical aesthetics is American minimalism, exemplified by such artists as John Cage, Steve Reich, 
+Terry Riley, Philipp Glass, La Monte Young, and several others. Even though the focus of 
+minimalism in its essence goes into the repetitions of melodic and rhythmic patterns, Sakamoto 
+confessed that for him it is more about the color of music, speaking with terminology, it is about 
+timbre. Even though the piano is the closest instrument to him, we can notice that the compositions 
+of Sakamoto are often quite abstract in terms of form and melody because he liked to experiment 
+with the instruments and their timbres. Being also a sound designer and a Foley artist, he often 
+tried not traditional ways of extracting sound out of the instruments, using objects like stones, 
+pieces of glass, Tibetan singing bowls with a violin bow, and others. He was using his smartphone 
+every day to record the sound of streets and nature. The artist tended to minimalism because of the 
+details and the attention that goes to the timbre of instruments, rhythms, and other non-melodic 
+aspects of music and it explains the sensitivity with which he approached the composing of film 
+music considering that the rhythm is an essential element of film montage.  
+ 
+    The artwork of Ryuichi Sakamoto in the second half of his career has been extremely symbolic 
+and poetic; he was using sound and melody as a language, saturating them with metaphors and 
+meanings. For instance, many times in various interviews he mentioned his love for the music of 
+French symbolist-impressionist composer Claude Debussy, which he encountered for the first time 
+around the age of 13. The imagination of a young musician remained impressed with discovering 
+such a fresh and new sound that sounded mysterious to him, so he called Debussy “the door to all 
+20th-century music” and stated that "Asian music heavily influenced Debussy, and Debussy 
+
+
+--- PDF第20页 ---
+20 
+ 
+heavily influenced me. So, the music goes around the world and comes full circle."23 He clearly 
+absorbed the harmony of the 9-chords and the modality of Debussy. In fact, the second movement 
+of his orchestral composition La mer (The Sea) is Sakamoto’s favorite musical piece. He 
+appreciated it for the fluidity of sound, and its synesthetic features. Moreover, many musicologists 
+indeed agree that Debussy is the father of modern music and that there are the first traces of jazz 
+harmony in his compositions. In the fusion of sounds of Sakamoto, we can see something similar; 
+he became a bridge between the West and the East. As he once explained: “I have a sort of cultural 
+map in my head, where I find similarities between different cultures. For example, Japanese pop 
+music reminds me of Arabic music, due to the vocal intonation and vibrato, and in my mind, Bali 
+is close to New York. Maybe everyone has this kind of geography in their head; I work like this.”24 
+From Bach, Beethoven, and Mozart, skipping the Romanticism era, he arrived to discover the 
+music of impressionists and avant-gardists of 20th-century Europe in the names of Ravel, 
+Stravinsky, and Bartok, which had a huge influence on him.    
+ 
+    Sakamoto sensed perfectly the artistic tendencies of our time and even transcended them, 
+following the minimalistic concept of “perpetual sound” that does not dissipate over time as a 
+metaphor for eternity. The notion of the “perpetual sound” crystallized within his creative 
+consciousness as a direct result of his prolonged engagement with the piano as his primary musical 
+instrument. Sakamoto observed that the piano’s sound has a transitory quality, gradually decaying 
+and merging with the ambient sounds of its surroundings. This characteristic of sonic 
+impermanence fostered a sense of longing, compelling him to envy to a certain degree instruments 
+such as the guitar or violin. These instruments sustain their sound, inspiring the composer to 
+embark on the quest of searching for the perpetual sound that goes along with the film flow very 
+well and, according to the composer, gives a little color to that flow.  
+    From a technical perspective, the concept of the “perpetual sound” is exemplified through a 
+musical genre known as process music, guided by a fundamental principle that involves the 
+utilization of musical processes that possess the capability of shaping both the precise detail of 
+each note or sound and the overall structure of composition at the same time. Within the realm of 
+minimalism, different composers held distinct perspectives on how these processes should 
+manifest. Some sought to conceal the underlying processes, aiming to create a musical experience 
+characterized by a continuous flow. Conversely, figures like Steve Reich pursued an intentional 
+audibility of these processes. 
+    Speaking of filmic influences, he always mentioned the Russian director Andrei Tarkovsky and 
+                                                     
+23 Douglas Q. Smith, Gig Alert: Ryuichi Sakamoto, “WNYC Culture Producer”, October 2010. 
+24 Ryuichi Sakamoto, Festival MITO SETTEMBRE MUSICA, 2019. 
+
+
+--- PDF第21页 ---
+21 
+ 
+French director Robert Bresson, speaking of their books – Sculpting in Time and Notes on the 
+Cinematographer, respectively.    
+ 
+    Sakamoto, in his late period of creativity, declined to ambient music, the modern form of which 
+intrigued the artist for studying the relationship between sound and the environment.  The last 
+decade of his life and career was inevitably marked by being diagnosed with throat cancer. 
+Obviously, his health became the primary focus, overshadowing all other concerns. Following his 
+successful battle with cancer, Sakamoto abandoned all preexisting plans and creative concepts. He 
+was driven by an imperative to initiate a fresh creative journey but found himself confronted by 
+an absence of novel artistic ideas. Consequently, he embarked on an extensive four-month quest 
+to discover a new and distinctive sonic identity, the outcome of which was his album “async” 
+which emerged in 2017. This album is characterized by its striking originality and balance between 
+fragility and resilience, while the title plays with the ideas of asynchronism. We, human beings, 
+tend to synchronize, we are creatures that get pleasure from being in synchronicity, and the idea 
+of Sakamoto was to create untraditional music that would seem more to be a soundscape and would 
+not synchronize. He suggests we listen to each sound separately without evaluating if it is pleasant 
+or unpleasant. It is a type of sonic meditation. 
+    The composer said that at the beginning of making the album in his imagination, he had the 
+Bach theme25 from Solaris (1972) by Andrei Tarkovsky, arranged by Eduard Artemiev on 
+synthesizers. Therefore, we can speak about another line of influence on his (not only) film music 
+aesthetics that lies in Johann Sebastian Bach, the electronic music of Artemiev, and even the 
+directions of Tarkovsky. Working in the film music industry requires a sort of synesthesia from a 
+composer and Ryuichi Sakamoto definitely was in possession of it, as he was able to perceive film 
+works as a symphonic piece. For instance, he said, “as I’ve been making music and trying to go 
+deeper and deeper, I was finally able to understand what the Tarkovsky movies are about — how 
+symphonic they are — it’s almost music. Not just the sounds — it’s a symphony of moving images 
+and sounds. They are more complex than music.”26 In fact, within his album async again he 
+establishes a thematic link with the aesthetics of Tarkovsky by incorporating a poem of the 
+director’s father, Arsenij Tarkovsky, in the track LIFE, LIFE. 
+    Sakamoto’s connection with the polyphony of J. S. Bach bears a noteworthy distinction. Being 
+left-handed, Sakamoto typically encounters a significant right-handed bias in piano music. This 
+convention typically places the melodic or thematic elements in the right hand, with the left hand 
+                                                     
+25 Choral prelude in f-minor “Ich ruf' zu Dir, Herr Jesu Christ”, BWV 639 from the Little Organ Book of J.S. Bach. 
+26 Craig Hubert, Composer Ryuichi Sakamoto Reflects on His Life, Work, and Battle with Cancer, “Hyperallergic”, 
+July 2018. 
+
+
+--- PDF第22页 ---
+22 
+ 
+assuming a complementary, accompanying role. The polyphonic music of Bach, however, 
+represents a transformative experience for Sakamoto and a departure from that conventional 
+paradigm.  
+ 
+    In his latest years, Sakamoto assumed a significant role in advocating against nuclear power. 
+Particularly in response to the Fukushima Nuclear Accident, Sakamoto organized the No Nukes 
+2012 Concert in Chiba, Japan. He reasoned it by saying that “keeping silence after Fukushima is 
+barbaric”.  His active engagement in public activism and his battle with cancer is a fundamental 
+element in the documentary film Ryuichi Sakamoto: Coda. In one scene of the film, he says, "I 
+honestly don't know how many years I have left. It could be 20 years, 10 years, or a relapse reduces 
+it to just one. I am not taking anything for granted. But I know that I want to make more music. 
+Music that I won't be ashamed to leave behind — meaningful work." The documentary follows 
+him creating field recordings on different symbolic locations. To add more about his activism, it 
+is worth saying that he was also an environmentalist, very interested in retaining forests through 
+the 90s, and tried different ways to make a difference in these issues. Sakamoto and his working 
+team found a company to plant forests in Japan and the Philippines, which has planted nine forests 
+since then, collaborating with the local forest unions. He was also involved in film scores such as 
+Original Child Bomb: Meditations on the Nuclear Age (2004), which explores the consequences 
+of the atomic bombings of Hiroshima and Nagasaki. He also contributed to the soundtrack of 
+Alexei and the Spring, a documentary highlighting the impact of the Chornobyl disaster on a 
+village in Belarus.  
+ 
+ 
+ 
+2.2. Exploration of Sakamoto's Contributions to Film Music  
+    Sakamoto received an opportunity to compose his first film score at the age of 34. Before that, 
+he had had no idea that he would ever be working in the film industry, although he has always 
+been a cinephile. His career in cinema started with a proposal of acting in Merry Christmas Mr. 
+Lawrence directed by Nagisa Ōshima, to which instead he proposed his candidature to write music 
+for the film and ended up both acting and composing. Since starting his soundtrack music career 
+with that project, he admits of having become more conscious about sound and music in a film. 
+Working with Nagisa Ōshima has brought Sakamoto to meeting with Bernardo Bertolucci. 
+Sakamoto was introduced to him some years before the shooting of The Last Emperor and, again, 
+Bertolucci at first wanted him to act in his film. 
+ 
+
+
+--- PDF第23页 ---
+23 
+ 
+    Film directors typically lack formal musical training, thereby necessitating the composer’s role 
+in translating the director’s creative vision into the language of music. Composers, such as Ryuichi 
+Sakamoto, must possess a profound understanding of the director’s musical desires and be adept 
+at interpreting them. This process can prove arduous and anxiety inducing. According to 
+Sakamoto, some of his most challenging yet rewarding projects have been his collaborations with 
+Bertolucci and Iñárritu. This is attributed to the fact that these directors possess a deep knowledge 
+of music and approach it with a high level of seriousness and dedication. Throughout the course 
+of his career, Sakamoto composed a substantial body of work comprising approximately 50 scores. 
+Many of them garnered international acclaim and were lauded with prestigious awards such as 
+Oscar, ASCAP award, BAFTA, Golden Globe, Grammy, and many others, thus achieving 
+widespread recognition and renown. Notably, Sakamoto’s portfolio extends beyond the realm of 
+feature films into television series, short films, music for video games, and animated Japanese film 
+productions. The following is a selection of his most important works that display his impact 
+within cinematic landscapes:  
+ 
+● Merry Christmas Mr. Lawrence, directed by Nagisa Ōshima (1983) 
+● The Last Emperor, directed by Bernardo Bertolucci (1987) 
+● Le ali di Honneamise (王立宇宙軍 オネアミスの翼), directed by Hiroyuki Yamaga 
+(1987) (anime) 
+● The Sheltering Sky, directed by Bernardo Bertolucci (1990) 
+● The Handmaid's Tale, directed by Volker Schlöndorff (1990) 
+● Tacones lejanos, directed by Pedro Almodóvar (1991) 
+● Little Buddha, directed by Bernardo Bertolucci (1993) 
+● Snake Eyes, directed by Brian De Palma (1998) 
+● Love Is the Devil: Study for a Portrait of Francis Bacon, directed by John Maybury (1998) 
+● Tabù - Gohatto, directed by Nagisa Ōshima (1999) 
+● Femme fatale, directed by Brian De Palma (2002) 
+● Tony Takitani, directed by Jun Ichikawa (2004) 
+● Silk, directed by François Girard (2007) 
+● The Revenant, directed by Alejandro González Iñárritu (2015) 
+● Proxima (2019) 
+● Minamata, directed by Andrew Levitas (2020) 
+● Beckett, directed by Ferdinando Cito Filomarino (2021) 
+● Kaibutsu, directed by Hirokazu Kore'eda (2023) 
+ 
+
+
+--- PDF第24页 ---
+24 
+ 
+This diverse body of works demonstrates Sakamoto’s remarkable versatility and enduring 
+influence in the world of film music.  
+ 
+    A thorough examination of Ryuichi’s interviews reveals his inclination to maintain a high 
+degree of privacy concerning his personal life. Instead, he consistently directed the focus of 
+discussion towards his work and creative process, so he frequently delved into the topic of his 
+collaborations with the film directors and his integral role in the filmmaking process. He articulated 
+a significant challenge that he had to face as a contemporary film music composer that revolved 
+around the need to fight the prevalent preference among directors for preexisting classical music 
+in their films. The formidable nature of this challenge stems from the inherent difficulty in 
+competing with classical recordings, which are renowned for their exceptionally high sound 
+quality and performance standards. Another challenge for him was the conventionality and 
+sketchiness of film music. It was a constant search of the balance of sounds in order to not fall into 
+a prominent and compelling melody that brings irritation and seizes the focus, overshadowing the 
+visual elements within the cinematic experience. On the other side of the scale is the music that is 
+too calculated, of which he once said, “the bad music is always made intellectually, with formulas”.  
+As an example of film music that had impressed him deeply and served as a composing model, he 
+always mentions the suite of Nino Rota for Fellini’s film La Strada, especially the opening solo 
+part that entered into the subconscious of the viewer from the very beginning and then returns 
+many times in the film as a leitmotiv. This film was his childhood memory.  
+ 
+    The film soundtrack is the foremost sound, encompassing such elements as noise, dialogue, and 
+music. As sound recording technologies advanced, film music started to contend with ambient 
+noise and natural soundscapes. This evolution reduced the necessity for a continuous musical 
+accompaniment, as it would create dissonance with the authentic sounds of daily life. In this 
+context, Sakamoto introduced an element to the cinema that is often absent. He simplified the 
+texture of the scores so that it would have a lighter, more transparent sound and would not be too 
+intrusive for the viewer. Music can take the attention away from the visual part, and he was 
+avoiding this. By simplifying the texture, he focused primarily on the rhythm and the precise 
+timing of the music’s entry into the film. Sakamoto recorded all by himself in contact with the 
+orchestra making sure that each nuance was performed according to his idea:  
+“Working with orchestras is always very interesting. You shave got an entire 
+room filled with people making sound, and I stand there, in the middle, all-
+silent. Being in that room, conducting a group of musicians to play the music I 
+
+
+--- PDF第25页 ---
+25 
+ 
+make is always very nerve-racking. However, when things start to get into 
+motion, you forget that you were ever nervous. It’s a very intriguing process 
+because the orchestra reflects the emotions that I emote through my 
+gestures.”27 
+ 
+    One of the films scored by Sakamoto is Derrida, of which I will speak closely in chapter IV. It 
+is a documentary film about contemporary post-structuralist philosopher Jacques Derrida who 
+passed away in 2004. Among the philosopher’s extensive ideas is a concept related to the future, 
+in which he distinguished between what was “the future” and “l’avenir” (the ‘to come’). “The 
+future” refers to something that can be foreseen and anticipated, while “l’avenir” represents an 
+unpredictable dimension of the future into which the thinkers must immerse themselves. In this 
+context, Sakamoto’s work primarily involved engaging with the foreseeable and logical future, 
+since he was engaged in musical innovations, recorded some kind of music of the future.  
+ 
+ 
+2.3. The Philosophy of the Music of Sakamoto 
+    He once expressed that music in its essence is a product of human artifice, crafted from the raw 
+materials of the natural world and that art is an abuse of nature.28 Paradoxically, despite the inner 
+conflict, he acknowledged the irresistible nature of this creative impulse.  In Coda, he is meditating 
+on technology and naturalism in the context of the nature of music. Seated in front of his Steinway 
+grand piano, Sakamoto articulated how the piano music’s existence owes itself to the Industrial 
+Revolution, being a combination of wood and string and the formidable power of industrial 
+production. The technology is being used to create music. “Matter taken from nature is molded by 
+human industry, by the sum strength of civilization,” he says in the film. “Nature is forced into 
+shape.” He contemplates that human ingenuity and the collective forces of civilization reshape 
+matter sourced from nature. In fact, nature is enforced into conforming to human designs but 
+eventually, everything returns to its natural form. This echoes with the Japanese idiom “mono no 
+aware”29, meaning the deep gentle sadness for the passing and changing nature of all things. 
+Instruments, whether digital or organic, are simply tools, since existence is a fleeting condition. 
+We can employ these tools to create something lasting, and Sakamoto’s choice was sound.  
+ 
+                                                     
+27 Ryuichi Sakamoto Talks About His Unique Perspective On Music, interview by Red Bull Music, 
+https://www.youtube.com/watch?v=mJEZFTbxm4o  
+28 Kevin Nguyen, Music Sounds the Way It Does Because of Ryuichi Sakamoto, “QG”, 2023. 
+29 (物の哀れ), lit. 'the pathos of things'. 
+
+
+--- PDF第26页 ---
+26 
+ 
+    Sound was always the most essential element for him, more than music itself. Sound and music 
+are, of course, related concepts but they differ in several key aspects: sound can be chaotic and 
+includes all audible phenomenon, whether musical or non-musical, such as speech, noise, or 
+environmental sounds; music is a form of artistic expression and is highly organized in terms of 
+pitch, rhythms, dynamics. Music is crafted intentionally for aesthetic or emotional purposes and 
+sound is a byproduct of music and a building material at the same time. Sakamoto did not limit 
+himself just to the musical sounds and the fixed pitches of 12-tone equal temperament typical for 
+Western music. Quite often, he would apply various noises and natural sounds in his works, as for 
+example bird singing, which according to him is always in tune naturally and in perfect timing. 
+The issue of authenticity and natural harmony always runs like a thin thread in his work, even and 
+especially in his electronic music. His concept when making music was that there is no border 
+between music and noise. The clean sound generates an artificial, virtual world where every 
+imperfection is eradicated. In contrast, the raw, unrefined quality analog tape reproduces life, 
+occasionally distorted but never malevolent.  
+ 
+    After being diagnosed with cancer in 2014, his music took on characteristics almost akin to Zen 
+philosophy. It became an exploration of observation, a relationship with the infinite, and a 
+perception of movement in the world around us. For him, nature symbolized the stability of the 
+world and a representation of pre-existence. “I was, I am, and I will be”, recite the line of Arsenij 
+Tarkovsky in Life, life, conveying the eternal continuum that extends beyond earthly existence 
+alone and implying that our body serves as the vessel enabling us to be in this world, perceive the 
+very essence of it. Following his illness, Sakamoto appears to have embraced the philosophy and 
+aesthetics of wabi-sabi, the main principle of which is in finding beauty in simplicity. 
+Consequently, he delved into the ambient genre, where each sound carries a significant weight. 
+This shift in his musical focus may have been influenced by his contemplation of mortality and a 
+transformation in his worldview. In the film sphere, Sakamoto always resonated with films of 
+highly existential topics. 
+ 
+    Regarding creativity, the composer has also expressed a thought-provoking perspective. 
+According to him, performing live in a concert is not an act of creativity, probably alluding to the 
+Freudian concept of sublimation, where the artist’s mind works with processing the material that 
+has already been there and not being able to generate entirely new creations from scratch.30 Since 
+his live performances were often very interactive with the public and included technologies as a 
+                                                     
+30 Leonardo Vittorio Arena, La filosofia di Sakamoto: Il wabi/sabi dei colori proibiti, Milano, Mimesis, 2017, p. 18. 
+
+
+--- PDF第27页 ---
+27 
+ 
+medium, it leads us to another substantial theme for Sakamoto’s art – the intersection of music 
+with the digital realm. In his opinion, in our era of the internet and authorship, we returned to a 
+more communal and tribal attitude to music. A prime example of this is the practice of sampling 
+technique, where anyone can extract and reuse some segments of music created and played by 
+others. This trend forces us to reevaluate the controversial issue of artistic ownership of a work of 
+art and harks back to the older times when music was shared without concern for attribution, and 
+a song could be considered the property of a whole village. Through the continuous editing of the 
+piece, the creativity blooms and the roots of this thinking probably lie in his ethnomusicological 
+background. In an interview for Sónar, he said that in his opinion, a composer is always interested 
+in technology and innovation, giving an example of Beethoven who in his turn composed a cycle 
+of 32 sonatas for the piano that at his time was a new and innovative instrument.31  
+ 
+    Sakamoto would walk out in a street or on a forest path with a microphone in his hands to collect 
+the soundscapes of different environments. His connection with raw natural sounds draws parallels 
+with the philosophy of concrete music, a genre that relies on real-world sounds rather than 
+traditional music notation. Composers of concrete music, such as Stockhausen, Pierre Boulez, 
+Karlheinz Stockhausen, Edgard Varèse, Iannis Xenakis, and others, delve into the auditory 
+qualities and textures of everyday sounds, like footsteps, water droplets, or industrial machinery, 
+to transform them into musical components. This blurring of boundaries between music and sound 
+design underscores the inherent musical potential of any sound source. Concrete music played a 
+pivotal role in advancing electronic music and was a precursor to the use of synthesizers and 
+electronic instruments in contemporary music production. Therefore, we can observe these direct 
+interconnections between film music, the nature of sound, minimalism, and electronic music as 
+permanent pillars of Sakamoto’s artistic interest along with his cultural universalism.  
+    Sakamoto simultaneously managed to transcend his cultural limits and geographical boundaries, 
+remaining a deeply Japanese composer. His collaborations with artists from different cultural 
+backgrounds, his compositions for films, dealing with the themes of identity and pressing global 
+challenges, and his socio-cultural and political engagement underscores his commitment to global 
+concerns.  
+     
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+31 Sónar+D, The future of music according to Ryuichi Sakamoto, https://www.youtube.com/watch?v=HSk8eBj4tkk  
+
+
+--- PDF第28页 ---
+28 
+ 
+ 
+Chapter III. Analysis of Selected Film Scores 
+ 
+ 
+3.1. Collaboration of Ryuichi Sakamoto with Bernardo Bertolucci  
+    In the world of filmmaking, where visuals and melodies come together to evoke emotions, some 
+collaborators shine as outstanding examples of creative synergy. The union of Ryuichi Sakamoto 
+with the Italian film director Bernardo Bertolucci is one of them. Bertolucci is known for visually 
+striking aesthetics and thematically rich films, often exploring political and societal issues.  
+    While being a harmonious blend of sonic innovations and visual storytelling, the composer 
+confessed it to be a very challenging yet productive experience. For instance, while scoring Little 
+Buddha and The Sheltering Sky, Sakamoto had to engage with musical material that diverged 
+significantly from his own cultural roots. The setting of The Sheltering Sky in the Middle East, 
+with filming amidst the Sahara desert, demanded him to immerse himself in a musical landscape 
+foreign to his Japanese heritage. Even in The Last Emperor, where the narrative unfolds in China, 
+the composer admits that he did not have a good knowledge of Chinese music and so he faced the 
+task of acquainting himself with a genre he initially found dislikable.32 Conducting extensive 
+research and delving into cultural exploration, he embarked on a profound mind journey to 
+immerse himself in the musical traditions of China and North Africa. His success in mastering 
+these musical landscapes can be attributed to his ethnomusicological background, demonstrating 
+his ability to interpret different cultural musicality. After all, the collaborations with Bernardo 
+Bertolucci brought him two Golden Globes, two Grammy awards, an Oscar, and a BAFTA award. 
+ 
+    Sakamoto acknowledged Bertolucci’s inherent musicality, considering that the director would 
+redesign the score according to his vision without taking any advice from the composer. According 
+to Sakamoto, the director's Italian background and exposure to lyrical operas during his upbringing 
+influenced his approach. He perceived Bertolucci’s camera movements as a form of melody, 
+providing significant inspiration and guidance for Sakamoto in the composition process, 
+considering especially the fact that he was never present at the film set for organization difficulties. 
+This is confirmed through the interview with Bernardo Bertolucci, conducted by Sakamoto 
+himself, where the filmmaker explained:  
+“Back to your question, now let’s talk about the evolution of music in my films first. Music has 
+always been very vital to me. To an extent, it is musical films that I always wanted to make. In 
+other words, my dream was to direct a musical without actual music, a musical where the image 
+                                                     
+32 The Thousand Sounds of Ryuichi Sakamoto, interview moderated by Peter Cowie, February 15, 2012. 
+
+
+--- PDF第29页 ---
+29 
+ 
+itself is the music. Maybe that’s why my camera moves so much- there is a musical approach to 
+it. All the movements I love are organized and calculated like a rhythm- scherzo, adagio, 
+andante, presto…”33 
+ 
+    The most demanding film project was The Last Emperor, primarily due to challenging physical 
+conditions and the tight period of two weeks, within which he had to compose 45 cues, record the 
+music with a Chinese orchestra, and transport the materials to London. “I carried the tape from 
+Tokyo to London and played it to Bertolucci and his crew while watching the video, and they all 
+stood up and shouted, “Perfetto! Perfetto!” said Sakamoto in an interview.34 At the time, internet 
+communication was not available, and the intensity of the project took a toll, leading Sakamoto to 
+end up in a hospital afterward. The composer, who identified as a “synchronization fanatic”, found 
+it quite traumatic how effortlessly Bertolucci could edit or adjust seconds in The Last Emperor. 
+Each time Sakamoto had to compose, he resisted to establish any artistic routine, opting instead to 
+simply sit in front of the piano and play, synchronizing with the film narrative and visual, ensuring 
+that each note and composition complemented the visual narrative seamlessly.35 Nonetheless, the 
+director, being “musical” himself, would reinterpret Sakamoto’s compositions to suit the film, 
+highlighting a mutual artistic understanding. The idea of Bertolucci was to bring together the West 
+and the East by employing two composers from the two parts of the world. Therefore, the choice 
+fell on Sakamoto and David Byrne. 
+ 
+    As Sakamoto remembered, during the production of Little Buddha, Bertolucci tasked him with 
+composing the “theme of reincarnation” which at first appeared too abstract and complicated to 
+the composer. Given the film’s deep connection to Buddhist philosophy, Sakamoto had to embark 
+on a study of Buddhism to grasp its core concepts. The challenge laid in capturing the essence of 
+reincarnation musically. In his pursuit of the motive, he employed various methods to stimulate 
+his creativity. Ryuichi Sakamoto was approached to compose the film score for Little Buddha only 
+after the completion of the shooting and was out of context. He delved into different musical modes 
+and even sought inspiration from his dreams, where the melodies would occasionally manifest. 
+Despite the initial struggle, Sakamoto eventually designed a motive that evolved into the theme of 
+Little Buddha.36  For the last cue of the film, Bertolucci asked him to compose “the saddest music 
+                                                     
+33 Sakamoto: "Per la morte di Bertolucci mi sono seduto al piano e ho scritto per lui”, interview available on: 
+https://bernardobertolucci.org/diary/sakamoto-bertolucci/ 
+34 Stella Hsieh, A Private Dialogue: Shigehiko Hasumi and Ryuichi Sakamoto on The Last Emperor, Honhondo 
+Publisher, 1988. 
+35 The Thousand Sounds of Ryuichi Sakamoto, interview moderated by Peter Cowie, February 15, 2012. 
+36 Ivi. 
+
+
+--- PDF第30页 ---
+30 
+ 
+in the world”. However, the initial attempts fell short of the desired level of melancholy, prompting 
+several revisions. Bertolucci’s feedback ranged from the music lacking sufficient sadness to being 
+deemed overly despairing without a sense of hope. It was only after the fifth attempt that Bertolucci 
+approved the music. These instances illustrate the complex reality of collaborations between two 
+distinguished artists. For this film, the director spent two years working with lamas in Kathmandu 
+and then Little Buddha was shot in Nepal and Bhutan. The idea of Little Buddha comes from a 
+conversation with Dalai Lama, in which the director asked him if in his opinion there is any danger 
+in a non-Buddhist director making a film about Buddhism, and Lama responded that there is a 
+small Buddha in each of us and each has a sleeping potential inside. 
+    It was a big experience of discovering the East for Bertolucci, considering that he did not feel 
+inspired by the situation in Italy at that time and wanted to go as far as possible. Among the 
+differences that impressed him the most is the stance on ego in the East and the West; as 
+Westerners, we have to stand out from the masses and enlarge our egos, while in China he saw 
+people to be happy in the collective. Buddhism logically happens to be in the center of this work 
+and it speaks of ego as our biggest enemy.37 
+ 
+ 
+3.1.1. The Last Emperor (1988) 
+ 
+    The film combines the lines of political turbulence, historical richness, and personal 
+transformation. It sends the viewer on a journey through the opulent corridors of the Forbidden 
+City, masterfully accompanied by soundtracks from Ryuichi Sakamoto and David Byrne. After a 
+break of six years, Bernardo Bertolucci came back with a well-crafted film that tells the story of 
+Chinese history in the 20th century. It explores themes of power, identity, and the impact of 
+political change on an individual’s life. The perspective is unique, focusing on a leader born into 
+privilege but disconnected from the people that he leads. The film chronicles Aixinjueluo Puyi, 
+the protagonist, who was the last Emperor of China, and his journey from being an emperor at a 
+very young age to his later life as a political prisoner of the Chinese Communist Party. The 
+narrative therefore unfolds against the backdrop of significant events in Chinese history, including 
+the fall of the Qing Dynasty, the rise of the Republic of China and the establishment of the People’s 
+Republic of China. This is a particular epic because it tells us about an exceptionally passive 
+protagonist, who above all at the same time is an emperor, holding a title without any 
+accompanying power. His imprisonment, literal and metaphorical, goes as a meaning line through 
+the whole film on many levels. As Robert Ebert describes in his review, “throughout the film, Puyi 
+                                                     
+37 Interview with Bernardo Bertolucci at The Charlie Rose Show, available on: 
+https://www.youtube.com/watch?v=WPrZKpy80Kk 
+
+
+--- PDF第31页 ---
+31 
+ 
+remains a pawn and a victim, subjected to the actions of others, exploited for their purposes, and 
+valued for what he lacked rather than for what he was.”38  
+ 
+    Sakamoto was entrusted with creating music for the grand and opulent scenes such as the 
+coronation, while David Byrne was tasked with composing for the more intimate and discrete 
+moments, and Su Cong was involved in giving the soundtracks a Chinese touch. Given that certain 
+Chinese instruments do not adhere to Western scales, Byrne had to enlist classical players capable 
+of adapting their techniques to mimic those heard in Chinese music. Su Cong was responsible for 
+the period-specific Chinese source compositions around the imperial palace during the 
+protagonist’s childhood. Most of these pieces are “Lunch” alike featuring a variety of folk Chinese 
+instruments like dizi flute39, pipa lute40, guzheng41, metallic percussion instruments and all-over-
+the-place erhu42.  
+    Sakamoto commissioned nine tracks for the film, many of which later became recognizable 
+outside of the narrative context of the film. The cue list looks like this:  
+ 
+1. 
+"First Coronation" 
+Ryuichi Sakamoto 
+1:46 
+2. 
+"Open the Door" 
+Ryuichi Sakamoto 
+2:54 
+3. 
+"Where Is Armo?" 
+Ryuichi Sakamoto 
+2:26 
+4. 
+"Picking Up Brides" 
+Ryuichi Sakamoto 
+2:39 
+5. 
+"The Last Emperor – Theme Variation 1" 
+Ryuichi Sakamoto 
+2:19 
+6. 
+"Rain (I Want a Divorce)" 
+Ryuichi Sakamoto 
+1:49 
+7. 
+"The Baby (Was Born Dead)" 
+Ryuichi Sakamoto 
+0:55 
+8. 
+"The Last Emperor – Theme Variation 2" 
+Ryuichi Sakamoto 
+4:28 
+9. 
+"The Last Emperor – Theme" 
+Ryuichi Sakamoto 
+5:54 
+10. "Main Title Theme (The Last Emperor)" 
+David Byrne 
+4:01 
+11. "Picking a Bride" 
+David Byrne 
+2:00 
+12. "Bed" 
+David Byrne 
+5:00 
+13. "Wind, Rain, and Water" 
+David Byrne 
+2:18 
+14. "Paper Emperor" 
+David Byrne 
+1:49 
+15. "Lunch" 
+Cong Su 
+4:54 
+16. "Red Guard (Sailing the Seas Depends on the 
+Helmsman)" 
+The Red Guard Accordion 
+Band 
+1:20 
+17. "The Emperor's Waltz" 
+The Ball Orchestra of Vienna 3:06 
+18. "The Red Guard Dance" 
+The Girls Red Guard Dancers 0:39 
+                                                     
+38  
+39 The dizi (Chinese: 笛子; pinyin: dízi, pronounced [tǐt͡ sɨ]), is a Chinese transverse flute. 
+40 Pipa or p'i-p'a (Chinese: 琵琶) is a traditional Chinese musical instrument belonging to the plucked category of 
+instruments. Sometimes called the "Chinese lute". 
+41 Gu zheng (Chinese: 古筝; pinyin: gǔzhēng; lit. 'ancient zheng'), is a Chinese plucked zither, tuned in a major 
+pentatonic scale.  
+42 Erhu (Chinese: 二胡; pinyin: èrhú; [aɻ˥˩xu˧˥]) is a Chinese two-stringed bowed musical instrument, more 
+specifically a spike fiddle. 
+
+
+--- PDF第32页 ---
+32 
+ 
+ 
+Therefore, as we can see here, there are two main themes of The Last Emperor: one by Ryuichi 
+Sakamoto and the other one by David Byrne. These two theme melodies persist throughout the 
+entire film. However, they are reinterpreted using different instruments, tempos, rhythms, and 
+textures, aligning with the mood of various scenes. Sakamoto chose the symphonic Western style 
+for scoring the film.  
+    The melodic material of Sakamoto’s part of the film score consists of two main themes, which 
+have the function of leitmotivs. The first one is the theme of The Last Emperor (theme A), it 
+appears in the scenes with dramatic events always extra-diegetically, sometimes to refer 
+ironically to the royal status of Pu Yi in the moments of his weakness and powerlessness. We 
+can hear this theme in “First Coronation” (track 1) and the theme variations (tracks 5, 8, and 9). 
+ 
+Figure 1. The Last Emperor’s leitmotiv, theme A 
+ 
+From a musicological perspective, this theme is in d-minor key and based on constantly gravitating 
+to the root tone, which is D. There are almost no wide-interval moves and the melody revolves 
+around the tonic, creating the impression of closure and a metaphor of the state of imprisonment 
+and limitations of Pu Yi.  
+ 
+    The second leitmotiv is theme B, which we can hear in “Open the Door” (track 2) and “Where 
+is Armo?” (Track 3). The melodic material of this leitmotiv is of a more lyrical and begging 
+character:  
+ 
+Figure 2. Theme B 
+ 
+The melody is crafted based on a 1-bar motive development through modulations and inversions. 
+
+
+--- PDF第33页 ---
+33 
+ 
+The marching rhythm in the bass line helps to keep the imperial mood, although the main voice 
+seems to be singing kindly “open the door”. The orchestra's introduction to the theme sounds 
+threatening and volitional because of the string’s tremolo and chromatic down-going melodic line. 
+It gives us an idea of some tragic consequences that will come in the future. Analyzing the 
+moments in which this theme appears, it seems to be a leitmotif of the suppressed will of the 
+emperor.   
+____________________________________________________ 
+ 
+    The opening scene [0:02:26] after the titles, starts with the diegetic sounds of the train and the 
+military men giving orders to the political prisoners. The scene is full of tension as the commander 
+orders to be silent with the threat of being punished otherwise. This tension is conveyed by the 
+persistent fixed extradiegetic sound in the low register on the background that is slightly vibrating 
+and transmits the feeling of fear and anxiety of the prisoners. (Fig. 3) 
+ 
+ 
+Figure 3. The Last Emperor, opening scene. 
+ 
+In this scene, the protagonist tries to commit suicide by closing himself in a room and this is when 
+we hear for the first time Sakamoto’s music “Open the door”, that immediately sends us to the past 
+events of his life as the Emperor and to the next scene by using the parallel montage. The doors 
+and walls of the Forbidden City are the key symbols of the Emperor’s cosmos that is inside the 
+palace. These walls are the absolute borders for him. Sakamoto, who admitted in an interview to 
+consider it in the soundtrack for the film, confirms this semiology. 
+ 
+ 
+
+
+--- PDF第34页 ---
+34 
+ 
+ 
+ 
+ 
+Figure 4. The Last Emperor, first flashback. 
+ 
+    The next scene [00:06:48] is set in Peking in 1908. This scene portrays the appointment of Pu 
+Yi as a puppet emperor, a decision taken by Cixi in order to prevent the imperial power from 
+fading away. This is the point from which the life of Pu Yi will get more and more dramatic and 
+this is underlined by the music. The lyrical melody that accompanies the appearance on the screen 
+of the infant Pu Yi with his mother, develops into the marching melody to display the cold-blooded 
+structure of the monarchy system indifferent to the emotional needs of the child.  
+ 
+ 
+[00:16:10] During his coronation, Pu Yi looks at the open door (Fig. 5). The camera movement is 
+aligned with the soundtrack “First Coronation”. It begins with the harp arpeggio and follows the 
+stairs and a bright flute motif accompanies the curious child running down in the hope to play. As 
+he approaches the door, we are reminded of the scene’s original mood of the coronation through 
+the almost threatening sounds of the orchestra moving down chromatically for a few seconds and 
+then the music stops. In this scene, Pu Yi receives a box with a cricket insect inside from one of 
+the eunuchs, which is a metaphor for his own situation of being imprisoned inside of the walls of 
+the Forbidden City (Fig. 5). 
+ 
+ 
+ 
+ 
+
+
+--- PDF第35页 ---
+35 
+ 
+ 
+ 
+Figure 5. The Last Emperor, coronation scene (up); Pu Yi receives the cricket (down). 
+ 
+     
+    “Where is Armo?” at [00:34:59] is a variation of “Open the Door” and it appears again with the 
+dramatic events on the screen. The scene depicts the ceremonial guards accompanying Yuan 
+Shikai, the president of the Republic of China, as he enters the Forbidden City. Additionally, the 
+nurse Armo, who had been alongside Pu Yi is compelled to leave the palace. In comparison to the 
+first appearance of this theme, the instrument choice has changed from cello to violin unison mixed 
+with erhu, guzheng and pipa that play together the dramatic leitmotiv bringing the feeling of 
+despair and helplessness. 
+ 
+
+
+--- PDF第36页 ---
+36 
+ 
+ 
+Figure 6. The Last Emperor 
+ 
+    Next time we can hear Sakamoto’s soundtrack in a scene where the Emperor learns about his 
+mother’s death and he is just 14 years old. It is a very dramatic and emotional scene, a turning 
+point after which he realizes that he wants to set himself free from this prison. This is the moment 
+when he realizes that he is not omnipotent and his power is not enough to make the servants obey 
+and open the door for him (Fig. 5). As Bertolucci himself commented, “the boy does something 
+very self-destructive, he throws his little mouse companion against the gate in rage.” This gesture 
+tells us a lot about his state of frustration. In this scene, Sakamoto used the main theme of The Last 
+Emperor because, as he explains, it is emotional. The sorrowful melody, characterized by the use 
+of violins, heightened the Emperor’s grief. In the moment when the boy throws the mouse, the 
+music stops. This choice was made in order to pay attention to this dramatic gesture, as silence is 
+always very intense.  
+ 
+
+
+--- PDF第37页 ---
+37 
+ 
+ 
+ 
+ 
+Figure 7. The Last Emperor, scene of expelling from the Forbidden City 
+ 
+    In the scene when the Emperor and his wives are being expelled from the Forbidden City, we 
+can hear again the main theme of the Emperor. It is the first time the protagonist steps out of the 
+doors of the royal complex. The music here always appears on the external level; theme A expands 
+and plays a role of the medium, transmitting to the viewer the emotional state of Pu Yi. On the 
+level of film editing, we can notice the correspondence of tempo and rhythm with the movements 
+of the characters on the screen and the length of the takes. The play of sound dynamics with the 
+narrative is also significant, since it works as a switch between the inner world of the Emperor and 
+the outside world in which the coup is happening. The instrumentation choice also helps to express 
+the fear and despair; the main voice is given to the violins, which has the closest timbre to a human 
+voice and indeed is often applied in order to imitate it.  
+ 
+    One of many narrative lines that go through the whole film is love and marriage during the era 
+when the Chinese feudal society was aligning with the Western society. For over two thousand 
+years of Chinese history, parental discretion played a decisive role in arranging marriages for their 
+
+
+--- PDF第38页 ---
+38 
+ 
+children. The primary emphasis was placed on procreation as a duty for couples, with family 
+contributions to economic development following closely. In this context, emotional affection 
+between men and women was often given the least consideration and, in certain instances, even 
+denied. This way the Emperor was arranged to marry Wanrong and chose to have a noble 
+concubine Wenxiu. Wanrong was educated in a Western thought and initially was more of a liberal 
+ideology but the identity of the empress has forced her to move from openness to feudalism, and 
+she ended up being addicted to opium. Meanwhile, Wenxiu’s destiny in the narrative was to evolve 
+from feudalism and conservativeness to personal freedom. Music highlights this intention. For 
+instance, in the scene when Wenxiu demands divorce, a completely new music theme comes. It is 
+melodically and rhythmically very different from the emperor’s theme and theme B. “Rain” sounds 
+like a bird that is flying out of its cage. 
+  
+Figure 8. ‘Rain’ 
+ 
+The composition is performed by string instruments only. The repeating chords imitate the 
+heartbeat of excitement for taking an extremely important decision of setting oneself free. In terms 
+of Chion’s ‘point of audition’, this music represents the subjective reality of Wenxiu. The leading 
+voice is ascending, which symbolizes hope for the new life.  
+ 
+
+
+--- PDF第39页 ---
+39 
+ 
+ 
+Figure 9. The Last Emperor, the scene when we hear ‘Rain’ 
+ 
+ 
+Here is how Sakamoto comments the production of this scene:  
+ 
+“There was a key change, and I used a computer to calculate the number of beats when put on the 
+music, so that the time of the music and the time of the frames of the film were close to one 
+thousandth of a second. It’s a perfect match there. The duration of the music and the time between 
+cuts of the film worked really well together. Normally, the music has a certain tempo, but since 
+there are so many frames, I had to slow down the tempo a little bit, which I did in many places. In 
+musical terms, I want this duration, but since the film is like this, I’ll slow it down. That would 
+make it longer. That’s why I was really happy when I got the perfect match for that scene. But 
+after that, she said, “I don’t need an umbrella,” and runs into the rain. Just as she is about to 
+disappear, the car of Eastern Jewel comes in. The suddenness of that scene is unbelievable. The 
+car didn’t come in from the porch, but from the lawn. So, of course, the car was waiting.”43 
+ 
+The statement of not needing the umbrella anymore carries a profound meaning, suggesting that 
+the protective role traditionally assigned to husbands in feudal marriages is no longer necessary. 
+Therefore, in this scene the music enhances the storytelling by making the viewer understand that 
+it is a turning point. 
+                                                     
+43 David Byrne and Ryuichi Sakamoto interview - The Last Emperor, "A Música no Cinema" (Music Behind The 
+Scenes), available on: https://www.youtube.com/watch?v=wwLBkbLaOrA 
+
+
+--- PDF第40页 ---
+40 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9. The Last Emperor, farewell scene. 
+ 
+ 
+ 
+
+
+--- PDF第41页 ---
+41 
+ 
+    In several scenes, pre-existing music is featured. Its inclusion typically carries symbolic 
+significance in a film, introducing an additional layer of meaning. This is particularly impactful 
+when the chosen music holds historical or cultural relevance, connecting it to specific elements of 
+the story, characters, or overarching themes. For instance, when Pu Yi departs for the dock to bid 
+farewell to his mentor Johnston, we hear the melody of Auld lang syne played by the folk orchestra 
+(Fig. 9). It is an 18th-century Scottish song, which has been adapted in many countries in the 
+world. In China, it is commonly called “friendship all way long” and symbolizes a bittersweet 
+ending.44 The choice of this Scottish song is also obvious since the character of Johnston in the 
+film is Scottish, and in order to adapt it to the fusion idea of the film, it is performed with Chinese 
+folk instruments. This is as well one of not many examples of diegetic music in The Last Emperor 
+and, apart from the song, we can also hear the overlapping sounds of the crowd at the port and the 
+extra-diegetic sound of a ship signaling its departure. Going deeper into the analysis of the 
+soundscape of this scene, the signaling ship in this case becomes a foreground sound to which the 
+viewer consciously pays attention, while the sound of the speaking crowd is the keynote.45 This 
+mixture of sounds and music, together with the camera following Johnston as he leaves and then 
+smoothly approaching Pu Yi sitting now alone in the car, transmits the feeling of loneliness of the 
+former Emperor. It is a complex and interesting scene from the point of view of film music theory.  
+ 
+ 
+Figure 10. The Last Emperor, second coronation scene. 
+ 
+                                                     
+44 Yushang Ni, Analysis of the Fusion and Collision of Chinese and Western Music and Culture from the Film Score 
+of "The Last Emperor" , Proceedings of the 2nd International Conference on Language, Art and Cultural Exchange 
+ICLACE 2021, Vol. 559, p. 590. 
+45 According to the soundscape theory of Raymond Murray Schafer. 
+
+
+--- PDF第42页 ---
+42 
+ 
+The scene of the second coronation is another example of the use of pre-existent music in the film. 
+The musical piece featured in this scene is The Emperor Waltz Op. 437 by Johann Strauss. 
+Categorizing this case in terms of on-screen music source is challenging. The music aligns with 
+the visual narrative, featuring a waltz accompanied by people dancing, yet the orchestra remains 
+unseen, so we do not see the source. Through parallel editing, the contrast of the overall mood of 
+the celebration and the empress’s despair is shown. She is not dancing, but walking around alone 
+and acting unconventionally. This contrast creates a surrealistic impression and serves as a 
+commentary, highlighting the insincerity of the coronation and the overall situation. In relation to 
+the visual part, music here is parallel and at the same time it is contrapuntal on a more subtle 
+psychological level, since it does not stop even after the empress left the ball.  
+ 
+    In one of the following scenes in the prison, Pu Yi has a conflict with the oldest prisoner in the 
+room, who starts to call the guards shouting loudly. Right after this, a transition to the past comes 
+and it is the sound that connects these two scenes. Starting from here, the climax part of the story 
+begins. The shouting of the old prisoner “Guards! Guards!” switched to the screaming of a 
+newborn baby. This is also when we hear the last track of Sakamoto “The Baby (Was Born Dead)”.  
+The soft sound of a flute opens the theme, while on the screen we see the face of the empress full 
+of tenderness towards her child. However, the cold equal beat of the piano suggests the idea of fate 
+and death, for instance similar to Chopin’s Prelude in E minor. The sinister atmosphere is enhanced 
+even more by the part of violas and we see the doctors poisoning the child. 
+Parallel to this event, the emperor signs another restraining order dictated by the Japanese officer 
+Masahiko Amakasu, and right after this, he discovers that the baby was born dead and his wife is 
+sent away. Again, he is in a helpless position, being just a puppet and not holding any real power, 
+not even to save the empress. As he runs in hope to stop the car, we hear one more time “Open the 
+Door” theme and the scene recalls the one from the beginning, when he was trying to stop the 
+eunuchs from taking away his nurse and childhood companion Armo. The door one more time 
+gets symbolically shut just in front of him.  
+ 
+
+
+--- PDF第43页 ---
+43 
+ 
+ 
+Figure 11. The Last Emperor, comparison of two scenes. 
+ 
+    Two transformative moments of the protagonist Pu Yi are accompanied with a famous Chinese 
+erhu song “Two Springs Reflected in the Moon” composed by a blind artist A Bing. The song 
+conveys the thoughts and feelings of a blind artist, who has endured the hardships and sorrows of 
+the world throughout his life.46 First transformative moment happens while watching a 
+documentary on the Japanese invasion of China in a probation center. That is when Pu Yi realizes 
+that he is not only a victim but also complicit in the atrocities. The documentary intensified his 
+shock and self-awareness, and in this scene the song serves as a metaphor for the shame and 
+suffering embedded in China’s history. The melody of the song appears in the background, 
+resonating with the protagonist's sadness and resentment, and underscoring his evolving 
+                                                     
+46 Ibid., p. 591. 
+
+
+--- PDF第44页 ---
+44 
+ 
+understanding of his role in the historical events.  
+    The second transformative moment is at the end, when Pu Yi returns to the Forbidden City, 
+which has become a museum by now. He is walking around the palace and reflecting on the years 
+he spent there, and the song conveys his feelings about it. As he enters the coronation hall, he 
+encounters a boy that asks him to prove that he is the former emperor of China and at this moment, 
+the Emperor’s theme is playing for the last time, framing and closing the story beautifully, 
+connecting the past and the present. The cricket is released from the box and so is the emperor, 
+who has now become a simple citizen. 
+ 
+ 
+Conclusions:  
+    In The Last Emperor, the music played an important role in shaping the emotional and narrative 
+landscape of the story by blending Chinese and Western musical elements. Mostly, the source of 
+sound is off the screen, non-diegetic. The music goes parallel to the visuals, enhancing what we 
+see on the screen and it is synchronized with the camera movements, interpreting the film’s plot. 
+Most of the time, the soundtrack reflects emotional states of the main characters and does not 
+convey the objective reality of the narrative, while the off-screen sounds form the viewer’s 
+perception and spatial awareness with the help of soundmarks.47 
+    It is clear that there are two main leitmotivs in the film: “The Last Emperor” and “Open the 
+Door”. They appear throughout the film, framing the narrative. The story unfolds simultaneously 
+in two realities – the present time in Communist China with an imprisoned emperor, where extra-
+diegetic music is absent, and the past events from the emperor’s life always accompanied by 
+Sakamoto’s soundtracks. The film skillfully uses both music and sound, as well as moments of 
+silence, to effectively convey the intended messages.  
+    In some scenes, the intentional usage of audio-visual dissonance is evident. It is done in order 
+to evoke specific emotions. The message of imprisonment and suppressed will of the emperor is 
+encoded even in the melodies, which on the screen relate with the visual symbol of perpetually 
+closing doors.  
+    The approach of Sakamoto, David Byrne and Su Cong is rooted in a deep background of musical 
+culture and involves continuous exploration and integration of diverse Chinese and Western 
+musical aesthetics. As a result, we have the film that is an excellent example of the international 
+music creation and communication put into one piece by Bernardo Bertolucci.  
+ 
+                                                     
+47 According to Chion’s concept of soundmark, it is when some sound appears a few times in the process of editing 
+and begins to be associated with a place, character or a situation, becoming a symbol. 
+
+
+--- PDF第45页 ---
+45 
+ 
+3.1.2. The Sheltering Sky (1990) 
+ 
+How many more times will you watch the full moon rise?  
+Perhaps twenty. And yet it all seems limitless... 
+ 
+    After a spectacular historical drama, Bertolucci naturally turns to a more intimate and 
+psychological love story with the setting in North Africa. Again, he invites Sakamoto to compose 
+music for the film in a couple with Richard Horowitz, whose contribution involves deviating from 
+conventional Western scoring and incorporating Middle Eastern elements into the film score. 
+Compared with the work for The Last Emperor, this time Sakamoto was tasked with capturing the 
+panoramas with his music, and Horowitz, who specialized in music from the Middle East, was 
+occupied with composing for more oneiric and culture-related scenes. From the list below, we can 
+see that he composed twelve pieces, others are composed by Horowitz and a few are source music: 
+ 
+1. "The Sacred Koran" 
+Ibrahim Canakkeleli, Fevsi Misir, 
+Yusuf Gebzeli, Aziz Bahriyeli 
+0:40 
+2. "The Sheltering Sky Theme" 
+Ryuichi Sakamoto 
+5:19 
+3. "Belly" 
+Ryuichi Sakamoto 
+1:27 
+4. "Port's Composition" 
+Ryuichi Sakamoto 
+1:23 
+5. "On The Bed (Dream)" 
+Ryuichi Sakamoto 
+1:37 
+6. "Loneliness" 
+Ryuichi Sakamoto 
+1:30 
+7. "On The Hill" 
+Ryuichi Sakamoto 
+6:10 
+8. "Kyoto" 
+Ryuichi Sakamoto 
+1:04 
+9. "Cemetery" 
+Ryuichi Sakamoto 
+1:25 
+10. "Dying" 
+Ryuichi Sakamoto 
+3:30 
+11. "Market" 
+Ryuichi Sakamoto 
+1:42 
+12. "Grand Hotel" 
+Ryuichi Sakamoto 
+2:06 
+13. "The Sheltering Sky Theme (Piano Version)" Ryuichi Sakamoto 
+4:16 
+14. "Je Chante" 
+Charles Trenet 
+2:44 
+15. "Midnight Sun" 
+Lionel Hampton, Sonny 
+Burke, Johnny Mercer 
+3:14 
+16. "Fever Ride" 
+Richard Horowitz Avec Nizar Ismael 3:50 
+17. "Chant Avec Cithare" 
+Burundi traditional 
+0:44 
+18. "Marnia's Tent" 
+Richard Horowitz 
+3:02 
+19. "Goulov Limma" 
+Cheba Zahouania 
+5:47 
+20. "Happy Bus Ride" (Features Tunisian song 
+"Nari ala Zarzis") 
+Naama 
+1:41 
+21. "Night Train" (Features Moroccan women's 
+voices recorded in 1955 by Paul Bowles) 
+Richard Horowitz 
+ 
+ 
+    
+
+
+--- PDF第46页 ---
+46 
+ 
+ The story was written by Paul Bowles in 1947 and it is transmitting the all-around post-war 
+existential crisis that is reflected through the main characters: Port and Kit Moresby, a married 
+couple from America embarking on a journey for Northern Africa in pursuit for new senses: of 
+life and of their relationship. They are young and going through the process of reevaluating 
+American culture, looking for something new and inspiring, but instead they meet with the truth 
+about them, which destroys them. Through their escapism justified by being travelers and not 
+tourists, the various themes are being raised. Bertolucci explains: “They are like the spiritual 
+children of Zelda and Scott Fitzgerald who find that their world, the world of culture and glamour, 
+has been broken up after the war. There is something they want to escape and something also that 
+they are looking for. They decide to emigrate, culturally, and come to North Africa in the years 
+when existentialism was born. … They are in the years of Camus, of L'Etranger and La Peste. And 
+though Port was not in any way influenced by Camus, I think this was the direction in which a 
+sensitive intellectual at that time would have gone. Existentialism, with its idea of the acte gratuit, 
+has much in common with Arab fatalism: the notion that something has been written. I think all 
+these things were in the atmosphere that Paul Bowles breathed when he went to live in Tangier.”48 
+ 
+    The writer intended this novel to be a philosophical and multifaceted piece, while Bertolucci 
+conceived it more as a psychological love drama, which of course had some social and political 
+shades in it. The protagonists’ actions and reactions carry a persistent undercurrent of colonialism 
+and xenophobia. As outsiders, they grapple with a sense of incomprehension and mistrust when 
+encountering the local people.  
+    The director shared that after the only love scene they shot in a valley, the actors were 
+emotionally exhausted and then he told his wife in a call about how hard it is to make this film 
+about a couple divided by a metaphoric glass wall. In a few days, he received a message from her 
+that while he was speaking about the couple separated with an invisible wall, the Berlin wall had 
+fallen. 49 
+ 
+    The difference of the points of view on the story of Paul Bowls and Bernardo Bertolucci led to 
+the writer being completely not satisfied with the film that went out on the screens in 1990. “I was 
+terrified and fascinated by the amount of poison in the book and did not know if I would be able 
+to have the same amount of poison in the film. … It is a very common story about two people who 
+love each other but cannot be happy in love”, commented Bertolucci. 50 
+                                                     
+48 Harlan Kennedy, Bernardo Bertolucci - In Interview The Sheltering Sky, “American Cinema Papers Archive”, 
+1990.  
+49 https://www.youtube.com/watch?v=vrbGmgjOMrs 
+50 Ibid. 
+
+
+--- PDF第47页 ---
+47 
+ 
+The critics held divergent views on the film, as evidenced by Roger Ebert’s review, which states: 
+    ”The book is so complete, so deep and so self-contained that it shuts the movie out. Bertolucci 
+shows us the outsides and the surfaces, and a person seeing this movie without having read the 
+book might ask what it is about. It is not about travelers and doomed lovers and juxtapositions, 
+that’s for sure. It is about educated, bookish, somewhat jaded American intellectuals being 
+confronted by an immensity of experience that they cannot read or understand. Here is civilization 
+up against the unanswerable indifference of nature.” 
+Bowles’ characters Kit and Port embody the Western agnostics engaging with North African 
+mysticism and fatalism, just like Bowles himself.  
+________________________________________________________________ 
+    The film begins with the opening titles accompanied with a famous jazz standard Midnight Sun 
+by Lionel Hampton with vintage looking shots of New York streets in the background and a 
+departing cruise ship. Here the instrumental version is applied and seemingly, this musical choice 
+contrasts with the dramatic events that unfold later in the film, but the lyrics for this song are 
+providing us with an allusion on what the film might be about:  
+ 
+       I can't explain the silver rain that found me or was that a moonlight veil? 
+      The music of the universe around me, or was that a nightingale? 
+      And then your arms miraculously found me, suddenly the sky turned pale, 
+      I could see the Midnight Sun. Was there such a night, it's a thrill I still don't quite believe, 
+      and yet when you were gone, there was still some stardust on my sleeve. 
+ 
+    Right after the titles, the music drastically changes and we hear Quran recitations while seeing 
+a close-up on the eyes of Port. It is the moment of their arrival to Algeria, so the music serves here 
+as a sign of change in the environment and the cultural space, but apart from this, there is another 
+layer of meaning if we try to dig deeper into this track. The recited surah is An-Nas, which is used 
+by Muslims to pray for peace of mind and protection from evil. Port wakes up to the sound of this 
+surah and then tells about his disturbing dream. The record is from a Turkish performer and 
+Turkish classical music like Arabic music is built on maqams which function similarly to the 
+European modes or scales, giving the desired mood to the performance. This particular surah is 
+recited in a maqam called hijaz. This maqam’s function is to evoke a sublime sadness and give 
+humility to the human soul. It is one of the most used modes in musical treatment. It is believed 
+that hijaz maqam is more effective in the assembly of dervishes and that its influence is greater 
+between the noon and afternoon adhans, like in the passage at [00:15:50]. Adhān is the call for an 
+obligatory prayer. (Fig. 12) 
+
+
+--- PDF第48页 ---
+48 
+ 
+ 
+ 
+ 
+Figure 12. The Sheltering Sky. The passage with the sound of adhan. 
+ 
+The use of it in this scene creates a contrast between the religious reality of the country of Algeria 
+and its vicious nightlife with Port being a part of it as a traveler. In this scene after the call for 
+prayer quiets down, he is going to meet a local souteneur, a prostitute, and a group of thieves.  
+ 
+    Technically, Sakamoto applied a similar approach to scoring The Sheltering Sky as he did with 
+The Last Emperor. He opted for the sonata form for the main theme, constructing the majority of 
+the soundtracks based on the melodic material of its exposition, development, and recapitulation. 
+Thematically, The Sheltering Sky Theme track incorporates approximately five melodic themes 
+that reappear in other tracks in modified forms. The melody of theme A from the exposition is 
+
+
+--- PDF第49页 ---
+49 
+ 
+characterized by its highly lyrical nature, featuring dramatic octave jumps and a fragment of 
+Dorian scale in G-minor: 
+ 
+Figure 13. The Sheltering Sky Theme. Exposition, theme A. 
+ 
+This leitmotif often appears when there are Port and Kit on the screen at the same time, and seems 
+to be representing the dramatic love situation of the main characters and the misunderstanding 
+between them. For example, right at the beginning in the scene when Port is telling about his night 
+dream to Kit and Tenner, we can hear the leitmotif in the moment when she gets upset and goes 
+away. The main theme is composed in a Western style aligned with the cultural background of the 
+main characters.  
+ 
+In order to be able to analyze the other tracks it is necessary to extract the motives from the main 
+theme, which we will hear again. The motives are the following: 
+ 
+Figure 14. The Sheltering Sky Theme. Exposition, transition to theme B. 
+ 
+Figure 15. The Sheltering Sky Theme. Exposition, theme B. 
+ 
+
+
+--- PDF第50页 ---
+50 
+ 
+The theme B is technically an inverted and modulated variation of the theme A. We can hear theme 
+B at [00:40:30]. Its appearance there is subtle with a non-diegetic quiet sound of pianoforte on the 
+background which creates an impression that it is somewhere inside the scene. In this moment, we 
+also see Port passing through the hotel to check if his wife Kit had woken up after the long road. 
+The viewer then knows that Kit is sleeping there not alone. Therefore, it is possible that the 
+appearance of this melody is a signal of another critical moment for Port and his marriage in the 
+context of the situation.  
+ 
+ 
+Figure 16. The Sheltering Sky Theme. Development. 
+ 
+    At [00:31:50] (fig. 17), Port’s Composition is introduced in a highly tense context, mirroring 
+the intensity of the scene. Evidently influenced by Viennese expressionism, a style prevalent in 
+early 20th century represented by such names as Arnold Schoenberg, Anton Webern and Alban 
+Berg, the music features dissonance, dramatic shifts in dynamics, constant textural variations, 
+distorted melodies and harmonies, and angular motives with wide leaps.51 This non-diegetic piece 
+that we hear in the scene appears as a foreboding omen. Initially the melody seems to have nothing 
+in common with the established themes, but a closer examination reveals it to be a heavily distorted 
+variation of the main theme, mockingly representing theme A and symbolizing a disruption in the 
+relationship between Kit and Port. This distortion also contributes to the surreal ambiance 
+enveloping their interaction. The scene then continues into another conversation between them, in 
+which they literally decide to split for the next part of the journey.  
+ 
+                                                     
+51Theodor Adorno, Night Music: Essays on Music 1928–1962, edited by Rolf Tiedemann, translated by Wieland 
+Hoban, London, New York, and Calcutta: Seagull Books, 2009.  
+
+
+--- PDF第51页 ---
+51 
+ 
+ 
+ 
+Figure 17. The Sheltering Sky, visuals to Port’s Composition. 
+ 
+    There is a moment in the film that refers us to the American origins of the characters. It is when 
+they sing a famous American song “Oh! Susanna” composed by Stephen Foster while riding 
+bicycles in the middle of a North African valley (fig. 18). Apart from demonstrating the cultural 
+contrast between them and the surrounding they are in, this diegetic music decision also serves to 
+show us that they are in a rare moment of emotional intimacy, singing in unison, united by the 
+song.  
+ 
+
+
+--- PDF第52页 ---
+52 
+ 
+ 
+Figure 18. The Sheltering Sky. Kit and Port singing “Oh! Susanna”. 
+ 
+However, when they come into physical closeness, both experience mental breakdown for 
+individual reasons. In this dramatic moment, the main theme resurfaces, accompanied by the 
+distant sound of adhan in the background. This represents a particular application of music from 
+a theoretical standpoint, with the theme operating clearly on a non-diegetic external level, while 
+the adhan sounds on a mediated level concerning both viewers and characters.  Although the 
+source of adhan remains unseen, it is presumed that the characters can hear it. In the film, the 
+adhan sound serves as an element of soundmark, subtly reminding viewers of the characters’ 
+transient traveler status.  
+ 
+    Next time we can hear the music of Sakamoto at [01:08:14]. It begins with a mysterious sound 
+of the strings and Port looking thoughtfully at the landscape, realizing that the place where they 
+stand is a cemetery of unknown people, without any information about them. Flute is playing the 
+development line from the main theme (fig. 16) transitioning into theme B. In this scene, Kit falls 
+on the ground and Port is standing over and looking at her, symbolically foreseeing his own death. 
+Again, they lack understanding, she desires to settle somewhere and has a more practical approach, 
+while he is in the midst of his existential crisis and, on a deeper subconscious level, has already 
+taken a decision to leave this world. Starting from this point, the plot is taking a dramatic shift into 
+existentialism and mysticism, which is enhanced by music, smooth camera movements and the 
+editing. The duration of the shots is quite long, accordingly to the shifts in music. The African 
+Sahara serves as a metaphor for an immense and desolate universe overwhelming with its vastness. 
+It is a space that absorbs you with its presence but lacks intrinsic meaning. 
+
+
+--- PDF第53页 ---
+53 
+ 
+ 
+ 
+Figure 19. The Sheltering Sky. Scene at the cemetery. 
+ 
+    There is a curious short moment in the film of the literal intersection of music with the visuals 
+at [01:09:39], when we see the unfinished music sheets of an Arabesque since Port is a music 
+composer himself. On the level of sound, we hear nothing through, until the realm is changing into 
+his delirium visions filled with the sounds of ethnic Algerian music. The three main characters 
+represent the kinds of people cited at the beginning of the film: “Whereas the tourist generally 
+hurries back home at the end of a few weeks or months, the traveler belonging no more to one 
+place than to the next, moves slowly over periods of years, from one part of the earth to another. 
+Indeed, he would have found it difficult to tell, among the many places he had lived, precisely 
+
+
+--- PDF第54页 ---
+54 
+ 
+where it was he had felt most at home.”52 Hence, Port represents the archetype of the traveler, 
+uncertain about his return and ultimately not returning; Tanner embodies the tourist, observing 
+foreign lands while adhering to his own worldview; and Kit finds herself in between. As a traveler, 
+Port lets go of his previous vision and is open to embrace a lifestyle and reality that differs from 
+the one that he is used to. Therefore, during his delirium, he remains in the same environment, 
+calmly witnessing a mystical dance performed by a possessed local woman.  
+ 
+ 
+Figure 20. The Sheltering Sky, Port’s delirium visions. 
+ 
+ 
+                                                     
+52 Paul Bowles, The Sheltering Sky.  
+
+
+--- PDF第55页 ---
+55 
+ 
+    During the episode of Port dying from the illness, the use of music is crucial. At first, we hear a 
+lot of African music and pieces by Richard Horowitz, which connect us to Port’s state, but once 
+the couple reaches the French Foreign Legion and remains alone, there is a switch to Kit’s state 
+signed with the change of a soundtrack. As Port is dying, Kit is in denial, searching for help outside 
+of the Legion and the soundtrack ‘Market’ resurfaces synchronized with the camera movements 
+as well as the steps of Kit. This soundtrack links us with one of the final scenes at the market in a 
+Nigerian village, after Kit leaves Belqassim’s captivity (fig. 23). It is the moment of her total 
+collapse as she breaks into a panic attack, which is emphasized with the music by a descending 
+chromatic melody line together with the bass line chromatically moving upwards. This fusion of 
+sound and image is an example of synchresis53. It evokes a feeling of anxiety and narrowness 
+transmitting the feelings of the heroine Kit. This scene is edited with parallel montage, with the 
+shifts of non-diegetic music (for the shots with Kit) and no-music (for the shots with Port in agony).  
+ 
+ 
+ 
+Figure 21. The Sheltering Sky, Port is dying.  
+                                                     
+53 Chion introduces the concept of "synchresis," which refers to the spontaneous and perceptual fusion of sound and 
+image. This fusion occurs when sound and image coincide in time and space, creating a perceptual unity for the 
+audience. 
+
+
+--- PDF第56页 ---
+56 
+ 
+ 
+As well as music and editing, also the cinematography is displaying the contrast between the state 
+of protagonists with the use of the shades of blue and yellow that are opposite on the color spectrum 
+complementing each other. Bertolucci comments, “She has a kind of metamorphosis. In a sense, 
+she becomes Port. She goes out into the desert, into the night, and she does exactly the kind of 
+things that Port would have done in the past. In the film, we have seen her hiding behind the 
+barricades of her trunks in hotel bedrooms, always protected by her belongings. Now she has a 
+kind of osmosis with him. She gets the same drive that Port had for risk and adventure. After his 
+death, he enters her mind again. It is an extreme proof of ultimate love to give up, in some way, 
+her personality to become him.”54 
+ 
+     In the scene at [02:05:25], when she gets out from the captivity (fig. 22), music is diegetic, 
+performed by the wives and children of Belqassim, who jealously want to get rid of Kit. In the 
+book of Paul Bowles, the performance of musicians is symbolic and commenting, they repeatedly 
+sing “G igherdh ishÕed our illi”, which from one of the Berber languages might be translated like 
+“when the clothes are unfolded, you will not leave, my girl”.  
+ 
+  
+Figure 22. The Sheltering Sky. Kit is being expelled from captivity accompanied by others singing.          
+                                                     
+54 Harlan Kennedy, Bernardo Bertolucci - In Interview The Sheltering Sky, “American Cinema Papers Archive”, 
+1990. 
+
+
+--- PDF第57页 ---
+57 
+ 
+ 
+Figure 23. The Sheltering Sky. Scene of Kit collapsing at the market. 
+ 
+    At [2:11:35] ‘Grand Hotel’ soundtrack resounds, beginning with a pitiful melody by violins in 
+a high register and picked up by contrabasses with a descending line close to basso ostinato. The 
+bass and the structure makes it sound like chaconne, a dance of Latin American origin with 
+solemn-tragic character that got diffused in European music in the 17th century. After this passage, 
+the development theme and theme A from ‘The Sheltering Sky Main Theme’ is back with a new 
+force. This musical gesture at the end gives a feeling or closure, a resolution. Theme A resounds 
+while Tanner is running towards the car to see Kit and to find out that she has left again. The 
+pulsating rhythm and melody speak for the excitement of Tanner, while themes of development 
+and theme B are associated with Kit on the screen, as they sound much more anxious and 
+indecisive. Kit walks away and starts to wander around, when she encounters the author who asks 
+her if she is lost, she answers a short “yes”. In existentialism, the individual is free and therefore 
+responsible to create meaning in one’s own life in spite of the angst, despair and emptiness. This 
+also means that a person is free to destroy themselves, the result that have Kit and Port. The 
+philosophy of existentialism infiltrated the last years of life of Ryuichi Sakamoto and he created a 
+composition fullmoon for his album async. The piece is fully based on the quote from Paul Bowles 
+translated into different languages:  
+ 
+“Because we don't know when we will die, we get to think of life as an inexhaustible well, yet 
+everything happens only a certain number of times, and a very small number, really. How many 
+more times will you remember a certain afternoon of your childhood, some afternoon that's so 
+
+
+--- PDF第58页 ---
+58 
+ 
+deeply a part of your being that you can't even conceive of your life without it? Perhaps four or 
+five times more, perhaps not even that. How many more times will you watch the full moon rise? 
+Perhaps twenty. And yet it all seems limitless.” 
+ 
+ 
+Conclusions: 
+    The Sheltering Sky is another example of a bridge between two different cultures, in which 
+music plays a crucial role. Primarily, the music helps to establish the film’s environment. 
+Sakamoto in collaboration with Horowitz is using a diverse palette of sounds and melodies that 
+enrich the cinematic experience. From the jazzy overture during the titles to echoes of Western 
+classical music in the main theme and ethnic North African music, the music enhances the overall 
+atmosphere. The interaction between the leitmotivs, the cultural background behind chosen pieces, 
+the strategic use of silence and the fusion of Eastern and Western elements contributes to the 
+musical landscape and goes beyond a mere accompaniment. Sakamoto’s score becomes an integral 
+part of the storytelling, adding a layer of emotional depth.  
+    One of the Eastern musical elements applied in the film that gain a function of a soundmark is 
+adhan, which serves as a reminder of where the protagonists are located and in which cultural and 
+religious environment. The music mostly accompanies the scenes in synchrony, intensifying the 
+dramatic on-screen events. In the first half of the film, the music exists mostly in the extradiegetic 
+realm, operating on the mediated or external level by offering a comment on the situations or 
+conveying the emotions of protagonists. All the off-screen score is written by Sakamoto, in which 
+he employed a leitmotiv system for added depth. In the second half of the film the on-screen music 
+increases significantly, functioning as a communication medium between the characters in specific 
+scenes.  
+    Sakamoto built his score on the music material of the main theme movement, for which he chose 
+a sonata form. The motives from its exposition, development and recapitulation became the 
+leitmotivs linked to certain themes and characters in the film. This way, theme A becomes the 
+leitmotif of Kit and Port’s fate, theme B appears in the moments of misunderstanding between 
+them, and the theme of development refers to a more existentialist and thought-provoking line. 
+Often the music is foreseeing the future events of the film, creating tension through the audio-
+visual conflict. 
+    The film incorporates an extensive variety of traditional songs and ethnic music, deepening its 
+connection to diverse cultural contexts. 
+ 
+ 
+
+
+--- PDF第59页 ---
+59 
+ 
+3. 2. Derrida (2002)  
+ 
+    Derrida is a documentary film by Kirby Dick and Amy Ziering about Jacques Derrida, a French 
+postmodernist philosopher of Jewish origins and the author of philosophy of deconstruction, which 
+he developed after a close study of phenomenology, especially through the philosophy of Martin 
+Heidegger. The film is thought to be in the style of cinéma vérité, showing the life of the 
+philosopher and questioning the limitations of biography. The director Kirby Dick often turns to 
+this style because it enables a more intricate relationship with his subjects; moreover, he often 
+integrates the footage of his subjects into his films. He also uses archival footage, music videos, 
+documentary interviews etc. In 2002 Derrida won the Golden Gate Award. 
+ 
+    Jacques Derrida was a former mentor and teacher of the co-director Amy Ziering from Yale 
+University, and one of the most contradictory figures in the academic world. The main field of his 
+philosophical work is language, writing, and structures. His method of deconstruction works with 
+a text and has a bigger political purpose:  
+    “The idea behind deconstruction is to deconstruct the workings of strong nation-states with 
+powerful immigration policies, to deconstruct the rhetoric of nationalism, the politics of place, the 
+metaphysics of native land and native tongue… the idea is to disarm the bombs… of identity that 
+nation-states build to defend themselves against the stranger, against Jews and Arabs and 
+immigrants.”55  
+    He states that what unites the states, institutions and nations is the tradition – the same way of 
+doing things, a shared language, a system of words and sentences. Deconstruction is a method of 
+criticizing and unraveling a text solely through the text itself, transcending a logocentric paradigm. 
+Derrida’s central argument was that language is highly subjective – meaning varies from reader to 
+reader, making a shared truth unattainable through a single theory, philosophy or institution. Much 
+of Western philosophy tradition relies on binary oppositions where one term of concept is 
+hierarchically above for possessing a greater truth than the other does. In Of Grammatology (1967), 
+he refers to Jean-Jacques Rousseau’s ideas that human nature has been corrupted by writing, 
+highlighting the contrast between the naturalness of speech and the distancing barrier that writing 
+introduces between two minds. According to the philosopher, writing subverts the language and 
+alters the essence of words.56 
+ 
+                                                     
+55 As quoted in: John Caputo, The Prayers and Tears of Jacques Derrida: Religion Without Religion, 
+Bloomington, Indiana University Press, 1997, p. 231. 
+56 Britannica, The Editors of Encyclopaedia. "deconstruction". Encyclopedia Britannica, 21 Dec. 2023,  
+
+
+--- PDF第60页 ---
+60 
+ 
+    A few years before his death he granted permission for a film that predominantly focused on his 
+own persona and only at the age of 49 did he allow to be photographed. The film captures moments 
+like his visit to Mandela's prison, conference engagements, teaching sessions, and private 
+conversations recorded on camera. Through its portrayal, the movie seeks to present the Algerian-
+born thinker not solely as a philosopher but also as an individual. During the fragments of 
+interviews with Derrida, he covers such themes as his concept of future, the limits of biography of 
+a philosopher and his concept of deconstruction. Apart from these abstract topics, he shares his 
+views on love and unconditional forgiveness, tells us about his experience with racism and anti-
+Semitism as an Algerian-born Jewish person and shares some aspects of his personal life. Derrida 
+as well offers some reflections on improvisation, psychoanalysis, narcissism and projections. 
+ 
+    Since the film is non-fiction, the use of music here differs from previous films scored by 
+Sakamoto. The documentary tradition depends on its ability to communicate a sense of 
+authenticity. Many filmmakers who followed the early cinéma vérité style or embraced 
+observational documentary approach were skilled at creating the impression of authenticity, 
+making everything seem like the captured events unfolded naturally, independently from the 
+director’s presence. The conveyed idea is that these events would have happened similarly, even 
+if there were not a camera around.57 The avoidance of artificial lightning and external microphones 
+helps to make the subjects feel comfortable while shooting and therefore behave more naturally. 
+When combined with the lack of voice-over or music, such techniques offer a form of authenticity. 
+According to the rules of cinéma vérité, only synchronous or diegetic music is allowed in the film, 
+in order to not contradict the apparent spontaneity and naturalism of the documentary aesthetic.58  
+  
+    While keeping to these rules in the fragments with Jacques Derrida on the screen, the directors 
+deviate from them in the fragments with voiceover quoting the philosopher’s works, anyway 
+offering an impression through the union of visuals and music. This feature makes the film 
+technically closer to the genre of docudrama. Therefore, all the time the music is only extra-
+diegetic, creating a sort of parallel abstract realm. The realm of philosophy, theories and ideas.  
+ 
+                                                     
+57 Holly Rogers, Music and Sound in Documentary Film, Routledge, 2014, p. 1. 
+58 Ibid., p. 2. 
+
+
+--- PDF第61页 ---
+61 
+ 
+ 
+Figure 24. Derrida, opening. 
+ 
+Soundtrack list: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+22. 
+Jd014 
+ 
+23. 
+Jd020 
+ 
+24. 
+Jd015 
+ 
+25. 
+Jd021 
+ 
+26. 
+Jd016 
+ 
+27. 
+Jd029 
+ 
+28. 
+Jd017 
+ 
+29. 
+Jd022 
+ 
+1. 
+Jd023 
+ 
+2. 
+Jd004 
+ 
+3. 
+Jd024 
+ 
+4. 
+Jd005 
+ 
+5. 
+Jd025 
+ 
+6. 
+Jd006 
+ 
+7. 
+Jd026 
+ 
+8. 
+Jd007 
+ 
+9. 
+Jd0027 
+ 
+10. 
+Jd008 
+ 
+11. 
+Jd002 
+ 
+12. 
+Jd009 
+ 
+13. 
+Jd001 
+ 
+14. 
+Jd010 
+ 
+15. 
+Jd002 
+ 
+16. 
+Jd011 
+ 
+17. 
+Jd003 
+ 
+18. 
+Jd012 
+ 
+19. 
+Jd018 
+ 
+20. 
+Jd013 
+ 
+21. 
+Jd019 
+ 
+
+
+--- PDF第62页 ---
+62 
+ 
+ 
+Divided into 29 tracks engineered by Fernando Aponte and published by KAB America59, the 
+soundtrack of Sakamoto seems to draw no inspiration from the philosopher's everyday life, but 
+from his concept of deconstruction and the philosophy of language. It is evident from the titles of 
+the soundtracks that the music for this documentary is conceptually connected with the philosophy 
+of Derrida, in particular the theory of deconstruction. Music and sound transcend a language by 
+being able to overcome logocentrism. Each language transmits information using a ‘signifier’ and 
+a ‘signify’ and has its limits due to many meanings and associations that are linked to a word. 
+Sakamoto is most likely aware of it and therefore presents penetrating sonic portraits, which 
+transcend the borders of human language and its intrinsic dualistic hierarchy. For these sound 
+portraits, he applies the deconstruction to his work, creating a series of abstract but precise sounds.  
+    Here he is inside the concept of atonality, which implies no use of tonality and therefore it 
+cancels the hierarchy between the notes in a scale, and all notes become equal. The aesthetics of 
+atonality are not so far from the aesthetics of minimalism, even if the last one does not require 
+atonality. Still, many of minimalist pieces do not have an inclination to major or minor keys and 
+sound rather neutral, which makes this kind of music perfect for a documentary. For example the 
+cult experimental documentary film Koyaanisqatsi, directed by Godfrey Reggio and scored by 
+Philip Glass, in which the music, along with the visuals, is supposed to guide a viewer toward a 
+hypnotic state. Something similar is happening in Derrida.  
+    By the year when Kirby Dick and Amy Zierling started to produce the film, Sakamoto had 
+already reached his minimalism-inspired phase; therefore, the soundtrack for the film has some 
+minimalistic traces like, for instance, the repetitive patterns and layered textures.  
+ 
+    The segments featuring voice-over employ the combination of elements—words, sounds, 
+visuals and motion (both camera and subject movements)—to effectively communicate a message.  
+ 
+                                                     
+59 “KA+B America Inc.” is the international management team and publishing entity for Ryuichi Sakamoto. 
+
+
+--- PDF第63页 ---
+63 
+ 
+    
+ 
+Figure 25. Derrida, some of the fragments of the passages where the soundtrack is applied. 
+ 
+These segments are perceived as transitions or codas, facilitating the shift from one topic to 
+another. Frequently the camera captures Derrida engaged in his daily activities, or viewers are 
+offered to reflect on the message while observing a footage in motion, such as scenes of the view 
+from a moving car or train. The reverberation effect adds volume and a feeling of spaciousness to 
+the picture, while the experimental technique using concrète materials adds some realism. Some 
+tracks are composed with the noises of piano hammers or by plucking piano strings, others with 
+tapping the piano body etc. 
+     
+    Derrida is one of many documentary films scored by Sakamoto. The result extends well beyond 
+the conventional role of a soundtrack, providing a purely auditory experience while significantly 
+enhancing the realm of philosophical ideas in the film. The tracks are fluid, enigmatic and have a 
+deconstructed sound. This work belongs to the electronic ambient phase of the composer's 
+creativity.  
+ 
+
+
+--- PDF第64页 ---
+64 
+ 
+ 
+3.3. The Staggering Girl (2019)  
+ 
+    The Staggering Girl is a short experimental film (35 min.) in a genre of psychological drama 
+directed by a renowned Italian director Luca Guadagnino, who often collaborates with important 
+music artists for his works. The movie is produced in collaboration with Pierpaolo Piccioli, the 
+creative director of Maison Valentino, and therefore is also demonstrating the robes of the luxury 
+brand. Guadagnino’s films often feature the shades of horror genre and are highly 
+psychoanalytically based, filled with allusions to Freudian and Jungian theories about the 
+subconscious. The Staggering Girl is not an exception in it. The story suggests a mysterious and 
+tense atmosphere, which is achieved through cinematography, editing and of course music and 
+sound.  
+    Apparently, the director has been feeling admiration for the works of Sakamoto since his youth:  
+“In 1987, I went to see The Last Emperor, which is Bertolucci’s nine-Academy-Award winner. I’ve 
+been blown away by the movie and by the soundtrack, which was David Byrne, Cong Su, and 
+Ryuichi Sakamoto. I bought myself the CD, I played it and played it. That Sakamoto, I think 
+probably nobody knew that I was listening to him because I basically was listening to Sakamoto 
+in the solitude of my bedroom. I did it because it was a sort of deep inspiration for me, again.” 60 
+ 
+    The soundtrack for The Last Emperor, admired by Luca Guadagnino, belongs for the first half 
+of the composer's career, which had different aesthetics at that moment. In 2019, Sakamoto was 
+already in his ambient and experimental second half of career. The surrealistic aesthetics of The 
+Staggering Girl movie met with the ones of the composer in that period: 
+     “I go through music in a way that has to do with my instinct, by the way. I like the concept of 
+piano as a dialogue. There’s a great, beautiful album by Ryuichi Sakamoto called Back to the 
+Basics, in which the great, legendary Sakamoto reflects on his own roots that you see in Ravel; he 
+creates this beautiful piano poem that is completely inspired by that great French musician. I 
+found, in that work, the sum of what I feel is piano for me, which has to do with dialogue.” 
+ 
+Synopsis: 
+Triggered by a stranger’s secret confession, Francesca returns to her childhood home in Italy to 
+convince her ailing mother to follow her to New York. As daughter confronts mother, ghosts of 
+Francesca’s youth return in a whirlwind of pain, memory and fulfillment. 
+                                                     
+60 Matthew Schnipper, Luca Guadagnino on the Music of His Movies, and Why He Had to Have Sufjan Stevens for 
+Call Me by Your Name, Pitchfork, 2018. 
+
+
+--- PDF第65页 ---
+65 
+ 
+ 
+    The score of Sakamoto for the film consists of 11 tracks: 
+ 
+1. "The Staggering Girl" 
+1:04 
+2. "Woman in Yellow" 
+5:19 
+3. "Woman in Yellow II" 
+1:27 
+4. "Casa" 
+1:23 
+5. "Woman in Yellow III" 
+1:37 
+6. "Night Garden" 
+1:30 
+7. "Tony" 
+6:10 
+8. "Tangling" 
+1:04 
+9. "Roma" 
+1:25 
+10. "Dance" 
+3:30 
+11. "Dance – Ambient version" 
+1:42 
+ 
+ 
+    Since the movie plot is oneiric and not linear, Sakamoto’s music captures and enhances it with 
+the choice of effects and the layered texture. The reverbed piano sound in ‘The Staggering Girl’ 
+that appears non-diegetically in the opening scene (fig. 26) contains the minimalistic melodic 
+patterns that move in minor thirds and major seconds, forming tritons with a syncopated rhythm. 
+This combination creates suspense since triton is a dissonant interval in music and it resurfaces 
+off-screen.  
+ 
+ 
+
+
+--- PDF第66页 ---
+66 
+ 
+ 
+Figure 26. The Staggering Girl, opening (up), ending (down); the veil that evokes memories. 
+ 
+    ‘Woman in Yellow’ has an oneiric ambient sound, matching synchronously with the visuals and 
+adding surrealistic feeling to the scene in which the protagonist is following the enigmatic stranger 
+wearing a yellow coat. This scene is set in New York but the stranger’s phantom is appearing also 
+in Rome, just like the memories from her youth evoked by meetings with old friends, places and 
+objects. These memories do not seem to bring her joy or pleasure and the music, which appears in 
+these moments, emphasizes her neurotic state.  
+    ‘Woman in Yellow II’ appears the next time when Francesca anxiously follows the woman after 
+a high society gathering in Rome.  
+ 
+    We can hear ‘Woman in Yellow III’ while on the screen she is in her bedroom having flashbacks 
+again. This soundtrack combines the previous ‘women in yellow’ and an element from ‘The 
+Staggering Girl’, which gives us a hint that the stranger lady might be a projection61 of Francesca, 
+a part of herself which she wants to unite with but is also afraid of. This time the strange woman 
+is there in her nap, and as Francesca wakes up, she starts looking at a veil, which she painted when 
+she was an adolescent. This element of a veil is important in the film, as it appears it covers the 
+multiple sequences of opening and closing doors to the dimensions of past and present. It visually 
+unites the young and adult versions of herself (fig. 26). While memories look similar to imaginative 
+thoughts, putting them in a sequence through editing helps emphasize their strong bonds. 
+ 
+    Before that, as she is just approaching the house where she grew up and in which her blind 
+                                                     
+61 Projection in psychoanalysis is a concept introduced by Sigmund Freud, and later integrated by Carl Jung. It 
+means a defense mechanism of a psyche by which people attribute to others what is in their own minds. 
+
+
+--- PDF第67页 ---
+67 
+ 
+mother still lives, we can hear the ‘Casa’ soundtrack. It is rather calm with a shade of melancholy, 
+conveying the feelings of Francesca. 
+ 
+ 
+ 
+Figure 27. The Staggering Girl, Francesca’s return home. 
+ 
+    ‘Night Garden’ is a development of the first soundtrack, same music material but with a different 
+instrument choice. Now instead of a piano, strings are playing, giving a more emotional and intense 
+sound. This scene opens with the protagonist in a garden at night. This situation provokes more 
+memories in her, so we see a fragment of a party in her past and the soundtrack comes across with 
+the on-screen sounds of chatting, drinking and Italian pop-music in the background.  
+ 
+    A short track ‘Tony’ resounds as Francesca is speaking with her mother and remembers a boy 
+from her youth called Tony. The music implies the comicality and lightness of this memory 
+through the staccato technique in strings performing a homophonic melody.    
+ 
+
+
+--- PDF第68页 ---
+68 
+ 
+ 
+Figure 28. The Staggering Girl, final scene. 
+ 
+ 
+   The last scene of the film is the culmination, to which we are smoothly led by music and camera 
+movements. The young version of Francesca, her mother and the mysterious woman unite in a 
+dance in the garden as the adult Francesca is watching, and the soundtrack ‘Dance’ accompanies 
+them creating the so-called filmic crescendo. Together with other female figures, they move with 
+joy displaying the haute couture Valentino dresses. The soundtrack does not have a dramatic or 
+overly cheerful sound; it is rather on a neutral side, as it seems to be a moment of a catharsis for 
+the protagonist, in which she unites her subpersonalities.  
+ 
+ 
+ 
+ 
+
+
+--- PDF第69页 ---
+69 
+ 
+Conclusions: 
+    The music in this film is quite abstract and does not have a function of conveying a specific 
+narrative plot, it is here to express what is subtle, accompany the visuals and create suspense. It 
+plays the role of a signifier of emotions, and a provider of a rhythmic continuity between shots. 
+Sources of all of the tracks are invisible and some of the tracks are inaudible, in other words not 
+thought to be noticed as they subordinate themselves to a dialogue and visuals. The soundtracks 
+are often subordinated to dialogues and visuals and the overall mood provided with music is 
+dreamy, mysterious and somewhat neurotic as the psychological state of the protagonist. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.4. Minamata (2020) 
+ 
+  As mentioned in the second chapter of this thesis, Ryuichi Sakamoto got seriously involved in 
+eco-activism, promoting anti-nuclear ideas and encouraging the search for solutions to 
+environmental issues. In light of his strong humanist stance, it is unsurprising that he accepted the 
+collaboration with Andrew Levitas, an American filmmaker and artist, for his film Minamata:  
+    “Before accepting the offer, I patiently asked the American director why a U.S. citizen would 
+now make a film themed on Minamata disease. (The director said) the nuclear accident in 
+Fukushima played a large part. He said the structures of the problems were the same. The 
+Minamata issue started before the war but was covered up on many occasions. Those in vulnerable 
+positions are always sacrificed. He wanted to cast a spotlight on Minamata again to raise the 
+issue.”62 Sakamoto and Levitas do not have a long great story of collaboration like in the case with 
+Bertolucci but the director seem to be convinced about Sakamoto’s role in his film: 
+"Ryuichi was my dream collaborator — he would be on any film — but on this mission in 
+particular, there could be no one else. The music quite literally needed to represent both the 
+                                                     
+62 Interview with Ryuichi Sakamoto conducted by Atsushi Komori, 'Criminal' to keep creating nuclear waste, 
+Ryuichi Sakamoto says, “The Asahi Shimbun”, 2021. 
+
+
+--- PDF第70页 ---
+70 
+ 
+absolute best of humanity as well as the worst. In my opinion, Ryuichi was able to elegantly ride 
+this razor's edge and deliver on this concept entirely."63 
+ 
+    The film plot centers on William Eugene Smith, an American photographer who captured the 
+consequences of mercury poisoning among the residents of Minamata in Japan, which is caused 
+by industrial pollutants discharged into water sources with the operations of a chemical company 
+Chisso. The story is based on real events and includes famous photographs of Smith, which he 
+shot for Life magazine.  
+ 
+The cue list for the film looks like this: 
+1. "Minamata Piano Theme" Ryuichi Sakamoto 
+2:50 
+2. "Into Japan" 
+Ryuichi Sakamoto 
+2:58 
+3. "Landscape" 
+Ryuichi Sakamoto 
+4:17 
+4. "The Boy" 
+Ryuichi Sakamoto 
+1:10 
+5. "Chisso Co." 
+Ryuichi Sakamoto 
+2:07 
+6. "Boy and Camera" 
+Ryuichi Sakamoto 
+1:34 
+7. "Hidden Data" 
+Ryuichi Sakamoto 
+1:12 
+8. "Blow Up" 
+Ryuichi Sakamoto 
+1:51 
+9. "Rally and Persuasion" 
+Ryuichi Sakamoto 
+1:45 
+10. "Meeting" 
+Ryuichi Sakamoto 
+1:07 
+11. "Offer" 
+Ryuichi Sakamoto 
+5:31 
+12. "Commitment" 
+Ryuichi Sakamoto 
+4:35 
+13. "Fire" 
+Ryuichi Sakamoto 
+2:02 
+14. "Sharing" 
+Ryuichi Sakamoto 
+1:23 
+15. "Rising" 
+Ryuichi Sakamoto 
+1:44 
+16. "Chisso Gate" 
+Ryuichi Sakamoto 
+4:23 
+17. "Arson Man" 
+Ryuichi Sakamoto 
+2:25 
+18. "Suicide" 
+Ryuichi Sakamoto 
+1:47 
+19. "Mother and Child"  
+Ryuichi Sakamoto 
+2:29 
+20. “Coda” 
+Ryuichi Sakamoto                                                 5:46 
+ 21. “Icon” 
+Ryuichi Sakamoto                                                 5:46 
+ 22. “Coda” 
+Ryuichi Sakamoto                                                 5:46 
+ 
+ 
+    The film opens with the titles accompanied by a sound of running water and a soft female voice 
+singing a lullaby for her ailing daughter in a bath (fig. 36). This is a moment of preparation for 
+taking the renowned photograph of William Eugene Smith Tomoko and Mother in the Bath, which 
+frames the film into an integral piece through opening and closing it. A lullaby is always a symbol 
+                                                     
+63 The script by Andrew Levitas in the liner notes for the vinyl release of the soundtrack. 
+
+
+--- PDF第71页 ---
+71 
+ 
+of intimacy, innocence and mother’s love, and this lullaby here appears like a hymn to humanity 
+in this technogenic context, bringing the viewer inside the intimate space of the photograph and 
+demonstrating the scale of the tragedy and the force of unconditional love transcending sufferings.  
+ 
+ 
+Figure 29. Minamata, arrival at Minamata.           
+ 
+    The electro-ambient track “Into Japan” follows the protagonist as he is arriving in Minamata in 
+Japan (fig. 29). It is a balanced atmospheric track, which contains human voice-like sounds, 
+holding notes still. Together with the drone footage of Japanese landscapes, it forms a perception 
+of spaciousness and adds volume to the picture. The distorted sound of the violin conveys the idea 
+of suffering and a broken harmony in the place. At around 00:19:40 we can hear the sound of an 
+
+
+--- PDF第72页 ---
+72 
+ 
+accordion incorporated into the soundtrack as one of many layers of sounds, although the source 
+is on-screen, a boy who is playing accordion on the street.  
+    “Landscape” and “The Boy” tracks sound like a continuation of the previous one but with even 
+more breathy voices, real-time strings, and random glitch-hop riffs reminding the noises of an 
+industrial environment. The reverbs and echo effects transfer us into a dimmed catastrophic 
+environment of Minamata. Since from the point of view of the screenplay, this act technically 
+plays the role of exposition, the music is soft and introductive as well.   
+ 
+ 
+Figure 30. Minamata, the first protest scene. 
+ 
+    The plot of the film is based on the confrontation between the company discharging toxins and 
+the people who are suffering from it, the photographer is supposed to be just an observer, although 
+he ends up confronting the powers of the company on the side of the people too. The first time 
+there is an open protest on the screen, we hear “Chisso Co.” track (fig. 30). It starts silent and 
+grows more dramatic as the events become more tense. The function of the soundtrack in this 
+scene is to build tension and add drama to the scene as the two sides start to fight. The 
+cinematography in Minamata is a big signifier, as it conveys many messages. This way the scenes 
+are prevalently dark and poorly lit conveying the state of despair, while the film color editing tends 
+to be with a yellow or green tint, which in this context can be subconsciously associated with 
+disease and toxins (fig. 29, 30, 31).  
+ 
+
+
+--- PDF第73页 ---
+73 
+ 
+ 
+Figure 31. Minamata, cinematography examples. 
+ 
+    In scenes where Eugene captures the local life through his photographs by walking around the 
+coast, a distinct yellow color tint dominates the mise en scène, portraying the tranquil family life 
+of the locals on a sunny day. The combination of warm colors and simple life might be perceived 
+as pleasant; however, the presence of tense music in the non-diegetic space contrasts with it, 
+helping the viewer recognize the abnormality of the situation (fig. 32). 
+ 
+
+
+--- PDF第74页 ---
+74 
+ 
+ 
+Figure 32. Minamata, Eugene capturing life in Minamata, examples of yellow coloring. 
+ 
+    Some acousmatic sounds resurface during the film from time to time. For example, the sounds 
+of war through the blocked ears are similar to what a shell-shocked person would hear, which 
+come up together with the images in black and white, symbolizing the recalling memory of 
+William’s professional life. This sound is supposed to be from his subjective perception of reality, 
+so it is in the mediated level and incorporated into the soundtrack by Sakamoto. According to 
+Chion, the opposition between what is visualized and the acousmatic provides the basis for the 
+fundamental audiovisual notion of off-screen space.64  
+    At [00:48:00] – [00:50:00] the acousmatic sound of the alarm overlaps with “Hidden Data'' track 
+in a scene when the main characters discover the truth about the cause of Minamata disease and 
+                                                     
+64 Michel Chion, Musiques, Médias, Technologie, Flammarion, "Dominos", Paris, 1994, p. 73. 
+
+
+--- PDF第75页 ---
+75 
+ 
+its symptoms. Since their actions are not quite regulated officially, it is a strained situation and the 
+high-pitched one-note sound along with heavily reverbed glitches and noises of falling objects. 
+Such artificial industrial sounds convey this mood as well as complement the visuals with non-
+verbal information.  
+    The sound of the camera shutter is another significant one in this film, whose function is quite 
+simple but important. For instance, at [00:49:43] it can be examined at different levels: firstly, it 
+serves as a means for transition between the scenes; secondly, it coincides with the sound of a 
+firing gun masked under it and thereby transforming it into a sonic metaphor representing the fight 
+for human rights.  
+ 
+    Leitmotivs and reoccurring music material are not as diverse in Minamata as in other film scores 
+by Sakamoto. The main theme titled ‘Minamata Piano Theme’ (fig. 33) is in G minor and possesses 
+a lyrical character. This theme is also present in other tracks like ‘Commitment’ and ‘Coda’. 
+ 
+ 
+Figure 33. Minamata Piano Theme. 
+ 
+    ‘Commitment’ appears in the non-diegetic space at [1:07:06] and extends until [1:11:29] 
+coinciding with various on-screen developments. During this sequence, Eugene makes a sharp 
+decision to develop all the photo negatives taken in Minamata, and a flashback occurs depicting 
+the moment in which he refused the corrupted offer from the chief executive officer of Chisso 
+Company. The musical accompaniment to these events incorporates the main theme, which is 
+complemented by a marching melodic line in the middle of the track and adds a strong reminiscent 
+connection to The Last Emperor’s ‘Open the Door’. In both instances, this marching musical 
+motive is applied during an emotionally charged moment of expressing strong determination.  
+
+
+--- PDF第76页 ---
+76 
+ 
+ 
+    The other recurring motive is the comforting and melancholic melody of the ‘Boy and Camera’ 
+track. The timbre of the prepared piano65 gives it a soft touch and the opulent cello sound adds an 
+intimate feeling, just as the moments themselves are in which this music appears in the film.      
+ 
+    ‘Sharing’ is another version of this motive but slower and sounds at [1:21:10] during the moment 
+of Eugene asking permission of the suffering families to spend time with them and let him 
+photograph their personal lives for the greater good.  
+ 
+    From this moment the next act of the story begins, it is the redemption part of the screenplay, 
+introduced by the uplifting sound of ‘Rising’. The pulsating rhythm with ascending harmonies and 
+crescent dynamic force helps to stimulate a feeling of returning strength after the disheartening 
+events. In the on-screen space, we see the process of Eugene taking photos, which is communicated 
+to the viewer through the scenes turning from color to black and white. Starting with scenes of 
+posing for the photos, the passage arrives at its culmination with people protesting in front of the 
+gates of Chisso Company and it is completely synchronized with the soundtrack. This point 
+[1:24:30] is signed with the resurfacing ‘Chisso Gate’ track.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                     
+65 A prepared piano is a piano that has had its sounds temporarily altered by placing bolts, screws, mutes, rubber 
+erasers, and/or other objects on or between the strings. 
+
+
+--- PDF第77页 ---
+77 
+ 
+ 
+Figure 34. Minamata residents posing for Eugene synchronized with the ‘Rising’ track in the extra-diegetic space. 
+ 
+    The second protest scene is notably more dynamic. Dominated by the people’s collective anger, 
+it launches with the diegetic sounds of loud and chaotic chants, gradually merging with the extra-
+diegetic soundtrack. With time, the diegetic noises diminish until completely inaudible. This 
+deliberate effect creates dissonance, metaphorically representing the overwhelming anger. The 
+dissonance between sound and visuals constructs a virtual space for the viewer, fostering a sense 
+of alienation from the events and positioning them as an observer —a documentarist, mirroring 
+Eugene’s role in the scene.  
+ 
+ 
+Figure 35. Minamata, second protest scene. 
+ 
+
+
+--- PDF第78页 ---
+78 
+ 
+    Following a sequence of other intense events in the resolution act, the movie revisits the initial 
+scene where a mother cradles her child in a bath, singing a lullaby (fig. 36). This time it is in color 
+and it is noteworthy that only in these two scenes does a live human voice sing diegetically, 
+creating a narrative frame that conveys a message of hope for humanity. The sound of ‘Mother 
+and Child’ track with a peaceful mood of a prayer confirms this message. Stylistically it is 
+reminiscent of Protestant church music, in particular an organ prelude for a Lutheran choral chant 
+from the Baroque era. This track indeed features organ timbre and homophonic harmonic structure, 
+which is typical for such a chorale. Often in cinema, the music of Lutheran composers is used as 
+a symbol of meta-spirituality. Ryuichi Sakamoto did not use a pre-existent piece but composed an 
+accordingly styled original one for this scene. It carries a specific emotional message that creates 
+an atmosphere of universal tragedy, spiritual contemplation, and religious assessment of what is 
+happening.  
+ 
+ 
+Figure 36. Minamata, ‘Mother and Child’. 
+ 
+The resolution part is accompanied by the ‘Coda’ track until the end of the film. As mentioned 
+earlier, it is based on the main theme (fig. 33) and it is a variation of it. The return of this theme in 
+the end is logical, as it is the point at which everything about Minamata gets in its right place.  
+ 
+ 
+ 
+ 
+
+
+--- PDF第79页 ---
+79 
+ 
+Conclusions: 
+    The film Minamata weaves its narrative through a masterful use of sound and music to create a 
+profound emotional impact on the audience. The soundtrack by Ryuichi Sakamoto does its role 
+and starts with a gentle piano theme including various elements like atmospheric battles between 
+sequencers, rhythmic beats, and minimalistic melodies. It accompanies the story of Eugene Smith, 
+an American photographer documenting the impact of mercury poisoning in a Japanese town.  
+    The music enhances the classical structure of the screenplay of this film, which consists of seven 
+main points: the setup, the catalyst, plot point one, the midpoint, the despair, the redemption, and 
+the end. This means that the sound is mostly implicitly synchronized with the narrative, except for 
+some few moments.  
+    The film’s cinematography also plays a pivotal role in conveying messages, with prevalent dark 
+and poorly lit scenes reflecting despair, and the yellow or green tint subtly associating with disease 
+and toxins. Acousmatic sounds, such as war-like sounds through blocked ears, alarm and camera 
+shutter, provide a subjective, mediated perception of reality, contributing to the film’s audiovisual 
+dynamics.   
+    Sakamoto’s use of leitmotivs, while less diverse than in some other of his works, establishes a 
+strong connection with the film’s themes. The ‘Minamata Piano Theme’ serves as the main motive, 
+recurring in other tracks. In terms of diegetic and non-diegetic spaces, the music in this film is 
+mostly extradiegetic; among the diegetic pieces is only a lullaby, which adds a layer of deep 
+meaning, and a boy playing accordion on the street of Minamata.  
+    This is a prevalent electronic work of Sakamoto, which allows him to extend the range of 
+timbres and rhythms to express the film’s idea, but this fact also makes it harder to provide a 
+classical musicological analysis with the search for leitmotivs and themes. The soundtrack has a 
+character of concrete music, experimental technique of musical composition using recorded 
+sounds as raw material.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF第80页 ---
+80 
+ 
+ 
+Chapter IV. Exploration of Sakamoto's Innovative Approaches and Influences 
+ 
+ 
+4.1. Identification of unique features and contributions of Sakamoto's film music 
+ 
+    The analysis of the selected film scores in Chapter III traced the trajectory of Sakamoto’s 
+composing style. Throughout all of the changes that stand in the instrument choices, varying 
+themes and motives to adjust them to the screenplays, and switches between different sound design 
+styles, certain consistent features thread through his body of work, uniting it with the cohesive 
+identity. These very features that help to recognize Sakamoto’s touch are the subject of this final 
+chapter of the thesis.  
+    The extremely limited amount of primal sources set a big challenge for this research and forced 
+me to create a synthesis of my own knowledge and analytic skills. While analyzing the scores it is 
+important to remember that they never arrive at the film in their pure form, as they become a 
+subject to artistic changes of directors, producers, and sound designers during the process of 
+filmmaking. Therefore, it is always a collective work. In order to identify the unique features of 
+Sakamoto’s music and his contributions to the narratives, I will attempt to consider his scores 
+separately from the narratives in search for musicological patterns and interconnections, as well 
+as together with the narratives to identify his way of working with the storytelling musically that 
+leads the audience to a cathartic outcome. The following are the main features or the pillars on 
+which Sakamoto stands as an artist and film music composer.  
+ 
+ADAPTIVITY AND AUTHENTICITY 
+  The selected films display his ability to adapt to the story and a director’s vision of the film, and 
+at the same time remaining within his own framework. It is typical for a film composer to form a 
+tandem with one or two directors but Ryuichi Sakamoto took his own path, following his artistic 
+intuition and collaborating with many different directors and in different genres but almost always 
+with a tendency to choose to score films in a genre of psychological drama. In a collaboration with 
+Bernardo Bertolucci, Sakamoto followed the director’s indications which definitely formed his 
+filmic musical style for the period of the 80-90’s. The Last Emperor is an epic biographical drama 
+which demands a relevant approach, consisting of a rich orchestra composition and a system of 
+leitmotifs. On the other hand, The Sheltering Sky is a more intimate psychological drama. 
+Nonetheless the different scales of the settings, both of the films explore the inner world of the 
+protagonists and require sensitivity from the musical accompaniment.  
+
+
+--- PDF第81页 ---
+81 
+ 
+  In Derrida a noticeable shift in the approach and style is evident, as the composer adapted his 
+sound designs to suit the documentary’s essence, reflecting the main idea of the film. The score 
+has the character of a soundscape. Here he revisits his electronic roots but with a new intention of 
+creating an audio dimension for the documentary about a philosopher. This project belongs to his 
+phase of life before 2014 when he was diagnosed with cancer. This year became a milestone for a 
+profound inner transformation which naturally shaped the trajectory of his creative life as well.  
+  The surrealistic The Staggering Girl and Minamata required a more structured approach, so 
+Sakamoto used the leitmotiv system as a pivot again yet adding a lot of electronic elements to the 
+cues to align the sound with the filmic style of the directors. His ability to adapt to the film’s 
+narrative and a director’s artistic vision made him highly requested, but the projects that he chooses 
+can also tell us about him as a person and as an artist, as they must be the stories that resonate with 
+him one way or another. 
+ 
+PSYCHOLOGISM 
+ Typically for Sakamoto, the films that he scored explore the themes of cultural identity, 
+displacement, and personal transformation against the backdrop of exotic locations. They often 
+exhibit a high level of psychologism, where the music serves as a window into the inner workings 
+of the characters’ minds and emotions. Sakamoto’s compositions are delicately intertwined with 
+the narrative and they often align with the emotional arcs of the characters, enhancing the 
+audience’s empathetic connection with their psychological journey. This phenomenon may be 
+explained by the emotional contagion hypothesis ideated by Jerome Bruner and Leonard Meyer, 
+which suggests that music has the power to induce emotions in listeners by mirroring the affective 
+states depicted on the screen.66 
+ Additionally, the associationist theory of Michel Chion and Claudia Gorbman states that viewers 
+form associations between music and specific emotions or characters, reinforcing the 
+psychological depth of the narrative. Audiences often rely on the music in films to help them 
+understand what is happening, then they tend to question less and just go along with the narrative. 
+Claudia Gorbman states, that film music makes viewers less critical and more relaxed by guiding 
+them into what characters are saying or doing when it is not clear and helps viewers feel 
+emotionally connected to the characters and scenes by using related tunes. This connection makes 
+viewers see the whole story as one piece, even if there are some inconsistencies. Sakamoto’s music 
+is intertwined with the characters’ internal states, serving as a sonic reflection of their turmoil of 
+                                                     
+66 Stephen Davies, Musical Understandings: And Other Essays on the Philosophy of Music, OUP Oxford, 
+2011, p. 48. 
+ 
+
+
+--- PDF第82页 ---
+82 
+ 
+catharsis, as was exposed in the analyses of the films in Chapter III.  
+  Musically speaking, he expresses human psychological states through the means of music, for 
+instance, by using pulsating rhythms in a fast tempo to express excitement or agitation like in 
+“Rain” from The Last Emperor; slow sensual chromatic melodies to communicate complicated 
+feelings of confusion, despair and grief, as for example in “The Baby (Was Born Dead)” from The 
+Last Emperor or “On the Hill” and “Dying” from The Sheltering Sky; applying neoclassical 
+approach to express an anxious state of mind as in “Port’s Composition” from The Sheltering Sky.  
+  According to the Expressive theory of Claudia Gorbman from her Unheard Melodies: Narrative 
+Film Music, music communicates nonverbal emotional cues that transcend linguistic barriers, and 
+Sakamoto’s ability to convey complex psychological nuances through his compositions works 
+with the expressive power of film music in shaping viewers’ emotional responses and deepening 
+their understanding of character psychology.   
+    Overall, the composer's ability to infuse his scores with psychological depth aligns with key 
+principles of film music theory. Speaking with the terms of Sergio Miceli, mentioned in the first 
+chapter, Sakamoto tends to choose implicit synchronization points between music and film, 
+underlining sentiments more than events and actions. The accompaniment often comes on the 
+mediated level, which gives it the feature of subjectivity and links it with a character in the film. 
+This may serve as an argument to prove the high level of psychologism in his film scores.   
+ 
+ECLECTICITY 
+   Sakamoto’s film music stands out for its rich tapestry of cultures, reflecting his background in 
+ethnomusicology and his open-mindedness to diverse musical traditions. This cultural diversity 
+adds depth and richness to his compositions, making them more interesting and engaging for 
+audiences. By incorporating elements from different cultures, Sakamoto creates music that is both 
+universal and respectful of diverse origins. This cultural fusion not only enhances the emotion of 
+his film scores but also reflects the composer’s desire to promote cross-cultural understanding 
+through music within the realm of cinema. Drawing from his classical training, Sakamoto exhibits 
+a mastery of form and structure, as has been seen in Chapter III from the analysis of the scores for 
+The Last Emperor. There he applies the leitmotiv system, typical for Western classical music, at 
+the same time using the melodies based on pentatonic scales, which is the main feature of Chinese 
+music, played by traditional Chinese instruments together with a classical symphony orchestra.  
+    For The Sheltering Sky, Ryuichi Sakamoto chose to use sonata form for the main theme, 
+structuring the majority of the soundtracks around the melodic material introduced in its parts. 
+Apart from this choice based on his classical background, so is the choice of instruments trusting 
+the performance to a symphonic orchestra, while some of the themes are played by piano. Since 
+
+
+--- PDF第83页 ---
+83 
+ 
+the plot is set in North Africa, all of these Western features are balanced by the elements of local 
+music, Islamic chants, and other parts recreating the soundscape of the places. Later on, he 
+switches to more modern settings that do not require the involvement of traditional music, 
+therefore he experiments a lot with crafting the soundscapes. The connection with traditional 
+sounds in the mentioned films is crucial for the impact on the viewers as it carries most of the 
+semantic load.  
+    Such a variety of settings requires a profound mental journey to the layers of different cultures 
+and a capacity to open one’s mind to them in order to create a fusion of traditional and electronic 
+music. His repertoire encompasses traditions from Okinawa, Indonesia, and Brazil, and his early 
+fascination with English rock and French Impressionism remains evident. This blend of influences 
+is mirrored in his piano compositions, which offer a reflective exploration of his iconic film scores 
+and electronic classics. From his roots in rock to his embrace of global sounds, Sakamoto’s music 
+embodies a journey of cross-cultural exchange and artistic evolution.  
+ 
+BRIDGE BETWEEN THE WEST AND THE EAST 
+   From the previous point, we come to this one: Ryuichi Sakamoto is a phenomenon of a musical 
+mediator between Western and Eastern cultures. Being himself a Japanese composer living 
+permanently in New York and working with many renowned Western directors as well as the 
+Japanese ones, he is indeed a bridge for intercultural communication. His music showcases this 
+feature and seems to be almost egoless, especially in his latest works, which again recalls his 
+already mentioned adaptivity. While the concept of the cultural West and East is very complex 
+and contradictory as there is no fixed geographical border between the two regions, it is more 
+about a mental belonging to a paradigm, and Sakamoto seems to belong to both at the same time.  
+The clearest example of this is The Last Emperor, where the complex and unusual for Western ear 
+Chinese music is presented in a simplified form in a fusion with the familiar sound of symphonic 
+orchestra and the appearings of some quotations of Western folk songs.  
+   Sakamoto, being himself influenced by European classical music composers, believed that music 
+is interconnected and has the power to transcend the linguistic barriers, becoming something 
+universally relatable and shared by people around the globe.  
+ 
+ELECTRONIC ELEMENTS 
+   Through Derrida, The Staggering Girl and Minamata we can see the composer’s shift to 
+electronic music, possibly reevaluating his synch-pop past for instance in “Dance” soundtrack for 
+Guadagnino’s short film, or in a deconstructed electronic soundscape for the documentary about 
+Derrida, experimenting with concrète materials, noises of piano hammers and heavy reverberation. 
+
+
+--- PDF第84页 ---
+84 
+ 
+In Minamata, tracks like “Landscape” and “The Boy” are built with an emphasis on ethereal 
+voices, and sporadic glitch-hop elements, reminiscent of industrial noises. The deliberate use of 
+reverberation and echo effects further immerses the listener in the somber atmosphere of the town 
+of Minamata. In these examples Sakamoto employs electronic elements to enhance the emotional 
+resonance of the films’ narratives, underscoring his ability to seamlessly integrate innovative 
+sound design techniques into his evolving musical repertoire.  
+    Equipped with a microphone, he would go out on the streets of New York or forest paths to 
+capture the rich tapestry of natural or industrial sounds. This affinity for raw environmental noises 
+resonates with the principles of concrete music, a genre that prioritizes real-world sounds over 
+traditional musical notation. Concrete music explores the auditory textures of everyday 
+phenomena, transforming them into musical elements. The blurring of musical and environmental 
+boundaries highlights the intrinsic musicality of any sound source. Concrete music played a crucial 
+role in shaping electronic music and laid the groundwork for modern music techniques. Sakamoto 
+integrates electronic elements into his music, using synthesizers, electronic beats, and 
+experimental sound design but at the same time using the traditional orchestration, creating a 
+balance between electronic and organic sounds. The use of electronics contributes to the ethereal 
+and otherworldly atmosphere of his scores.  
+ 
+EXPERIMENTALISM 
+   Throughout his career, Sakamoto has continuously pushed the boundaries of sound, exploring 
+various techniques to create unique auditory experiences. Often he would incorporate found 
+sounds and unconventional instruments into his compositions, especially in his later phase of life. 
+These can range from everyday objects like kitchen utensils to field recordings of natural 
+phenomena. While applying electronic editing, he experiments with different timbres, frequencies, 
+and sonic textures. In his musical collaborations he plays with the elements from jazz, classical, 
+ambient, and pop music for his compositions.  
+   His fascination for technology and sound art is evident in his experimental sound designs. He 
+explored the creative potential of new technologies such as computer-generated algorithms, 
+algorithmic composition and interactive audiovisual installations, for instance his Improvisation 
+for Sonic Cure67, where the composer extracts profound meditative sonic patterns from different 
+solid objects and a piano. In terms of film scores, he uses experimental sound design as a medium 
+of storytelling and expression.  
+ 
+                                                     
+67 Ryuichi Sakamoto: Improvisation for Sonic Cure, Voluntary Garden Online Concert: Sonic Cure. 
+The performance was originally broadcast on February 29, 2020, by UCCA x Kuaishou. 
+
+
+--- PDF第85页 ---
+85 
+ 
+ 
+FROM LEITMOTIFS TO ABSTRACTION  
+   At the beginning of his film music career, the scores appear to be melodically rich with 
+traditional orchestration. The system of leitmotifs served him as a solid base for scoring the films. 
+Each of the themes is associated with a certain character or setting in the narrative and evokes 
+certain emotions in a viewer. These motives serve as musical signatures, instantly recognizable to 
+the audience, whether it is a haunting melody representing a character’s inner turmoil like “Open 
+the Door” theme or a triumphant motif accompanying a heroic moment like “First Coronation” 
+theme in The Last Emperor. 
+   However, as Sakamoto’s career progressed, he began to explore more experimental and abstract 
+approaches to composition, moving away from the structured confines of the leitmotif system. He 
+embraced a more fluid and unconventional form of musical expression. Rather than relying on 
+recurring motifs, his composition became characterized by atmospheric textures, ambient 
+soundscapes, and minimalist arrangements, as evident for instance in Minamata. This shift towards 
+abstraction allowed Sakamoto to break free from the constraints of narrative association and 
+explore the pure emotional resonance of music. This approach encourages listeners to engage with 
+the music on a deeper, more introspective level, inviting them to explore the nuances of mood and 
+atmosphere without the guidance of explicit leitmotifs. This also allows a more open interpretation.  
+ 
+SYMBOLISM  
+   The symbolism of his works lies in a complex relationship between the sound and the context 
+where it is placed. The cultural fusion in his music can be seen as a symbol of the intersection of 
+different cultures and the harmony that can arise from their fusion. Many of his compositions 
+evoke imagery of nature, using sounds such as flowing water, bird calls, or wind to create 
+atmospheric textures. This symbolism reflects a deep reverence for the natural world and a concern 
+for environmental issues. Apart from this, the idea of “perpetual sound” which was born in his 
+creative mind through his extensive interaction with the piano, symbolizes eternity. Observing the 
+piano’s transient nature, with its sound gradually fading into the surrounding environment, 
+Sakamoto felt a longing, admiring instruments like the guitar or violin for their ability to sustain 
+sound. Motivated by this, he committed to the quest for the perpetual sound, complementing the 
+flow of film and adding a touch of vibrancy.  
+   While considering his film scores, we should also take into account the aspects of timing and the 
+visual. The music or sound appears at a certain time in a visual and rhetoric situation, and each of 
+the aspects provides some information, which opens a door into a possible interpretation. For 
+instance, “Open the door” from The Last Emperor is a symbol the perpetual imprisonment of the 
+
+
+--- PDF第86页 ---
+86 
+ 
+Emperor, of the borders of the walls of the Forbidden City and his strive for freedom. More often 
+than not, it is the main film themes that have leitmotiv function that begin to symbolize something 
+in the film. 
+ 
+SYNCHRONIZATION 
+   When Sakamoto collaborates with filmmakers, he tailors the score for the measure of the film 
+and its scenes. To do so, he follows the synchronization principle, which according to Sergio 
+Miceli can be distinguished between two types – implicit and explicit (more in Chapter I). Most 
+of the times, the composer tends to apply implicit synchronization, underlining sentiments more 
+than events and thoughts more than actions. Using the framework of Martine Huvenne’s 
+Audiovisual Chord, this type of synchronization works through narrative enhancement which lies 
+in the audio complementing the visual storytelling, adding layers of meaning. To achieve this, 
+Sakamoto masterfully manipulates the harmonic structure, rhythms and timbres. Sometimes 
+explicit synchronization would be utilized to achieve the effect of emotional amplification on the 
+viewer, for instance in a scene from The Last Emperor (see p. 35), where the audial line is 
+synchronized with the visual line through the power of silence. In moments like these the rhythmic 
+and temporal alignment creates a dynamic and engaging experience. In any case, Sakamoto gives 
+a lot of importance to the right timing and precision. 
+ 
+Overall, the approach of Sakamoto to film scoring is characterized by adaptability, authenticity, 
+and commitment to pushing artistic boundaries, making him a pioneer figure in the world of film 
+music.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+--- PDF第87页 ---
+87 
+ 
+ 
+ 
+BIBLIOGRAPHY 
+ 
+Monographs: 
+ ADORNO, Theodor. Night Music: Essays on Music 1928–1962, edited by Rolf 
+Tiedemann, translated by Wieland Hoban, London, New York, and Calcutta: Seagull 
+Books, 2009. 
+ ADORNO, Theodor; EISLER, Hanns. Composing for the films. London: Continuum, 2007 
+(1947).  
+ ARENA, Leonardo Vittorio. La filosofia di Sakamoto. Il wabi/sabi dei colori proibiti. 
+Milan: Mimesis, 2017.  
+ BROWN, Royal S. Overtones and undertones: reading film music. Berkeley: University 
+of California Press, 1994.  
+ BUHLER, James; NEUMEYER, David. Hearing the Movies: Music and Sound in Film 
+History. Oxford University Press, 2009. 
+ CHION, Michel. Audio-vision: Sound on Screen, edited and translated by Gorbman 
+Claudia. New York: Columbia University Press, 2019. 
+ COKER, Wilson. Music and Meaning. Toronto: Coller-MacMilan, 1972. 
+ COLEMAN, Lindsay; TILLMAN, Joakim. Contemporary Film Music: Investigating 
+Cinema Narratives and Composition. 1st ed., London: Palgrave Macmillan, 2017. 
+ COOK, Nichola. Analysing Musical Multimedia. Oxford University Press, 2000. 
+ COPLAND, Aaron. What to Listen For in Music, New York: The New American 
+Library, 1963 
+ DAVIES, Stephen. Musical Understandings: And Other Essays on the Philosophy of 
+Music, Oxford University Press, 2011. 
+ DAVIS, Richard. Complete Guide to Film Scoring: The Art and Business of Writing. 
+Berklee Press Publications, 1999 
+ DONNELLY, Kevin. Occult aesthetics: synchronization in sound film. Oxford: Oxford 
+University Press, 2014.  
+ ELIADE, Mircea. Images and symbols. Princeton University Press, 1991 
+ GOLDMARK, Daniel; KRAMER Lawrence, LEPPERT, Richard. Beyond the soundtrack: 
+representing music in cinema. Berkeley: University of California Press, 2007.  
+ GORBMAN, Claudia. Unheard melodies: Narrative film music. London: British Film 
+Institute, 1988. 
+ HUVENNE, Martine. The Audiovisual Chord: Embodied Listening in Film, Singapore: 
+
+
+--- PDF第88页 ---
+88 
+ 
+Springer Verlag, 2023. 
+ JANE, Sharon; ROBINSON, Luke. Sound Affects: A User's Guide. Bloomsbury 
+Academic, 2023.  
+ KNIGHT-HILL, Andrew. Sound and Image Aesthetics and Practices. Massachusetts: 
+Focal Press, 2020.  
+ MORRICONE, Ennio;  MICELI, Sergio. Composing for the cinema: the theory and praxis 
+of music in film. Lanham: The Scarecrow Press, 2013.  
+ NYMAN, Michael. 1974. Experimental Music. Cage and Beyond. London: Studio Vista, 
+1974.  
+ PUDOVKIN, Vsevolod. Film Technique and Film Acting, trans. and ed. Ivor Montagu, 
+New York: Grove Press, 1960. 
+ ROGERS, Holly. Music and sound in documentary film. Abingdon, Oxon: Routledge, 
+2014.  
+ ZUCKERKANDL, Victor. Sound and symbol, volume 1: Music and the external world. In 
+Bollingen Series General. Princeton University Press, 1969. 
+ 
+ 
+Articles: 
+ EBERT, Roger.The Last Emperor, review, 1987. 
+ GALLEZ, Douglas. Theories of Film Music, “Cinema Journal”, vol. 9, no. 2, spring 1970, 
+pp. 40-47. 
+ GORBMAN, Claudia. Narrative Film Music, “Yale French Studies”, no. 60, 1980, pp. 
+183–203. 
+ GREWE, Oliver, KATZUR, Björn, KOPIEZ, Reinhard, ALTENMULLER, Eckhart. 
+Chills in different sensory domains – Frisson elicited by acoustical, visual, tactile and 
+gustatory stimuli, “Psychology of Music”, vol. 39, no. 2, 2010, pp. 220–239. 
+ HUBERT, Craig. Composer Ryuichi Sakamoto Reflects on His Life, Work, and Battle 
+with Cancer, “Hyperallergic”, July 2018. 
+ MARKS, Martin. Film Music: The Material, Literature, and Present State of Research, 
+“Notes” 36, no. 2, 1979, pp. 282–325.  
+ MICELI, Sergio. Miceli’s Method of Internal, External, and Mediated Levels: Elements 
+for the Definition of a Film-Musical Dramaturgy. “Music and the Moving Image”, vol. 4, 
+no. 2, 2011, pp. 1–29. 
+ NGUYEN, Kevin. Music Sounds the Way It Does Because of Ryuichi Sakamoto, “QG”, 
+2023. 
+
+
+--- PDF第89页 ---
+89 
+ 
+ NI, Yushang. Analysis of the Fusion and Collision of Chinese and Western Music and 
+Culture from the Film Score of "The Last Emperor" , Proceedings of the 2nd 
+International Conference on Language, Art and Cultural Exchange ICLACE 2021, Vol. 
+559, 2021. 
+ Ryuichi Sakamoto, Festival MITO SETTEMBRE MUSICA, 2019. 
+ SCHNIPPER, Matthew. Luca Guadagnino on the Music of His Movies, and Why He Had 
+to Have Sufjan Stevens for Call Me by Your Name, Pitchfork, 2018. 
+ SMITH, Q. Douglas. Gig Alert: Ryuichi Sakamoto, “WNYC Culture Producer”, October 
+2010. 
+ 
+ 
+Interviews:  
+ The Thousand Sounds of Ryuichi Sakamoto, moderated by Peter Cowie: 
+https://www.youtube.com/watch?v=bIHYr17D_68 
+ Le Music Presents: Ryuichi Sakamoto Interview: 
+https://www.youtube.com/watch?v=xTo_So9FqxQ 
+ Ryuichi Sakamoto – Music for a Divided World: 
+https://www.youtube.com/watch?v=QjiyndquZ2I 
+ Dialogues with Ryuichi Sakamoto & Shirin Neshat: 
+https://www.youtube.com/watch?v=qSaZzWsplzQ 
+ Ryuichi Sakamoto: interview for Qobuz: 
+https://www.youtube.com/watch?v=bTFNrIGObCI 
+ Ryuichi Sakamoto Talks About His Unique Perspective On Music, interview by Red Bull 
+Music, https://www.youtube.com/watch?v=mJEZFTbxm4o 
+ Interview with Bernardo Bertolucci at The Charlie Rose Show, available on: 
+https://www.youtube.com/watch?v=WPrZKpy80Kk 
+ 
+ Sakamoto: "Per la morte di Bertolucci mi sono seduto al piano e ho scritto per lui”, 
+interview available on: https://bernardobertolucci.org/diary/sakamoto-bertolucci/ 
+ HSIEH, Stella. A Private Dialogue: Shigehiko Hasumi and Ryuichi Sakamoto on The 
+Last Emperor, Honhondo Publisher, 1988. 
+ David Byrne and Ryuichi Sakamoto interview - The Last Emperor, "A Música no 
+Cinema" (Music Behind The Scenes), available on: 
+https://www.youtube.com/watch?v=wwLBkbLaOrA 
+ KENNEDY, Harlan. Bernardo Bertolucci - In Interview The Sheltering Sky, “American 
+
+
+--- PDF第90页 ---
+90 
+ 
+Cinema Papers Archive”, 1990. 
+ Sonic Memories: A Conversation with Ryuichi Sakamoto, moderated by Hillary Weston: 
+https://www.criterion.com/current/posts/4625-sonic-memories-a-conversation-with-
+ryuichi-sakamoto 
+ MCNEIL, David. Ryuichi SAKAMOTO: From Bach To Rock To Pop . . . And The Fate Of 
+The Corporate Earth, “The Asia-Pacific Journal: Japan Focus”, vol. 4, issue 12, 2006: 
+https://apjjf.org/-David-McNeill/2284/article.html 
+ MANABE, Noriko. The No Nukes 2012 Concert and the Role of Musicians in the Anti-
+Nuclear Movement, “The Asia-Pacific Journal: Japan Focus”, vol. 19, issue 19, no. 2, 2012: 
+https://apjjf.org/2012/10/29/Noriko-Manabe/3799/article.html 
+ 
+ 
+Web sources: 
+https://www.evanerichards.com/2010/974 
+http://letterboxd.com 
+https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA 
+https://mubi.com/it/it/films/ryuichi-sakamoto-opus 
+https://mubi.com/it/it/films/ryuichi-sakamoto-playing-the-piano-2022 
+https://www.themoviedb.org/movie/499805-async-first-light 
+Sónar+D, The future of music according to Ryuichi Sakamoto: 
+https://www.youtube.com/watch?v=HSk8eBj4tkk 
+ 
+ 
+ 
+ 
+FILMOGRAPHY 
+ 
+The Last Emperor (1988) | Bernardo Bertolucci 
+The Sheltering Sky (1990) | Bernardo Bertolucci 
+Little Buddha (1993) | Bernardo Bertolucci 
+Derrida (2002) | Kirby Dick and Amy Ziering Kofman 
+async - first light (2017) | Apichatpong Weerasethakul 
+Ryuichi Sakamoto: Coda (2017) | Stephen Nomura Schible 
+The Staggering Girl (2019) | Luca Guadagnino 
+Minamata (2020) | Andrew Levitas 
+Ryuichi Sakamoto | Opus (2023) | Neo Sora 
+
+
+--- PDF第91页 ---
+91 
+ 
+ 
+ 
+LIST OF FIGURES 
+ 
+Figure 1. The Last Emperor’s leitmotiv, theme A………………………………………………  32 
+Figure 2. Theme B………………………………………………………………………………. 32 
+Figure 3. The Last Emperor, opening scene……………………………………………………..  33 
+Figure 4. The Last Emperor, first flashback……………………………………………………..  34 
+Figure 5. The Last Emperor, coronation scene; Pu Yi receives the cricket……………………..  35 
+Figure 6. The Last Emperor……………………………………………………………………..  36 
+Figure 7. The Last Emperor, scene of expelling from the Forbidden City……………………..  37 
+Figure 8. “Rain”………………………………………………………………………………..   38 
+Figure 9. The Last Emperor, the scene when we hear “Rain”…………………………………    39 
+Figure 9. The Last Emperor, farewell scene……………………………………………………   40 
+Figure 10. The Last Emperor, second coronation scene………………………………………… 41 
+Figure 11. The Last Emperor, a comparison of two scenes…………………………………….  43 
+ 
+Figure 12. The Sheltering Sky. The passage with the sound of adhan…………………………   48 
+Figure 13. The Sheltering Sky Theme. Exposition, theme A………………………………….    49 
+Figure 14. The Sheltering Sky Theme. Exposition, transition to theme B……………………..   49 
+Figure 15. The Sheltering Sky Theme. Exposition, theme B…………………………………… 49 
+Figure 16. The Sheltering Sky Theme. Development…………………………………………    50 
+Figure 17. The Sheltering Sky, visuals to Port’s Composition…………………………………   51 
+Figure 18. The Sheltering Sky. Kit and Port singing “Oh! Susanna”…………………………… 52 
+Figure 19. The Sheltering Sky. Scene at the cemetery………………………………………….  53 
+Figure 20. The Sheltering Sky, Port’s delirium visions………………………………………… 54 
+Figure 21. The Sheltering Sky, Port is dying…………………………………………………..   55 
+Figure 22. The Sheltering Sky. Kit is being expelled from captivity accompanied  
+                                                  by others singing………………………………………………. 56               
+Figure 23. The Sheltering Sky. Scene of Kit collapsing at the market…………………………  57 
+ 
+Figure 24. Derrida, opening……………………………………………………………………..  61 
+Figure 25. Derrida, some of the fragments of the passages where the soundtrack is applied…… 63 
+ 
+Figure 26. The Staggering Girl, opening (right), ending (left);  
+
+
+--- PDF第92页 ---
+92 
+ 
+the veil that evokes memories……………………………………………………………….  65-66 
+Figure 27. The Staggering Girl, Francesca’s return home……………………………………… 67 
+Figure 28. The Staggering Girl, final scene……………………………………………………..  68 
+ 
+Figure 29. Minamata, arrival to Minamata...................................................................................  71 
+Figure 30. Minamata, the first protest scene……………………………………………………. 72 
+Figure 31. Minamata, cinematography examples…………………………………………….....  73 
+Figure 32. Minamata, Eugene capturing life in Minamata, examples of yellow coloring……...  74 
+Figure 33. Minamata Piano Theme..............................................................................................  75 
+Figure 34. Minamata residents posing for Eugene synchronized with the ‘Rising’  
+track in the extra-diegetic………………………………………………………………….… 76-77 
+Figure 35. Minamata, second protest scene..................................................................................  77 
+Figure 36. Minamata, ‘Mother and Child’……………………………………………………… 78 
+ 
+ 

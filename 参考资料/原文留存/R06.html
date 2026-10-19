@@ -1,0 +1,1371 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, Cong Su | MOVIE MUSIC UK</title>
+
+<link rel="stylesheet" href="https://s2.wp.com/wp-content/themes/pub/inove/style.css?m=1745604443i" type="text/css" media="screen" />
+
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/pub/inove/js/base.js?m=1398364822i"></script>
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/pub/inove/js/menu.js?m=1351714433i"></script>
+
+<link rel="pingback" href="https://moviemusicuk.us/xmlrpc.php" />
+<meta name='robots' content='max-image-preview:large' />
+
+<!-- Async WordPress.com Remote Login -->
+<script id="wpcom_remote_login_js">
+var wpcom_remote_login_extra_auth = '';
+function wpcom_remote_login_remove_dom_node_id( element_id ) {
+	var dom_node = document.getElementById( element_id );
+	if ( dom_node ) { dom_node.parentNode.removeChild( dom_node ); }
+}
+function wpcom_remote_login_remove_dom_node_classes( class_name ) {
+	var dom_nodes = document.querySelectorAll( '.' + class_name );
+	for ( var i = 0; i < dom_nodes.length; i++ ) {
+		dom_nodes[ i ].parentNode.removeChild( dom_nodes[ i ] );
+	}
+}
+function wpcom_remote_login_final_cleanup() {
+	wpcom_remote_login_remove_dom_node_classes( "wpcom_remote_login_msg" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_validate" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_js" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_iframe" );
+	wpcom_remote_login_remove_dom_node_id( "wpcom_request_access_styles" );
+}
+
+// Watch for messages back from the remote login
+window.addEventListener( "message", function( e ) {
+	if ( e.origin === "https://r-login.wordpress.com" ) {
+		var data = {};
+		try {
+			data = JSON.parse( e.data );
+		} catch( e ) {
+			wpcom_remote_login_final_cleanup();
+			return;
+		}
+
+		if ( data.msg === 'LOGIN' ) {
+			// Clean up the login check iframe
+			wpcom_remote_login_remove_dom_node_id( "wpcom_remote_login_key" );
+
+			var id_regex = new RegExp( /^[0-9]+$/ );
+			var token_regex = new RegExp( /^.*|.*|.*$/ );
+			if (
+				token_regex.test( data.token )
+				&& id_regex.test( data.wpcomid )
+			) {
+				// We have everything we need to ask for a login
+				var script = document.createElement( "script" );
+				script.setAttribute( "id", "wpcom_remote_login_validate" );
+				script.src = '/remote-login.php?wpcom_remote_login=validate'
+					+ '&wpcomid=' + data.wpcomid
+					+ '&token=' + encodeURIComponent( data.token )
+					+ '&host=' + window.location.protocol
+					+ '//' + window.location.hostname
+					+ '&postid=8277'
+					+ '&is_singular=1';
+				document.body.appendChild( script );
+			}
+
+			return;
+		}
+
+		// Safari ITP, not logged in, so redirect
+		if ( data.msg === 'LOGIN-REDIRECT' ) {
+			window.location = 'https://wordpress.com/log-in?redirect_to=' + window.location.href;
+			return;
+		}
+
+		// Safari ITP, storage access failed, remove the request
+		if ( data.msg === 'LOGIN-REMOVE' ) {
+			var css_zap = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } @media screen and ( max-width: 782px ) { html { margin-top: 0 !important; } * html body { margin-top: 0 !important; } }';
+			var style_zap = document.createElement( 'style' );
+			style_zap.type = 'text/css';
+			style_zap.appendChild( document.createTextNode( css_zap ) );
+			document.body.appendChild( style_zap );
+
+			var e = document.getElementById( 'wpcom_request_access_iframe' );
+			e.parentNode.removeChild( e );
+
+			document.cookie = 'wordpress_com_login_access=denied; path=/; max-age=31536000';
+
+			return;
+		}
+
+		// Safari ITP
+		if ( data.msg === 'REQUEST_ACCESS' ) {
+			console.log( 'request access: safari' );
+
+			// Check ITP iframe enable/disable knob
+			if ( wpcom_remote_login_extra_auth !== 'safari_itp_iframe' ) {
+				return;
+			}
+
+			// If we are in a "private window" there is no ITP.
+			var private_window = false;
+			try {
+				var opendb = window.openDatabase( null, null, null, null );
+			} catch( e ) {
+				private_window = true;
+			}
+
+			if ( private_window ) {
+				console.log( 'private window' );
+				return;
+			}
+
+			var iframe = document.createElement( 'iframe' );
+			iframe.id = 'wpcom_request_access_iframe';
+			iframe.setAttribute( 'scrolling', 'no' );
+			iframe.setAttribute( 'sandbox', 'allow-storage-access-by-user-activation allow-scripts allow-same-origin allow-top-navigation-by-user-activation' );
+			iframe.src = 'https://r-login.wordpress.com/remote-login.php?wpcom_remote_login=request_access&origin=' + encodeURIComponent( data.origin ) + '&wpcomid=' + encodeURIComponent( data.wpcomid );
+
+			var css = 'html { -webkit-transition: margin-top 1s; transition: margin-top 1s; } /* 9001 */ html { margin-top: 46px !important; } * html body { margin-top: 46px !important; } @media screen and ( max-width: 660px ) { html { margin-top: 71px !important; } * html body { margin-top: 71px !important; } #wpcom_request_access_iframe { display: block; height: 71px !important; } } #wpcom_request_access_iframe { border: 0px; height: 46px; position: fixed; top: 0; left: 0; width: 100%; min-width: 100%; z-index: 99999; background: #23282d; } ';
+
+			var style = document.createElement( 'style' );
+			style.type = 'text/css';
+			style.id = 'wpcom_request_access_styles';
+			style.appendChild( document.createTextNode( css ) );
+			document.body.appendChild( style );
+
+			document.body.appendChild( iframe );
+		}
+
+		if ( data.msg === 'DONE' ) {
+			wpcom_remote_login_final_cleanup();
+		}
+	}
+}, false );
+
+// Inject the remote login iframe after the page has had a chance to load
+// more critical resources
+window.addEventListener( "DOMContentLoaded", function( e ) {
+	var iframe = document.createElement( "iframe" );
+	iframe.style.display = "none";
+	iframe.setAttribute( "scrolling", "no" );
+	iframe.setAttribute( "id", "wpcom_remote_login_key" );
+	iframe.src = "https://r-login.wordpress.com/remote-login.php"
+		+ "?wpcom_remote_login=key"
+		+ "&origin=aHR0cHM6Ly9tb3ZpZW11c2ljdWsudXM%3D"
+		+ "&wpcomid=16550018"
+		+ "&time=" + Math.floor( Date.now() / 1000 );
+	document.body.appendChild( iframe );
+}, false );
+</script>
+<link rel='dns-prefetch' href='//s2.wp.com' />
+<link rel='dns-prefetch' href='//s1.wp.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="MOVIE MUSIC UK &raquo; Feed" href="https://moviemusicuk.us/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MOVIE MUSIC UK &raquo; Comments Feed" href="https://moviemusicuk.us/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="MOVIE MUSIC UK &raquo; THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, Cong&nbsp;Su Comments Feed" href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/feed/" />
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		function addLoadEvent(func) {
+			var oldonload = window.onload;
+			if (typeof window.onload != 'function') {
+				window.onload = func;
+			} else {
+				window.onload = function () {
+					oldonload();
+					func();
+				}
+			}
+		}
+		/* ]]> */
+	</script>
+	<style id="wp-img-auto-sizes-contain-inline-css">
+img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
+/*# sourceURL=wp-img-auto-sizes-contain-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-2-1' href='/_static/??-eJx9jFEKwkAMRC/kmuqHpR/Fs9Rt1LS7STBZxdu7FUEQKQMDb5gZeGiIwo7skEvQVC7EBhO6DnH+MGSRxcaS0OCGaXAcg4r5D22j2Qb+Xyaa8Xv8prU68ZmY/Al+xVyHWk41kzsuo2Pud23bdFX7w/QC03ZJDg==&cssminify=yes' type='text/css' media='all' />
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+/*# sourceURL=wp-emoji-styles-inline-css */
+</style>
+<style id="wp-block-library-inline-css">
+:root{--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#3858e9;--wp-admin-theme-color--rgb:56,88,233;--wp-admin-theme-color-darker-10:#2145e6;--wp-admin-theme-color-darker-10--rgb:33.0384615385,68.7307692308,230.4615384615;--wp-admin-theme-color-darker-20:#183ad6;--wp-admin-theme-color-darker-20--rgb:23.6923076923,58.1538461538,214.3076923077;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}body.admin-color-fresh{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (min-resolution:192dpi){body.admin-color-fresh{--wp-admin-border-width-focus:1.5px}}.wp-element-button{cursor:pointer}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}:root .has-text-align-center{text-align:center}:root .has-text-align-left{text-align:left}:root .has-text-align-right{text-align:right}.has-fit-text{white-space:nowrap!important}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;overflow-wrap:normal!important;padding:0;position:absolute;width:1px;word-break:normal!important}.screen-reader-text:focus{background-color:#ddd;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(.has-border-color){border-style:solid}html :where([style^=border-color],[style*=";border-color"],[style*="; border-color"]){border-style:solid}html :where([style^=border-top-color],[style*=";border-top-color"],[style*="; border-top-color"]){border-top-style:solid}html :where([style^=border-right-color],[style*=";border-right-color"],[style*="; border-right-color"]){border-right-style:solid}html :where([style^=border-bottom-color],[style*=";border-bottom-color"],[style*="; border-bottom-color"]){border-bottom-style:solid}html :where([style^=border-left-color],[style*=";border-left-color"],[style*="; border-left-color"]){border-left-style:solid}html :where([style^=border-width],[style*=";border-width"],[style*="; border-width"]){border-style:solid}html :where([style^=border-top-width],[style*=";border-top-width"],[style*="; border-top-width"]){border-top-style:solid}html :where([style^=border-right-width],[style*=";border-right-width"],[style*="; border-right-width"]){border-right-style:solid}html :where([style^=border-bottom-width],[style*=";border-bottom-width"],[style*="; border-bottom-width"]){border-bottom-style:solid}html :where([style^=border-left-width],[style*=";border-left-width"],[style*="; border-left-width"]){border-left-style:solid}html :where(img[class*=wp-image-]){height:auto;max-width:100%}:where(figure){margin:0 0 1em}html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:var(--wp-admin--admin-bar--height,0px)}@media screen and (max-width:600px){html :where(.is-position-sticky){--wp-admin--admin-bar--position-offset:0px}}@supports (not (-webkit-backdrop-filter:blur(1px))) and (not (-moz-appearance:none)){mtd[columnalign=right]{text-align:-webkit-right}mtd[columnalign=left]{text-align:-webkit-left}menclose[notation~=top]{border-top:.065em solid;padding-top:.1em}menclose[notation~=bottom]{border-bottom:.065em solid;padding-bottom:.1em}}
+
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.2.0/build/styles/block-library/common.min.css */
+</style>
+<style id="wp-block-library-inline-css-extra">
+.has-text-align-justify {
+	text-align:justify;
+}
+.has-text-align-justify{text-align:justify;}
+/*# sourceURL=wp-block-library-inline-css */
+</style>
+
+<style id="classic-theme-styles-inline-css">
+.wp-block-button__link{background-color:#32373c;border-radius:9999px;box-shadow:none;color:#fff;font-size:1.125em;padding:calc(.667em + 2px) calc(1.333em + 2px);text-decoration:none}.wp-block-file__button{background:#32373c;color:#fff}.wp-block-accordion-heading{margin:0}.wp-block-accordion-heading__toggle{background-color:inherit!important;color:inherit!important}.wp-block-accordion-heading__toggle:not(:focus-visible){outline:none}.wp-block-accordion-heading__toggle:focus,.wp-block-accordion-heading__toggle:hover{background-color:inherit!important;border:none;box-shadow:none;color:inherit;padding:var(--wp--preset--spacing--20,1em) 0;text-decoration:none}.wp-block-accordion-heading__toggle:focus-visible{outline:auto;outline-offset:0}.wp-block-tab:not(.has-text-color){color:inherit!important}.wp-block-tab:not(.has-background){background-color:inherit!important}.wp-block-tab:focus,.wp-block-tab:hover{text-decoration:none}.wp-block-tab:focus-visible{outline:auto;outline-offset:0}
+/*# sourceURL=/wp-content/plugins/gutenberg-core/v24.2.0/build/styles/block-library/classic.min.css */
+</style>
+
+<style id="coblocks-inline-format-inline-css">
+.uppercase{text-transform:uppercase}
+/*# sourceURL=coblocks-inline-format-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-12-1' href='/_static/??/wp-content/mu-plugins/core-compat/wp-mediaelement.css,/wp-content/mu-plugins/wpcom-bbpress-premium-themes.css?m=1432920480j&cssminify=yes' type='text/css' media='all' />
+<style id="global-styles-inline-css">
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgb(6,147,227) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgb(252,185,0) 0%,rgb(255,105,0) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgb(255,105,0) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-family--albert-sans: 'Albert Sans', sans-serif;--wp--preset--font-family--alegreya: Alegreya, serif;--wp--preset--font-family--arvo: Arvo, serif;--wp--preset--font-family--bodoni-moda: 'Bodoni Moda', serif;--wp--preset--font-family--bricolage-grotesque: 'Bricolage Grotesque', sans-serif;--wp--preset--font-family--cabin: Cabin, sans-serif;--wp--preset--font-family--chivo: Chivo, sans-serif;--wp--preset--font-family--commissioner: Commissioner, sans-serif;--wp--preset--font-family--cormorant: Cormorant, serif;--wp--preset--font-family--courier-prime: 'Courier Prime', monospace;--wp--preset--font-family--crimson-pro: 'Crimson Pro', serif;--wp--preset--font-family--dm-mono: 'DM Mono', monospace;--wp--preset--font-family--dm-sans: 'DM Sans', sans-serif;--wp--preset--font-family--dm-serif-display: 'DM Serif Display', serif;--wp--preset--font-family--domine: Domine, serif;--wp--preset--font-family--eb-garamond: 'EB Garamond', serif;--wp--preset--font-family--epilogue: Epilogue, sans-serif;--wp--preset--font-family--fahkwang: Fahkwang, sans-serif;--wp--preset--font-family--figtree: Figtree, sans-serif;--wp--preset--font-family--fira-sans: 'Fira Sans', sans-serif;--wp--preset--font-family--fjalla-one: 'Fjalla One', sans-serif;--wp--preset--font-family--fraunces: Fraunces, serif;--wp--preset--font-family--gabarito: Gabarito, system-ui;--wp--preset--font-family--ibm-plex-mono: 'IBM Plex Mono', monospace;--wp--preset--font-family--ibm-plex-sans: 'IBM Plex Sans', sans-serif;--wp--preset--font-family--ibarra-real-nova: 'Ibarra Real Nova', serif;--wp--preset--font-family--instrument-serif: 'Instrument Serif', serif;--wp--preset--font-family--inter: Inter, sans-serif;--wp--preset--font-family--josefin-sans: 'Josefin Sans', sans-serif;--wp--preset--font-family--jost: Jost, sans-serif;--wp--preset--font-family--libre-baskerville: 'Libre Baskerville', serif;--wp--preset--font-family--libre-franklin: 'Libre Franklin', sans-serif;--wp--preset--font-family--literata: Literata, serif;--wp--preset--font-family--lora: Lora, serif;--wp--preset--font-family--merriweather: Merriweather, serif;--wp--preset--font-family--montserrat: Montserrat, sans-serif;--wp--preset--font-family--newsreader: Newsreader, serif;--wp--preset--font-family--noto-sans-mono: 'Noto Sans Mono', sans-serif;--wp--preset--font-family--nunito: Nunito, sans-serif;--wp--preset--font-family--open-sans: 'Open Sans', sans-serif;--wp--preset--font-family--overpass: Overpass, sans-serif;--wp--preset--font-family--pt-serif: 'PT Serif', serif;--wp--preset--font-family--petrona: Petrona, serif;--wp--preset--font-family--piazzolla: Piazzolla, serif;--wp--preset--font-family--playfair-display: 'Playfair Display', serif;--wp--preset--font-family--plus-jakarta-sans: 'Plus Jakarta Sans', sans-serif;--wp--preset--font-family--poppins: Poppins, sans-serif;--wp--preset--font-family--raleway: Raleway, sans-serif;--wp--preset--font-family--roboto: Roboto, sans-serif;--wp--preset--font-family--roboto-slab: 'Roboto Slab', serif;--wp--preset--font-family--rubik: Rubik, sans-serif;--wp--preset--font-family--rufina: Rufina, serif;--wp--preset--font-family--sora: Sora, sans-serif;--wp--preset--font-family--source-sans-3: 'Source Sans 3', sans-serif;--wp--preset--font-family--source-serif-4: 'Source Serif 4', serif;--wp--preset--font-family--space-mono: 'Space Mono', monospace;--wp--preset--font-family--syne: Syne, sans-serif;--wp--preset--font-family--texturina: Texturina, serif;--wp--preset--font-family--urbanist: Urbanist, sans-serif;--wp--preset--font-family--work-sans: 'Work Sans', sans-serif;--wp--preset--text-shadow--light: 0.05em 0.05em 0.1em rgba(0, 0, 0, 0.3);--wp--preset--text-shadow--strong: 0.1em 0.1em 0.25em rgba(0, 0, 0, 0.5);--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgb(255, 255, 255), 6px 6px rgb(0, 0, 0);--wp--preset--shadow--crisp: 6px 6px 0px rgb(0, 0, 0);}.wp-block-button{--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;}:where(body) { margin: 0; }:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}body{padding-top: 0px;padding-right: 0px;padding-bottom: 0px;padding-left: 0px;}:root :where(.wp-element-button, .wp-block-button__link){background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-albert-sans-font-family{font-family: var(--wp--preset--font-family--albert-sans) !important;}.has-alegreya-font-family{font-family: var(--wp--preset--font-family--alegreya) !important;}.has-arvo-font-family{font-family: var(--wp--preset--font-family--arvo) !important;}.has-bodoni-moda-font-family{font-family: var(--wp--preset--font-family--bodoni-moda) !important;}.has-bricolage-grotesque-font-family{font-family: var(--wp--preset--font-family--bricolage-grotesque) !important;}.has-cabin-font-family{font-family: var(--wp--preset--font-family--cabin) !important;}.has-chivo-font-family{font-family: var(--wp--preset--font-family--chivo) !important;}.has-commissioner-font-family{font-family: var(--wp--preset--font-family--commissioner) !important;}.has-cormorant-font-family{font-family: var(--wp--preset--font-family--cormorant) !important;}.has-courier-prime-font-family{font-family: var(--wp--preset--font-family--courier-prime) !important;}.has-crimson-pro-font-family{font-family: var(--wp--preset--font-family--crimson-pro) !important;}.has-dm-mono-font-family{font-family: var(--wp--preset--font-family--dm-mono) !important;}.has-dm-sans-font-family{font-family: var(--wp--preset--font-family--dm-sans) !important;}.has-dm-serif-display-font-family{font-family: var(--wp--preset--font-family--dm-serif-display) !important;}.has-domine-font-family{font-family: var(--wp--preset--font-family--domine) !important;}.has-eb-garamond-font-family{font-family: var(--wp--preset--font-family--eb-garamond) !important;}.has-epilogue-font-family{font-family: var(--wp--preset--font-family--epilogue) !important;}.has-fahkwang-font-family{font-family: var(--wp--preset--font-family--fahkwang) !important;}.has-figtree-font-family{font-family: var(--wp--preset--font-family--figtree) !important;}.has-fira-sans-font-family{font-family: var(--wp--preset--font-family--fira-sans) !important;}.has-fjalla-one-font-family{font-family: var(--wp--preset--font-family--fjalla-one) !important;}.has-fraunces-font-family{font-family: var(--wp--preset--font-family--fraunces) !important;}.has-gabarito-font-family{font-family: var(--wp--preset--font-family--gabarito) !important;}.has-ibm-plex-mono-font-family{font-family: var(--wp--preset--font-family--ibm-plex-mono) !important;}.has-ibm-plex-sans-font-family{font-family: var(--wp--preset--font-family--ibm-plex-sans) !important;}.has-ibarra-real-nova-font-family{font-family: var(--wp--preset--font-family--ibarra-real-nova) !important;}.has-instrument-serif-font-family{font-family: var(--wp--preset--font-family--instrument-serif) !important;}.has-inter-font-family{font-family: var(--wp--preset--font-family--inter) !important;}.has-josefin-sans-font-family{font-family: var(--wp--preset--font-family--josefin-sans) !important;}.has-jost-font-family{font-family: var(--wp--preset--font-family--jost) !important;}.has-libre-baskerville-font-family{font-family: var(--wp--preset--font-family--libre-baskerville) !important;}.has-libre-franklin-font-family{font-family: var(--wp--preset--font-family--libre-franklin) !important;}.has-literata-font-family{font-family: var(--wp--preset--font-family--literata) !important;}.has-lora-font-family{font-family: var(--wp--preset--font-family--lora) !important;}.has-merriweather-font-family{font-family: var(--wp--preset--font-family--merriweather) !important;}.has-montserrat-font-family{font-family: var(--wp--preset--font-family--montserrat) !important;}.has-newsreader-font-family{font-family: var(--wp--preset--font-family--newsreader) !important;}.has-noto-sans-mono-font-family{font-family: var(--wp--preset--font-family--noto-sans-mono) !important;}.has-nunito-font-family{font-family: var(--wp--preset--font-family--nunito) !important;}.has-open-sans-font-family{font-family: var(--wp--preset--font-family--open-sans) !important;}.has-overpass-font-family{font-family: var(--wp--preset--font-family--overpass) !important;}.has-pt-serif-font-family{font-family: var(--wp--preset--font-family--pt-serif) !important;}.has-petrona-font-family{font-family: var(--wp--preset--font-family--petrona) !important;}.has-piazzolla-font-family{font-family: var(--wp--preset--font-family--piazzolla) !important;}.has-playfair-display-font-family{font-family: var(--wp--preset--font-family--playfair-display) !important;}.has-plus-jakarta-sans-font-family{font-family: var(--wp--preset--font-family--plus-jakarta-sans) !important;}.has-poppins-font-family{font-family: var(--wp--preset--font-family--poppins) !important;}.has-raleway-font-family{font-family: var(--wp--preset--font-family--raleway) !important;}.has-roboto-font-family{font-family: var(--wp--preset--font-family--roboto) !important;}.has-roboto-slab-font-family{font-family: var(--wp--preset--font-family--roboto-slab) !important;}.has-rubik-font-family{font-family: var(--wp--preset--font-family--rubik) !important;}.has-rufina-font-family{font-family: var(--wp--preset--font-family--rufina) !important;}.has-sora-font-family{font-family: var(--wp--preset--font-family--sora) !important;}.has-source-sans-3-font-family{font-family: var(--wp--preset--font-family--source-sans-3) !important;}.has-source-serif-4-font-family{font-family: var(--wp--preset--font-family--source-serif-4) !important;}.has-space-mono-font-family{font-family: var(--wp--preset--font-family--space-mono) !important;}.has-syne-font-family{font-family: var(--wp--preset--font-family--syne) !important;}.has-texturina-font-family{font-family: var(--wp--preset--font-family--texturina) !important;}.has-urbanist-font-family{font-family: var(--wp--preset--font-family--urbanist) !important;}.has-work-sans-font-family{font-family: var(--wp--preset--font-family--work-sans) !important;}.has-light-text-shadow{text-shadow: var(--wp--preset--text-shadow--light) !important;}.has-strong-text-shadow{text-shadow: var(--wp--preset--text-shadow--strong) !important;}
+/*# sourceURL=global-styles-inline-css */
+</style>
+
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-14-1' href='/_static/??-eJzTLy/QTc7PK0nNK9HPLdUtyClNz8wr1i9KTcrJTwcy0/WTi5G5ekCujj52Temp+bo5+cmJJZn5eSgc3bScxMwikFb7XFtDE1NLExMLc0OTLACohS2q&cssminify=yes' type='text/css' media='all' />
+<style id="jetpack-global-styles-frontend-style-inline-css">
+:root { --font-headings: unset; --font-base: unset; --font-headings-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif; --font-base-default: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;}
+/*# sourceURL=jetpack-global-styles-frontend-style-inline-css */
+</style>
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-16-1' href='/_static/??-eJyNjcEKAjEMRH/ImhVlqwfxU6TbhrZrmhTTIv69u+JFvHgZ5sHwBh7VeOGG3KB0U6nHzAoztur87cNQRNYInVBBk7tjcCE83zVz3HrVDfxvumb2MPVMAVR8dmRIougX/DhbwrK8pwNEksnROriU884e9+PJDnaYXxwFS20=&cssminify=yes' type='text/css' media='all' />
+<script id="jetpack_related-posts-js-extra">
+var related_posts_js_options = {"post_heading":"h4"};
+//# sourceURL=jetpack_related-posts-js-extra
+</script>
+<script id="wpcom-actionbar-placeholder-js-extra">
+var actionbardata = {"siteID":"16550018","postID":"8277","siteURL":"https://moviemusicuk.us","xhrURL":"https://moviemusicuk.us/wp-admin/admin-ajax.php","nonce":"547ff5480a","isLoggedIn":"","statusMessage":"","statusSubscribed":"","subsEmailDefault":"instantly","proxyScriptUrl":"https://s0.wp.com/wp-content/js/wpcom-proxy-request.js?m=1513050504i&amp;ver=20211021","shortlink":"https://wp.me/p17rpM-29v","i18n":{"followedText":"New posts from this site will now appear in your \u003Ca href=\"https://wordpress.com/reader\"\u003EReader\u003C/a\u003E","foldBar":"Collapse this bar","unfoldBar":"Expand this bar","shortLinkCopied":"Copied to clipboard."}};
+//# sourceURL=wpcom-actionbar-placeholder-js-extra
+</script>
+<script id="jetpack-mu-wpcom-settings-js-before">
+var JETPACK_MU_WPCOM_SETTINGS = {"assetsUrl":"https://s1.wp.com/wp-content/mu-plugins/jetpack-mu-wpcom-plugin/moon/jetpack_vendor/automattic/jetpack-mu-wpcom/src/build/"};
+//# sourceURL=jetpack-mu-wpcom-settings-js-before
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJyNjtEKwjAMRX/ILsyXdQ/ip8hsw2ht09om6P7ePEyYb0IgXO7JIfCqxhViJIYspiZZA3WIyHVxjz1DLoXgFsjBXULy0DAtjN7U0rn/piEHGmI/gYr1IIlH1ek8Bdu2r78gk8PaVHyEv68q2xKb2sp70+6aL+Nk7TRbex7jB2hiTnM='></script>
+<script id="rlt-proxy-js-after">
+	rltInitialize( {"token":null,"iframeOrigins":["https:\/\/widgets.wp.com"]} );
+//# sourceURL=rlt-proxy-js-after
+</script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://moviemusicuk.wordpress.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress.com" />
+<link rel="canonical" href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/" />
+<link rel='shortlink' href='https://wp.me/p17rpM-29v' />
+<link rel="alternate" type="application/json+oembed" href="https://public-api.wordpress.com/oembed/?format=json&amp;url=https%3A%2F%2Fmoviemusicuk.us%2F2017%2F11%2F30%2Fthe-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su%2F&amp;for=wpcom-auto-discovery" /><link rel="alternate" type="application/xml+oembed" href="https://public-api.wordpress.com/oembed/?format=xml&amp;url=https%3A%2F%2Fmoviemusicuk.us%2F2017%2F11%2F30%2Fthe-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su%2F&amp;for=wpcom-auto-discovery" />
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, Cong Su" />
+<meta property="og:url" content="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/" />
+<meta property="og:description" content="THROWBACK THIRTY Original Review by Jonathan Broxton They don’t make movies like The Last Emperor anymore. A lavish historical epic directed by the great Italian filmmaker Bernardo Bertolucci and s…" />
+<meta property="article:published_time" content="2017-11-30T18:00:40+00:00" />
+<meta property="article:modified_time" content="2026-02-16T00:01:36+00:00" />
+<meta property="og:site_name" content="MOVIE MUSIC UK" />
+<meta property="og:image" content="https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg" />
+<meta property="og:image:width" content="250" />
+<meta property="og:image:height" content="250" />
+<meta property="og:image:alt" content="" />
+<meta property="og:locale" content="en_US" />
+<meta property="article:publisher" content="https://www.facebook.com/WordPresscom" />
+<meta name="twitter:creator" content="@mmuk64" />
+<meta name="twitter:site" content="@mmuk64" />
+<meta name="twitter:text:title" content="THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, Cong&nbsp;Su" />
+<meta name="twitter:image" content="https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg?w=144" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel='openid.server' href='https://moviemusicuk.us/?openidserver=1' />
+<link rel='openid.delegate' href='https://moviemusicuk.us/' />
+<link rel="search" type="application/opensearchdescription+xml" href="https://moviemusicuk.us/osd.xml" title="MOVIE MUSIC UK" />
+<link rel="search" type="application/opensearchdescription+xml" href="https://s1.wp.com/opensearch.xml" title="WordPress.com" />
+		<style id="wpcom-hotfix-masterbar-style">
+			@media screen and (min-width: 783px) {
+				#wpadminbar .quicklinks li#wp-admin-bar-my-account.with-avatar > a img {
+					margin-top: 5px;
+				}
+			}
+		</style>
+		<meta name="description" content="THROWBACK THIRTY Original Review by Jonathan Broxton They don’t make movies like The Last Emperor anymore. A lavish historical epic directed by the great Italian filmmaker Bernardo Bertolucci and starring John Lone, Joan Chen, and Peter O’Toole, the film tells the life story of Pu Yi, the last monarch of the Chinese Qing dynasty prior&hellip;" />
+<link rel="icon" href="https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=32" sizes="32x32" />
+<link rel="icon" href="https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=180" />
+<meta name="msapplication-TileImage" content="https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=270" />
+<link crossorigin='anonymous' rel='stylesheet' id='all-css-0-3' href='/_static/??-eJyNjMEKgzAQBX+o9ikVYg/ipxS7LhJNdoOb4O+Xgnr2OMMw2FNFKpklI5YqhTJ7MSyc00jrwYiqgo8XwjcorQbbfeLtSWYP3D9EnUpgA42bFuNwRaf4D4fYN+5dd61z7rX8ACk+O3g=&cssminify=yes' type='text/css' media='all' />
+
+</head>
+
+<body class="wp-singular post-template-default single single-post postid-8277 single-format-standard wp-theme-pubinove customizer-styles-applied jetpack-reblog-enabled">
+<!-- wrap START -->
+<div id="wrap">
+
+<!-- container START -->
+<div id="container"  >
+
+<!-- header START -->
+<div id="header">
+
+	<!-- banner START -->
+		<!-- banner END -->
+
+	<div id="caption">
+		<h1 id="title"><a href="https://moviemusicuk.us/">MOVIE MUSIC UK</a></h1>
+		<div id="tagline">Film Score Reviews by Jonathan Broxton since 1997</div>
+	</div>
+
+	<div class="fixed"></div>
+</div>
+<!-- header END -->
+
+<!-- navigation START -->
+<div id="navigation">
+	<!-- menus START -->
+	<ul id="menus">
+	<li class="page_item"><a class="home" title="Home" href="https://moviemusicuk.us/">Home</a></li>
+		<li class="cat-item cat-item-220687478"><a href="https://moviemusicuk.us/category/fathers-of-film-music/">Fathers of Film Music</a>
+</li>
+	<li class="cat-item cat-item-81264874"><a href="https://moviemusicuk.us/category/greatest-scores/">Greatest Scores</a>
+</li>
+	<li class="cat-item cat-item-103"><a href="https://moviemusicuk.us/category/news/">News</a>
+</li>
+	<li class="cat-item cat-item-309"><a href="https://moviemusicuk.us/category/reviews/">Reviews</a>
+</li>
+	<li class="cat-item cat-item-256180154"><a href="https://moviemusicuk.us/category/throwback-thirty/">Throwback Thirty</a>
+</li>
+	<li><a class="lastmenu" href="javascript:void(0);"></a></li>
+</ul>
+
+	<!-- menus END -->
+
+	<!-- searchbox START -->
+	<div id="searchbox">
+		<form action="https://moviemusicuk.us" method="get">
+			<div class="content">
+				<input type="text" class="textfield" name="s" size="24" value="" />
+				<input type="submit" class="button" value="" />
+			</div>
+		</form>
+	</div>
+<script type="text/javascript">
+//<![CDATA[
+	var searchbox = MGJS.$("searchbox");
+	var searchtxt = MGJS.getElementsByClassName("textfield", "input", searchbox)[0];
+	var searchbtn = MGJS.getElementsByClassName("button", "input", searchbox)[0];
+	var tiptext = "Type text to search here...";
+	if(searchtxt.value == "" || searchtxt.value == tiptext) {
+		searchtxt.className += " searchtip";
+		searchtxt.value = tiptext;
+	}
+	searchtxt.onfocus = function(e) {
+		if(searchtxt.value == tiptext) {
+			searchtxt.value = "";
+			searchtxt.className = searchtxt.className.replace(" searchtip", "");
+		}
+	}
+	searchtxt.onblur = function(e) {
+		if(searchtxt.value == "") {
+			searchtxt.className += " searchtip";
+			searchtxt.value = tiptext;
+		}
+	}
+	searchbtn.onclick = function(e) {
+		if(searchtxt.value == "" || searchtxt.value == tiptext) {
+			return false;
+		}
+	}
+//]]>
+</script>
+	<!-- searchbox END -->
+
+	<div class="fixed"></div>
+</div>
+<!-- navigation END -->
+
+<!-- content START -->
+<div id="content">
+
+	<!-- main START -->
+	<div id="main">
+
+
+	<div id="postpath">
+		<a title="Go to homepage" href="https://moviemusicuk.us/">Home</a>
+		 &gt; <a href="https://moviemusicuk.us/category/reviews/" rel="category tag">Reviews</a>		 &gt; THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, Cong&nbsp;Su	</div>
+
+	<div id="post-8277" class="post-8277 post type-post status-publish format-standard hentry category-reviews tag-cong-su tag-david-byrne tag-film-score tag-oscar-winning-scores tag-reviews tag-ryuichi-sakamoto tag-the-last-emperor tag-throwback-thirty">
+		<h2>THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, Cong&nbsp;Su</h2>
+		<div class="info">
+			<span class="date">November 30, 2017</span>
+												<div class="fixed"></div>
+		</div>
+		<div class="content">
+			<p><span style="color: #ff00ff"><em><strong><a href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/thelastemperor/" rel="attachment wp-att-8278"><img data-attachment-id="8278" data-permalink="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/thelastemperor/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg" data-orig-size="250,250" data-comments-opened="1" data-image-title="thelastemperor" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg?w=250" class="alignright wp-image-8278 size-full" style="margin-bottom: 10px;margin-left: 10px;margin-right: 10px" src="https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg?w=595" alt=""   srcset="https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg 250w, https://moviemusicuk.us/wp-content/uploads/2017/11/thelastemperor.jpg?w=150&amp;h=150 150w" sizes="(max-width: 250px) 100vw, 250px" /></a>THROWBACK THIRTY</strong></em></span></p>
+<p><b>Original Review by <a href="mmuk64@hotmail.com”">Jonathan Broxton</a></b></p>
+<p>They don’t make movies like The Last Emperor anymore. A lavish historical epic directed by the great Italian filmmaker Bernardo Bertolucci and starring John Lone, Joan Chen, and Peter O’Toole, the film tells the life story of Pu Yi, the last monarch of the Chinese Qing dynasty prior to the republican revolution in 1911. It is set within a framing story wherein the adult Pu Yi – a political prisoner of communist leader Mao Zedong – looks back on his life, beginning with his ascent to the throne aged just three in 1908, and continuing through his early life growing up in the Forbidden City in Beijing, and the subsequent political upheaval that led to his overthrow, exile, and eventual imprisonment. It’s an enormous, visually spectacular masterpiece that balances great pageantry and opulence with the very personal story of a man trying to navigate his life as a figurehead and monarch, and how he balances that with his private life and his political and social importance. It was the overwhelming critical success of 1987, and went on to win nine Oscars, including Best Picture, Best Director, and Best Adapted Screenplay, as well as a slew of technical awards for Art Direction, Cinematography, Editing, Costume Design, and Score.<span id="more-8277"></span></p>
+<p>The score for The Last Emperor was by as unlikely a trio of composers as you could possibly imagine: Ryuichi Sakamoto, David Byrne, and Cong Su. Sakamoto was an acclaimed pop musician in his native Japan, and had scored his first films three or four years previously, but was most known internationally as a result of his 1983 score for the film Merry Christmas Mr. Lawrence, in which he also appeared in the main supporting role opposite David Bowie. Byrne was the unconventional and eccentric front man of the post-punk rock band Talking Heads, who had enjoyed a fair amount of chart success with songs such as “Once in a Lifetime” in 1981, “Burning Down the House” in 1983, and “Road to Nowhere” in 1985, but had shown no indication that he was capable of writing a serious orchestral score for a prestigious drama film. Cong Su, meanwhile, was a complete unknown, an expert on Chinese classical music who split his time as a composer and musicology teacher between Beijing and Germany, but had never written for film prior to this. Quite how Bertolucci brought these three diverse individuals together to work on The Last Emperor is a mystery, but through some strange alchemy it all works; the soundtrack is a theme-filled exploration of the sounds and musical traditions of Imperial China, filtered through some very contemporary sensibilities.</p>
+<p><a href="https://moviemusicuk.us/2023/04/02/ryuichi-sakamoto-1952-2023/ryuichi-sakamoto/" rel="attachment wp-att-14108"><img data-attachment-id="14108" data-permalink="https://moviemusicuk.us/2023/04/02/ryuichi-sakamoto-1952-2023/ryuichi-sakamoto/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2023/04/ryuichi-sakamoto.jpg" data-orig-size="250,350" data-comments-opened="1" data-image-title="" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2023/04/ryuichi-sakamoto.jpg?w=250" class="alignright wp-image-14108 size-full" style="margin-bottom: 10px;margin-left: 10px;margin-right: 10px" src="https://moviemusicuk.us/wp-content/uploads/2023/04/ryuichi-sakamoto.jpg" alt="" width="250" height="350" srcset="https://moviemusicuk.us/wp-content/uploads/2023/04/ryuichi-sakamoto.jpg 250w, https://moviemusicuk.us/wp-content/uploads/2023/04/ryuichi-sakamoto.jpg?w=107&amp;h=150 107w" sizes="(max-width: 250px) 100vw, 250px" /></a>Sakamoto’s contribution to the score comprises nine cues and is focused around his main theme, a beautiful, lyrical melody for the full orchestra, with the main recurring idea often conveyed by an erhu or a <i>guzheng</i>zither. It’s a soft theme, slightly wistful, slightly introspective, but which often rises to swelling brass crescendos during its more dramatic second half. The two specific variations of the theme offer slightly different takes on the melody; “Variation 1” has an ecclesiastical tone, featuring a duet for guzheng and choir, while “Variation 2” is more abstract, with a much more prominent Fairlight synthesized element which stands out like a sore thumb, but is nevertheless typical of Sakamoto’s experimental nature. It’s interesting to note that one of the credited synth arrangers and producers on Sakamoto’s part of the score was none other than Hans Zimmer, the then-29-year-old assistant to composer Stanley Myers, who was still a year away from writing Rain Man. I wonder how much he contributed to this cue’s sound specifically?</p>
+<p>The other cues in Sakamoto’s segment tend to offer little vignettes of Pu Yi’s life as a toddler in the Imperial Palace, and help to convey the romance and majesty of his environment, as well as the inquisitiveness the little boy shows at his wondrous surroundings. “First Coronation” is a thrilling fully-orchestral enhancement of the main theme with a great deal of scope and melodrama, and an especially notable performance for a <i>konghou</i> harp. “Open the Door” is more stark and tragic sounding, with a bank of searing strings allowing little Pu Yu’s shock and horror at the death of his father to hit home, while the more strident and rhythmic second half is the closest the score comes to having an action cue. “Where is Armo?” is warmer, with rich classical strings and a welcoming sound, but which still works in some playful traditional Chinese instrumental ideas that continue on into the evocative and ancient-sounding “Picking Up Brides.” “Rain (I Want a Divorce)” continues the synths that Variation 2 added into the mix, before presenting a lush and fulsome scherzo for the string section that has a lyrical sense of joie de vivre. “The Baby (Was Born Dead)” is more downbeat, with harp and solo piano dominating and creating a somber mood.</p>
+<p><a href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/david-byrne/" rel="attachment wp-att-21234"><img data-attachment-id="21234" data-permalink="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/david-byrne/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2017/11/david-byrne.jpg" data-orig-size="250,350" data-comments-opened="1" data-image-title="=DAVID BYRNE=" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2017/11/david-byrne.jpg?w=250" class="alignright wp-image-21234 size-full" style="margin-bottom: 10px;margin-left: 10px;margin-right: 10px" src="https://moviemusicuk.us/wp-content/uploads/2017/11/david-byrne.jpg" alt="" width="250" height="350" srcset="https://moviemusicuk.us/wp-content/uploads/2017/11/david-byrne.jpg 250w, https://moviemusicuk.us/wp-content/uploads/2017/11/david-byrne.jpg?w=107&amp;h=150 107w" sizes="(max-width: 250px) 100vw, 250px" /></a>Byrne’s contribution to the score comprises five cues, but the first one – “Main Title Theme (The Last Emperor)” – is actually the score’s most recognizable element, as it plays over the film’s stylish opening credits sequence, and accompanied the three composers as they made their way to the stage to accept their Oscars from Patrick Swayze and Jennifer Grey at the 1987 Academy Awards. The main theme emerges from a set of evocative Chinese percussion items, with the melody being carried by a gorgeous, lilting erhu. It’s traditional and wholly steeped in Chinese classical music, but it has a real emotional weight that will connect with westerners; it’s repetitive and almost hypnotic in nature, picking up layers of instruments as it develops, and is quite magnificent.</p>
+<p>Byrne’s other cues are, inevitably, less powerful than his main theme, but are no less effective. It’s interesting to note just how much Byrne relied on classic Chinese music in his cues – much more so than Sakamoto did – which is unexpected considering that Sakamoto comes from a complementary musical culture, whereas Byrne was born in Scotland and grew up in Maryland. “Picking a Bride” is a playful, rhythmic piece for a variety of traditional instruments, most notably a small section of ethnic woodwinds, and what sounds like a Chinese version of an accordion. “Bed” is more abstract, featuring a number of scratched and scraped metallic percussion ideas over a bed of tremolo strings and, latterly, elegant flutes, amid the vaguest hints of his main theme. “Wind, Rain, and Water” revisits the accordion sound, and is quite jaunty with a sort of sea shanty-esque vibe, while “Paper Emperor” uses the much more western combination of brass and slightly jazzy oboes to convey a sense of bitterness and despondency.</p>
+<p>Cong Su’s contribution to the soundtrack album comprises just one cue – “Lunch” – but there is much more of his music in the film; Su was basically responsible for writing all the period-specific Chinese source music one hears in and around the imperial palace during Pu Yi’s childhood. Most of it sounds much like “Lunch,” which is a soft, quiet, intimate piece for a number of Chinese folk instruments, including a <i>dizi</i> flute, a <i>pipa</i> lute, a <i>guzheng</i>, various metallic percussion items, and the ubiquitous <i>erhu</i>. It’s very authentic sounding, and has a calming, peaceful tone. The other cues are two traditional pieces, “Red Guard” and “The Red Guard Dance,” both of which are performed diegetically on-screen by The Red Guard Accordion Band and The Girls Red Guard Dancers respectively, and a lovely orchestral rendition of Strauss’s popular “Emperor Waltz.”</p>
+<p><a href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/cong-su/" rel="attachment wp-att-21236"><img data-attachment-id="21236" data-permalink="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/cong-su/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2017/11/cong-su.jpg" data-orig-size="250,350" data-comments-opened="1" data-image-title="=CONG SU=" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2017/11/cong-su.jpg?w=250" loading="lazy" class="alignright wp-image-21236 size-full" style="margin-bottom: 10px;margin-left: 10px;margin-right: 10px" src="https://moviemusicuk.us/wp-content/uploads/2017/11/cong-su.jpg" alt="" width="250" height="350" srcset="https://moviemusicuk.us/wp-content/uploads/2017/11/cong-su.jpg 250w, https://moviemusicuk.us/wp-content/uploads/2017/11/cong-su.jpg?w=107&amp;h=150 107w" sizes="auto, (max-width: 250px) 100vw, 250px" /></a>It’s interesting how the careers of these three composers have diverged since The Last Emperor. Sakamoto, of course, has gone on to enjoy an outstanding career as one of Japan’s pre-eminent film composers, with titles such as High Heels, Little Buddha, Snake Eyes, Femme Fatale, Appleseed, and The Revenant among his more popular works. Byrne diversified greatly, releasing more albums with Talking Heads, several others as a solo artist, and contributing to art projects including ballets, operas, theatre works, and a handful of other films including 1988’s Married to the Mob and 2003’s Young Adam. Meanwhile, Cong Su only scored two more films, both of them in China, before settling down to a quiet life in musical academia in Italy.</p>
+<p>Think about all the great scores released in the past twenty years or so which have blended western orchestras with Chinese solo instrumental textures: Rachel Portman’s The Joy Luck Club, Conrad Pope’s Pavilion of Women, Klaus Badelt’s The Promise; scores by Tan Dun and Shigeru Umebayashi and Zhao Jiping; heck, even the Kung Fu Panda movies. Now try to think of one from a film that was released prior to 1987 – there aren’t many, right? In many ways, The Last Emperor was the pioneer which paved the way for many of these great scores, which makes it all the more curious why people so rarely talk about The Last Emperor today, thirty years after it’s release. Many scores from 1987 are beloved – The Untouchables, The Witches of Eastwick, Predator, Robocop, Masters of the Universe, Hellraiser, and Empire of the Sun among them – and The Last Emperor absolutely deserves to be on that list. It would not have been my choice to win the Oscar, but it remains a genuinely excellent score, full of richness, melody, emotion, and which allowed the traditional music of Imperial China to enter the film music mainstream.</p>
+<p>Buy the Last Emperor soundtrack from the <a href="//astore.amazon.com/momuuk-20/”">Movie Music UK Store</a></p>
+<p>Track Listing:</p>
+<ul>
+<li>First Coronation (1:46)</li>
+<li>Open the Door (2:54)</li>
+<li>Where is Armo? (2:26)</li>
+<li>Picking Up Brides (2:39)</li>
+<li>The Last Emperor – Theme Variation 1 (2:19)</li>
+<li>Rain (I Want a Divorce) (1:49)</li>
+<li>The Baby (Was Born Dead) (0:55)</li>
+<li>The Last Emperor – Theme Variation 2 (4:28)</li>
+<li>The Last Emperor – Theme (5:54)</li>
+<li>Main Title Theme (The Last Emperor) (4:01)</li>
+<li>Picking a Bride (2:00)</li>
+<li>Bed (5:00)</li>
+<li>Wind, Rain, and Water (2:18)</li>
+<li>Paper Emperor (1:49)</li>
+<li>Lunch (4:54)</li>
+<li>Red Guard (traditional, performed by The Red Guard Accordion Band) (1:20)</li>
+<li>The Emperor&#8217;s Waltz, Op.437 (written by Johann Strauss II, performed by The Ball Orchestra of Vienna) (3:06)</li>
+<li>The Red Guard Dance (traditional, performed by The Girls Red Guard Dancers) (0:39)</li>
+</ul>
+<p>Running Time: 50 minutes 17 seconds</p>
+<p>Virgin Records 0777-7-86029-2-7 (1987)</p>
+<p>Music composed and arranged by <b>Ryuichi Sakamoto, David Byrne,</b> and <strong>Cong Su</strong>. Conducted by <b>Gavin Wright</b>. Additional arrangements and programming by <b>Hans Zimmer, Hiro Sugawara, Koji Ueno, Lau Hong Quan</b> and <b>Yuji Nomi</b>. Recorded and mixed by <b>Steve Nye</b> and <b>Ian Sylvester</b>. Album produced by <b>Ryuichi Sakamoto</b> and <b>David Byrne</b>.</p>
+<div id="jp-post-flair" class="sharedaddy sd-like-enabled sd-sharing-enabled"><div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-email"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-email-8277"
+				class="share-email sd-button share-icon no-text"
+				href="mailto:?subject=%5BShared%20Post%5D%20THE%20LAST%20EMPEROR%20%E2%80%93%20Ryuichi%20Sakamoto%2C%20David%20Byrne%2C%20Cong%20Su&#038;body=https%3A%2F%2Fmoviemusicuk.us%2F2017%2F11%2F30%2Fthe-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su%2F&#038;share=email"
+				target="_blank"
+				aria-labelledby="sharing-email-8277"
+				data-email-share-error-title="Do you have email set up?" data-email-share-error-text="If you&#039;re having problems sharing via email, you might not have email set up for your browser. You may need to create a new email yourself." data-email-share-nonce="29ebbd9af7" data-email-share-track-url="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/?share=email">
+				<span id="sharing-email-8277" hidden>Email a link to a friend (Opens in new window)</span>
+				<span>Email</span>
+			</a></li><li class="share-print"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-print-8277"
+				class="share-print sd-button share-icon no-text"
+				href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/#print?share=print"
+				target="_blank"
+				aria-labelledby="sharing-print-8277"
+				>
+				<span id="sharing-print-8277" hidden>Print (Opens in new window)</span>
+				<span>Print</span>
+			</a></li><li class="share-facebook"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-facebook-8277"
+				class="share-facebook sd-button share-icon no-text"
+				href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/?share=facebook"
+				target="_blank"
+				aria-labelledby="sharing-facebook-8277"
+				>
+				<span id="sharing-facebook-8277" hidden>Share on Facebook (Opens in new window)</span>
+				<span>Facebook</span>
+			</a></li><li class="share-pinterest"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-pinterest-8277"
+				class="share-pinterest sd-button share-icon no-text"
+				href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/?share=pinterest"
+				target="_blank"
+				aria-labelledby="sharing-pinterest-8277"
+				>
+				<span id="sharing-pinterest-8277" hidden>Share on Pinterest (Opens in new window)</span>
+				<span>Pinterest</span>
+			</a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-twitter-8277"
+				class="share-twitter sd-button share-icon no-text"
+				href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/?share=twitter"
+				target="_blank"
+				aria-labelledby="sharing-twitter-8277"
+				>
+				<span id="sharing-twitter-8277" hidden>Share on X (Opens in new window)</span>
+				<span>X</span>
+			</a></li><li class="share-reddit"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-reddit-8277"
+				class="share-reddit sd-button share-icon no-text"
+				href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/?share=reddit"
+				target="_blank"
+				aria-labelledby="sharing-reddit-8277"
+				>
+				<span id="sharing-reddit-8277" hidden>Share on Reddit (Opens in new window)</span>
+				<span>Reddit</span>
+			</a></li><li class="share-tumblr"><a rel="nofollow noopener noreferrer"
+				data-shared="sharing-tumblr-8277"
+				class="share-tumblr sd-button share-icon no-text"
+				href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/?share=tumblr"
+				target="_blank"
+				aria-labelledby="sharing-tumblr-8277"
+				>
+				<span id="sharing-tumblr-8277" hidden>Share on Tumblr (Opens in new window)</span>
+				<span>Tumblr</span>
+			</a></li><li class="share-end"></li></ul></div></div></div><div class='sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded' id='like-post-wrapper-16550018-8277-6ad62bda5ed09' data-src='//widgets.wp.com/likes/index.html?ver=20261019#blog_id=16550018&amp;post_id=8277&amp;origin=moviemusicuk.wordpress.com&amp;obj_id=16550018-8277-6ad62bda5ed09&amp;domain=moviemusicuk.us' data-name='like-post-frame-16550018-8277-6ad62bda5ed09' data-title='Like or Reblog'><div class='likes-widget-placeholder post-likes-widget-placeholder' style='height: 55px;'><span class='button'><span>Like</span></span> <span class='loading'>Loading...</span></div><span class='sd-text-color'></span><a class='sd-link-color'></a></div>
+<div id='jp-relatedposts' class='jp-relatedposts' >
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</div></div>						<div class="fixed"></div>
+		</div>
+		<div class="under">
+			<span><span class="categories">Categories: </span><a href="https://moviemusicuk.us/category/reviews/" rel="category tag">Reviews</a></span>
+			<span><span class="tags">Tags: </span><a href="https://moviemusicuk.us/tag/cong-su/" rel="tag">Cong Su</a>, <a href="https://moviemusicuk.us/tag/david-byrne/" rel="tag">David Byrne</a>, <a href="https://moviemusicuk.us/tag/film-score/" rel="tag">Film Score</a>, <a href="https://moviemusicuk.us/tag/oscar-winning-scores/" rel="tag">Oscar-Winning Scores</a>, <a href="https://moviemusicuk.us/tag/reviews/" rel="tag">Reviews</a>, <a href="https://moviemusicuk.us/tag/ryuichi-sakamoto/" rel="tag">Ryuichi Sakamoto</a>, <a href="https://moviemusicuk.us/tag/the-last-emperor/" rel="tag">The Last Emperor</a>, <a href="https://moviemusicuk.us/tag/throwback-thirty/" rel="tag">Throwback Thirty</a></span>
+		</div>
+		<div class="fixed"></div>
+	</div>
+
+	
+
+<script type="text/javascript" src="https://s2.wp.com/wp-content/themes/pub/inove/js/comment.js?m=1399365549i&amp;1"></script>
+
+<div id="comments">
+
+	
+		<div id="cmtswitcher">
+										<a id="commenttab" class="curtab" href="javascript:void(0);" onclick="MGJS.switchTab('thecomments,commentnavi', 'thetrackbacks', 'commenttab', 'curtab', 'trackbacktab', 'tab');">
+					Comments (0)				</a>
+				<a id="trackbacktab" class="tab" href="javascript:void(0);" onclick="MGJS.switchTab('thetrackbacks', 'thecomments,commentnavi', 'trackbacktab', 'curtab', 'commenttab', 'tab');">
+					Trackbacks (1)				</a>
+			
+			
+							<span class="addtrackback"><a href="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/trackback/">Trackback</a></span>
+					</div><!-- #cmtswitcher -->
+
+		<div id="commentlist">
+
+			<!-- Comments -->
+			<ol id="thecomments">
+							<li class="messagebox">
+					No comments yet.				</li>
+						</ol><!-- #thecomments -->
+
+			
+			<!-- Trackbacks and Pingbacks -->
+			<ol id="thetrackbacks">
+										<li id="comment-420680" class="pingback even thread-even depth-1 trackback">
+		<div class="date">
+			January 30, 2026 at 10:28 pm		</div><!-- .date -->
+		<div class="act">
+					</div><!-- .act -->
+		<div class="title">
+			<a href="http://ulaghchi.blog/2026/01/31/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su-movie-music-uk/" class="url" rel="ugc external nofollow">THE LAST EMPEROR – Ryuichi Sakamoto, David Byrne, and Cong Su | MOVIE MUSIC UK &#8211; Igor&#039;s Blog</a>		</div><!-- .title -->
+</li><!-- #comment-## -->
+							</ol><!-- #thetrackbacks -->
+
+		</div><!-- #commentlist -->
+	
+	<div class="no-comments messagebox">Comments are closed.</div>
+
+
+</div><!-- #comments -->
+
+	<div id="postnavi">
+		<span class="prev"><a href="https://moviemusicuk.us/2017/12/01/the-shape-of-water-alexandre-desplat/" rel="next">THE SHAPE OF WATER – Alexandre&nbsp;Desplat</a></span>
+		<span class="next"><a href="https://moviemusicuk.us/2017/11/28/the-man-who-invented-christmas-mychael-danna/" rel="prev">THE MAN WHO INVENTED CHRISTMAS – Mychael&nbsp;Danna</a></span>
+		<div class="fixed"></div>
+	</div>
+
+
+	</div>
+	<!-- main END -->
+
+	
+<!-- sidebar START -->
+<div id="sidebar">
+
+<!-- sidebar north START -->
+<div id="northsidebar" class="sidebar">
+
+	<!-- feeds -->
+	<div class="widget widget_feeds">
+		<div class="content">
+			<div id="subscribe-feeds">
+				<a rel="external nofollow" id="feedrss" title="Subscribe to this blog..." href="https://moviemusicuk.us/feed/"><abbr title="Really Simple Syndication">RSS</abbr> feed</a>
+									<ul id="feed_readers">
+						<li id="google_reader"><a rel="external nofollow" class="reader" title="Subscribe with Google" href="http://fusion.google.com/add?feedurl=https://moviemusicuk.us/feed/"><span>Google</span></a></li>
+						<li id="youdao_reader"><a rel="external nofollow" class="reader" title="Subscribe with Youdao" href="http://reader.youdao.com/#url=https://moviemusicuk.us/feed/"><span>Youdao</span></a></li>
+						<li id="xianguo_reader"><a rel="external nofollow" class="reader" title="Subscribe with Xian Guo" href="http://www.xianguo.com/subscribe.php?url=https://moviemusicuk.us/feed/"><span>Xian Guo</span></a></li>
+						<li id="zhuaxia_reader"><a rel="external nofollow" class="reader" title="Subscribe with Zhua Xia" href="http://www.zhuaxia.com/add_channel.php?url=https://moviemusicuk.us/feed/"><span>Zhua Xia</span></a></li>
+						<li id="yahoo_reader"><a rel="external nofollow" class="reader" title="Subscribe with My Yahoo!" href="http://add.my.yahoo.com/rss?url=https://moviemusicuk.us/feed/"><span>My Yahoo!</span></a></li>
+						<li id="newsgator_reader"><a rel="external nofollow" class="reader" title="Subscribe with newsgator" href="http://www.newsgator.com/ngs/subscriber/subfext.aspx?url=https://moviemusicuk.us/feed/"><span>newsgator</span></a></li>
+						<li id="bloglines_reader"><a rel="external nofollow" class="reader" title="Subscribe with Bloglines" href="http://www.bloglines.com/sub/https://moviemusicuk.us/feed/"><span>Bloglines</span></a></li>
+						<li id="inezha_reader"><a rel="external nofollow" class="reader" title="Subscribe with iNezha"	href="http://inezha.com/add?url=https://moviemusicuk.us/feed/"><span>iNezha</span></a></li>
+					</ul>
+							</div>
+
+			<!-- twitter -->
+							<a id="followme" title="Follow me!" href="http://twitter.com/mmuk64/">Twitter</a>
+			
+			<div class="fixed"></div>
+		</div>
+	</div>
+
+	<!-- showcase -->
+	
+<div id="media_image-3" class="widget widget_media_image"><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><img width="480" height="300" src="https://moviemusicuk.us/wp-content/uploads/2018/03/newmmuklogo-small.jpg" class="image wp-image-8541 alignnone attachment-full size-full" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://moviemusicuk.us/wp-content/uploads/2018/03/newmmuklogo-small.jpg 480w, https://moviemusicuk.us/wp-content/uploads/2018/03/newmmuklogo-small.jpg?w=150&amp;h=94 150w, https://moviemusicuk.us/wp-content/uploads/2018/03/newmmuklogo-small.jpg?w=300&amp;h=188 300w" sizes="auto, (max-width: 480px) 100vw, 480px" data-attachment-id="8541" data-permalink="https://moviemusicuk.us/newmmuklogo-small/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2018/03/newmmuklogo-small.jpg" data-orig-size="480,300" data-comments-opened="1" data-image-title="newmmuklogo-small" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2018/03/newmmuklogo-small.jpg?w=480" /></div><div id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-site-navigation-container"><ul id="menu-site-navigation" class="menu"><li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="https://www.facebook.com/groups/2366292252/">MOVIE MUSIC UK FACEBOOK COMMUNITY</a></li>
+<li id="menu-item-103" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-103"><a href="https://moviemusicuk.us/reviews-a-m/">Reviews A-M</a></li>
+<li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://moviemusicuk.us/reviews-n-z/">Reviews N-Z</a></li>
+<li id="menu-item-101" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-101"><a href="https://moviemusicuk.us/reviews-by-composer/">Reviews by Composer</a></li>
+<li id="menu-item-10571" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10571"><a href="https://moviemusicuk.us/composer-interviews/">Composer Interviews</a></li>
+<li id="menu-item-100" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-100"><a href="https://moviemusicuk.us/about/">About Movie Music UK</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28"><a href="https://moviemusicuk.us/movie-music-uk-awards/">MOVIE MUSIC UK AWARDS</a></li>
+</ul></div></div><div id="media_image-5" class="widget widget_media_image"><h3>Shop at the Movie Music UK Store</h3><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="https://amzn.to/3CPUbNo"><img width="196" height="58" src="https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg?w=196" class="image wp-image-1774 alignleft attachment-196x64 size-196x64" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg?w=196 196w, https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg?w=392 392w, https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg?w=150 150w, https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg?w=300 300w" sizes="auto, (max-width: 196px) 100vw, 196px" data-attachment-id="1774" data-permalink="https://moviemusicuk.us/amazonlogo/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg" data-orig-size="559,164" data-comments-opened="1" data-image-title="amazonlogo" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2010/11/amazonlogo.jpg?w=559" /></a></div><div id="media_image-4" class="widget widget_media_image"><h3>Member of the</h3><style>.widget.widget_media_image { overflow: hidden; }.widget.widget_media_image img { height: auto; max-width: 100%; }</style><a href="http://www.filmmusiccritics.org"><img width="250" height="48" src="https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg?w=250" class="image wp-image-682 alignleft attachment-250x50 size-250x50" alt="" style="max-width: 100%; height: auto;" decoding="async" loading="lazy" srcset="https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg?w=250 250w, https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg?w=150 150w, https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg?w=300 300w, https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg 341w" sizes="auto, (max-width: 250px) 100vw, 250px" data-attachment-id="682" data-permalink="https://moviemusicuk.us/ifmcalogo/" data-orig-file="https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg" data-orig-size="341,66" data-comments-opened="1" data-image-title="ifmcalogo" data-image-description="" data-image-caption="" data-large-file="https://moviemusicuk.us/wp-content/uploads/2010/10/ifmcalogo.jpg?w=341" /></a></div>
+		<div id="recent-posts-3" class="widget widget_recent_entries">
+		<h3>Latest Reviews</h3>
+		<ul>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/15/the-ghost-and-the-darkness-jerry-goldsmith/">THE GHOST AND THE DARKNESS – Jerry&nbsp;Goldsmith</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/13/deep-in-the-heart-2-texas-rivers-noah-sorota/">DEEP IN THE HEART 2: TEXAS RIVERS – Noah&nbsp;Sorota</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/12/chapaev-gavriil-popov/">CHAPAEV – Gavriil&nbsp;Popov</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/08/bound-don-davis/">BOUND – Don&nbsp;Davis</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/06/verity-volker-bertelmann/">VERITY – Volker&nbsp;Bertelmann</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/05/george-fenton-1949-2026/">George Fenton, 1949-2026</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/05/liliom-franz-waxman-jean-lenoir/">LILIOM – Franz Waxman, Jean&nbsp;Lenoir</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/10/01/the-first-wives-club-marc-shaiman/">THE FIRST WIVES CLUB – Marc&nbsp;Shaiman</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/09/29/under-the-radar-round-up-2026-part-3/">Under-the-Radar Round Up 2026, Part&nbsp;3</a>
+									</li>
+											<li>
+					<a href="https://moviemusicuk.us/2026/09/28/song-of-the-fishermen-guang-ren/">SONG OF THE FISHERMEN – Guang&nbsp;Ren</a>
+									</li>
+					</ul>
+
+		</div><div id="archives-3" class="widget widget_archive"><h3>Monthly Review Archive</h3>
+			<ul>
+					<li><a href='https://moviemusicuk.us/2026/10/'>October 2026</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2026/09/'>September 2026</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2026/08/'>August 2026</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2026/07/'>July 2026</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2026/06/'>June 2026</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2026/05/'>May 2026</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2026/04/'>April 2026</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2026/03/'>March 2026</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2026/02/'>February 2026</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2026/01/'>January 2026</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2025/12/'>December 2025</a>&nbsp;(17)</li>
+	<li><a href='https://moviemusicuk.us/2025/11/'>November 2025</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2025/10/'>October 2025</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2025/09/'>September 2025</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2025/08/'>August 2025</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2025/07/'>July 2025</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2025/06/'>June 2025</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2025/05/'>May 2025</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2025/04/'>April 2025</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2025/03/'>March 2025</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2025/02/'>February 2025</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2025/01/'>January 2025</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2024/12/'>December 2024</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2024/11/'>November 2024</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2024/10/'>October 2024</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2024/09/'>September 2024</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2024/08/'>August 2024</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2024/07/'>July 2024</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2024/06/'>June 2024</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2024/05/'>May 2024</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2024/04/'>April 2024</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2024/03/'>March 2024</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2024/02/'>February 2024</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2024/01/'>January 2024</a>&nbsp;(19)</li>
+	<li><a href='https://moviemusicuk.us/2023/12/'>December 2023</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2023/11/'>November 2023</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2023/10/'>October 2023</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2023/09/'>September 2023</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2023/08/'>August 2023</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2023/07/'>July 2023</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2023/06/'>June 2023</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2023/05/'>May 2023</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2023/04/'>April 2023</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2023/03/'>March 2023</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2023/02/'>February 2023</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2023/01/'>January 2023</a>&nbsp;(21)</li>
+	<li><a href='https://moviemusicuk.us/2022/12/'>December 2022</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2022/11/'>November 2022</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2022/10/'>October 2022</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2022/09/'>September 2022</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2022/08/'>August 2022</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2022/07/'>July 2022</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2022/06/'>June 2022</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2022/05/'>May 2022</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2022/04/'>April 2022</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2022/03/'>March 2022</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2022/02/'>February 2022</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2022/01/'>January 2022</a>&nbsp;(20)</li>
+	<li><a href='https://moviemusicuk.us/2021/12/'>December 2021</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2021/11/'>November 2021</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2021/10/'>October 2021</a>&nbsp;(17)</li>
+	<li><a href='https://moviemusicuk.us/2021/09/'>September 2021</a>&nbsp;(17)</li>
+	<li><a href='https://moviemusicuk.us/2021/08/'>August 2021</a>&nbsp;(20)</li>
+	<li><a href='https://moviemusicuk.us/2021/07/'>July 2021</a>&nbsp;(17)</li>
+	<li><a href='https://moviemusicuk.us/2021/06/'>June 2021</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2021/05/'>May 2021</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2021/04/'>April 2021</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2021/03/'>March 2021</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2021/02/'>February 2021</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2021/01/'>January 2021</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2020/12/'>December 2020</a>&nbsp;(17)</li>
+	<li><a href='https://moviemusicuk.us/2020/11/'>November 2020</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2020/10/'>October 2020</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2020/09/'>September 2020</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2020/08/'>August 2020</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2020/07/'>July 2020</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2020/06/'>June 2020</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2020/05/'>May 2020</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2020/04/'>April 2020</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2020/03/'>March 2020</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2020/02/'>February 2020</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2020/01/'>January 2020</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2019/12/'>December 2019</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2019/11/'>November 2019</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2019/10/'>October 2019</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2019/09/'>September 2019</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2019/08/'>August 2019</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2019/07/'>July 2019</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2019/06/'>June 2019</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2019/05/'>May 2019</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2019/04/'>April 2019</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2019/03/'>March 2019</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2019/02/'>February 2019</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2019/01/'>January 2019</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2018/12/'>December 2018</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2018/11/'>November 2018</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2018/10/'>October 2018</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2018/09/'>September 2018</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2018/08/'>August 2018</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2018/07/'>July 2018</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2018/06/'>June 2018</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2018/05/'>May 2018</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2018/04/'>April 2018</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2018/03/'>March 2018</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2018/02/'>February 2018</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2018/01/'>January 2018</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2017/12/'>December 2017</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2017/11/'>November 2017</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2017/10/'>October 2017</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2017/09/'>September 2017</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2017/08/'>August 2017</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2017/07/'>July 2017</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2017/06/'>June 2017</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2017/05/'>May 2017</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2017/04/'>April 2017</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2017/03/'>March 2017</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2017/02/'>February 2017</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2017/01/'>January 2017</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2016/12/'>December 2016</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2016/11/'>November 2016</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2016/10/'>October 2016</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2016/09/'>September 2016</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2016/08/'>August 2016</a>&nbsp;(19)</li>
+	<li><a href='https://moviemusicuk.us/2016/07/'>July 2016</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2016/06/'>June 2016</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2016/05/'>May 2016</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2016/04/'>April 2016</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2016/03/'>March 2016</a>&nbsp;(19)</li>
+	<li><a href='https://moviemusicuk.us/2016/02/'>February 2016</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2016/01/'>January 2016</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2015/12/'>December 2015</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2015/11/'>November 2015</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2015/10/'>October 2015</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2015/09/'>September 2015</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2015/08/'>August 2015</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2015/07/'>July 2015</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2015/06/'>June 2015</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2015/05/'>May 2015</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2015/04/'>April 2015</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2015/03/'>March 2015</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2015/02/'>February 2015</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2015/01/'>January 2015</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2014/12/'>December 2014</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2014/11/'>November 2014</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2014/10/'>October 2014</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2014/09/'>September 2014</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2014/08/'>August 2014</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2014/07/'>July 2014</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2014/06/'>June 2014</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2014/05/'>May 2014</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2014/04/'>April 2014</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2014/03/'>March 2014</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2014/02/'>February 2014</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2014/01/'>January 2014</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2013/12/'>December 2013</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2013/11/'>November 2013</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2013/10/'>October 2013</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2013/09/'>September 2013</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2013/08/'>August 2013</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2013/07/'>July 2013</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2013/06/'>June 2013</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2013/05/'>May 2013</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2013/04/'>April 2013</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2013/03/'>March 2013</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2013/02/'>February 2013</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2013/01/'>January 2013</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2012/12/'>December 2012</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2012/11/'>November 2012</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2012/10/'>October 2012</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2012/08/'>August 2012</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2012/07/'>July 2012</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2012/06/'>June 2012</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2012/05/'>May 2012</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2012/04/'>April 2012</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2012/03/'>March 2012</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2012/02/'>February 2012</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2012/01/'>January 2012</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2011/12/'>December 2011</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2011/11/'>November 2011</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2011/10/'>October 2011</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2011/09/'>September 2011</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2011/08/'>August 2011</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2011/05/'>May 2011</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2011/04/'>April 2011</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2011/03/'>March 2011</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2011/02/'>February 2011</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2011/01/'>January 2011</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2010/12/'>December 2010</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2010/11/'>November 2010</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2010/10/'>October 2010</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2010/09/'>September 2010</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2010/07/'>July 2010</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2010/04/'>April 2010</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2010/03/'>March 2010</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2010/02/'>February 2010</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2010/01/'>January 2010</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2009/12/'>December 2009</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/2009/11/'>November 2009</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2009/10/'>October 2009</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2009/09/'>September 2009</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2009/08/'>August 2009</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2009/07/'>July 2009</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2009/06/'>June 2009</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2009/05/'>May 2009</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2009/04/'>April 2009</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2009/03/'>March 2009</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2009/02/'>February 2009</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2009/01/'>January 2009</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2008/12/'>December 2008</a>&nbsp;(20)</li>
+	<li><a href='https://moviemusicuk.us/2008/11/'>November 2008</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2008/10/'>October 2008</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2008/09/'>September 2008</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2008/08/'>August 2008</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2008/07/'>July 2008</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2008/06/'>June 2008</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2008/05/'>May 2008</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2008/04/'>April 2008</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2008/03/'>March 2008</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2008/02/'>February 2008</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2008/01/'>January 2008</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2007/12/'>December 2007</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2007/11/'>November 2007</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2007/10/'>October 2007</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2007/09/'>September 2007</a>&nbsp;(16)</li>
+	<li><a href='https://moviemusicuk.us/2007/08/'>August 2007</a>&nbsp;(18)</li>
+	<li><a href='https://moviemusicuk.us/2007/07/'>July 2007</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2007/06/'>June 2007</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2007/05/'>May 2007</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2007/04/'>April 2007</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2007/03/'>March 2007</a>&nbsp;(20)</li>
+	<li><a href='https://moviemusicuk.us/2007/02/'>February 2007</a>&nbsp;(14)</li>
+	<li><a href='https://moviemusicuk.us/2007/01/'>January 2007</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2006/12/'>December 2006</a>&nbsp;(15)</li>
+	<li><a href='https://moviemusicuk.us/2006/11/'>November 2006</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2006/10/'>October 2006</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2006/09/'>September 2006</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2006/08/'>August 2006</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2006/07/'>July 2006</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2006/06/'>June 2006</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2006/05/'>May 2006</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2006/04/'>April 2006</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2006/03/'>March 2006</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2006/02/'>February 2006</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2006/01/'>January 2006</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2005/12/'>December 2005</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2005/11/'>November 2005</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2005/10/'>October 2005</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2005/09/'>September 2005</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/2005/08/'>August 2005</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2005/07/'>July 2005</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2005/06/'>June 2005</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2005/05/'>May 2005</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2005/04/'>April 2005</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2005/03/'>March 2005</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2005/02/'>February 2005</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2005/01/'>January 2005</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2004/12/'>December 2004</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2004/11/'>November 2004</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/2004/10/'>October 2004</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2004/09/'>September 2004</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2004/08/'>August 2004</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2004/07/'>July 2004</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2004/06/'>June 2004</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2004/05/'>May 2004</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2004/04/'>April 2004</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2004/03/'>March 2004</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2004/02/'>February 2004</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2004/01/'>January 2004</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2003/12/'>December 2003</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2003/11/'>November 2003</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2003/10/'>October 2003</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2003/09/'>September 2003</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2003/08/'>August 2003</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2003/07/'>July 2003</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2003/06/'>June 2003</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2003/05/'>May 2003</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2003/04/'>April 2003</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2003/03/'>March 2003</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2003/02/'>February 2003</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2003/01/'>January 2003</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2002/12/'>December 2002</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2002/11/'>November 2002</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2002/10/'>October 2002</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2002/09/'>September 2002</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2002/08/'>August 2002</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2002/07/'>July 2002</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2002/06/'>June 2002</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2002/05/'>May 2002</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2002/04/'>April 2002</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2002/03/'>March 2002</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2002/02/'>February 2002</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2002/01/'>January 2002</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2001/12/'>December 2001</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/2001/11/'>November 2001</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2001/10/'>October 2001</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2001/09/'>September 2001</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2001/08/'>August 2001</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2001/07/'>July 2001</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2001/06/'>June 2001</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2001/05/'>May 2001</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/2001/04/'>April 2001</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2001/03/'>March 2001</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/2001/02/'>February 2001</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2001/01/'>January 2001</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/2000/12/'>December 2000</a>&nbsp;(9)</li>
+	<li><a href='https://moviemusicuk.us/2000/11/'>November 2000</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2000/10/'>October 2000</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2000/09/'>September 2000</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/2000/08/'>August 2000</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/2000/07/'>July 2000</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2000/06/'>June 2000</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2000/05/'>May 2000</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2000/04/'>April 2000</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/2000/03/'>March 2000</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/2000/02/'>February 2000</a>&nbsp;(10)</li>
+	<li><a href='https://moviemusicuk.us/2000/01/'>January 2000</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/1999/12/'>December 1999</a>&nbsp;(17)</li>
+	<li><a href='https://moviemusicuk.us/1999/11/'>November 1999</a>&nbsp;(13)</li>
+	<li><a href='https://moviemusicuk.us/1999/10/'>October 1999</a>&nbsp;(11)</li>
+	<li><a href='https://moviemusicuk.us/1999/09/'>September 1999</a>&nbsp;(5)</li>
+	<li><a href='https://moviemusicuk.us/1999/08/'>August 1999</a>&nbsp;(12)</li>
+	<li><a href='https://moviemusicuk.us/1999/07/'>July 1999</a>&nbsp;(8)</li>
+	<li><a href='https://moviemusicuk.us/1999/06/'>June 1999</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/1999/05/'>May 1999</a>&nbsp;(7)</li>
+	<li><a href='https://moviemusicuk.us/1999/04/'>April 1999</a>&nbsp;(6)</li>
+	<li><a href='https://moviemusicuk.us/1999/03/'>March 1999</a>&nbsp;(4)</li>
+	<li><a href='https://moviemusicuk.us/1999/02/'>February 1999</a>&nbsp;(3)</li>
+	<li><a href='https://moviemusicuk.us/1998/12/'>December 1998</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/1998/10/'>October 1998</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/1998/09/'>September 1998</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/1998/08/'>August 1998</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/1998/07/'>July 1998</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/1998/05/'>May 1998</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/1998/03/'>March 1998</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/1998/02/'>February 1998</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/1997/12/'>December 1997</a>&nbsp;(1)</li>
+	<li><a href='https://moviemusicuk.us/1997/11/'>November 1997</a>&nbsp;(2)</li>
+	<li><a href='https://moviemusicuk.us/1997/08/'>August 1997</a>&nbsp;(2)</li>
+			</ul>
+
+			</div>	</div>
+</div>
+<!-- sidebar END -->
+	<div class="fixed"></div>
+</div>
+<!-- content END -->
+
+<!-- footer START -->
+<div id="footer">
+	<a id="gotop" href="#" onclick="MGJS.goTop();return false;">Top</a>
+	<div id="themeinfo">
+		<a href="https://wordpress.com/?ref=footer_blog" rel="nofollow">Blog at WordPress.com.</a> 	</div>
+</div>
+<!-- footer END -->
+
+</div>
+<!-- container END -->
+</div>
+<!-- wrap END -->
+
+<!--  -->
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"/*"},{"not":{"href_matches":["/wp-*.php","/wp-admin/*","/files/*","/wp-content/*","/wp-content/plugins/*","/wp-content/themes/pub/inove/*","/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script id="grofiles-cards-js" src="//0.gravatar.com/js/hovercards/hovercards.min.js?ver=202643d1133547e8a1f2801609f51cef12522abe7f6647d869e9fbc974fe356a37e613"></script>
+<script id="wpgroho-js-extra">
+var WPGroHo = {"my_hash":""};
+//# sourceURL=wpgroho-js-extra
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/wp-content/mu-plugins/gravatar-hovercards/wpgroho.js?m=1610363240i'></script>
+
+	<script>
+		// Initialize and attach hovercards to all gravatars
+		( function() {
+			function init() {
+				if ( typeof Gravatar === 'undefined' ) {
+					return;
+				}
+
+				if ( typeof Gravatar.init !== 'function' ) {
+					return;
+				}
+
+				Gravatar.profile_cb = function ( hash, id ) {
+					WPGroHo.syncProfileData( hash, id );
+				};
+
+				Gravatar.my_hash = WPGroHo.my_hash;
+				Gravatar.init(
+					'body',
+					'#wp-admin-bar-my-account',
+					{
+						i18n: {
+							'Edit your profile →': 'Edit your profile →',
+							'View profile →': 'View profile →',
+							'Contact': 'Contact',
+							'Send money': 'Send money',
+							'Sorry, we are unable to load this Gravatar profile.': 'Sorry, we are unable to load this Gravatar profile.',
+							'Gravatar not found.': 'Gravatar not found.',
+							'Too Many Requests.': 'Too Many Requests.',
+							'Internal Server Error.': 'Internal Server Error.',
+							'Is this you?': 'Is this you?',
+							'Claim your free profile.': 'Claim your free profile.',
+							'Email': 'Email',
+							'Home Phone': 'Home Phone',
+							'Work Phone': 'Work Phone',
+							'Cell Phone': 'Cell Phone',
+							'Contact Form': 'Contact Form',
+							'Calendar': 'Calendar',
+						},
+					}
+				);
+			}
+
+			if ( document.readyState !== 'loading' ) {
+				init();
+			} else {
+				document.addEventListener( 'DOMContentLoaded', init );
+			}
+		} )();
+	</script>
+
+		<div style="display:none">
+	</div>
+			<div id="actionbar" dir="ltr" style="display: none;"
+				class="actnbr-pub-inove" role="region" aria-label="Site actions">
+			<span class="actnbr-live" aria-live="polite"></span>
+			<ul>
+										<li class="actnbr-btn">
+							<a class="actnbr-action actnbr-actn-reblog" href="" role="button">
+								<svg class="actnbr-icon actnbr-icon-reusable-block" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M7 7.2h8.2L13.5 9l1.1 1.1 3.6-3.6-3.5-4-1.1 1 1.9 2.3H7c-.9 0-1.7.3-2.3.9-1.4 1.5-1.4 4.2-1.4 5.6v.2h1.5v-.3c0-1.1 0-3.5 1-4.5.3-.3.7-.5 1.2-.5zm13.8 4V11h-1.5v.3c0 1.1 0 3.5-1 4.5-.3.3-.7.5-1.3.5H8.8l1.7-1.7-1.1-1.1L5.9 17l3.5 4 1.1-1-1.9-2.3H17c.9 0 1.7-.3 2.3-.9 1.5-1.4 1.5-4.2 1.5-5.6z"/></svg><span>Reblog</span>
+							</a>
+						</li>
+											<li class="actnbr-btn actnbr-hidden">
+										<a class="actnbr-action actnbr-actn-follow " href="" role="button" aria-haspopup="dialog" aria-expanded="false">
+				<svg class="actnbr-icon actnbr-icon-bell" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M17 11.5c0 1.353.17 2.368.976 3 .266.209.602.376 1.024.5v1H5v-1c.422-.124.757-.291 1.024-.5.806-.632.976-1.647.976-3V9c0-2.8 2.2-5 5-5s5 2.2 5 5v2.5ZM15.5 9v2.5c0 .93.066 1.98.515 2.897l.053.103H7.932a4.018 4.018 0 0 0 .053-.103c.449-.917.515-1.967.515-2.897V9c0-1.972 1.528-3.5 3.5-3.5s3.5 1.528 3.5 3.5Zm-5.492 9.008c0-.176.023-.346.065-.508h3.854A1.996 1.996 0 0 1 12 20c-1.1 0-1.992-.892-1.992-1.992Z"/></svg>				<span>Subscribe</span>
+			</a>
+			<a class="actnbr-action actnbr-actn-following  no-display" href="" role="button">
+				<svg class="actnbr-icon actnbr-icon-check" width="20" height="20" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="fill: none" stroke="currentColor" stroke-width="1.5"><path d="M7 12L10 15L17 8" vector-effect="non-scaling-stroke"/></svg>				<span>Subscribed</span>
+			</a>
+									<div class="actnbr-popover actnbr-panel actnbr-notice" id="follow-bubble" role="dialog" aria-label="Subscribe to MOVIE MUSIC UK">
+								<div class="actnbr-follow-bubble">
+								<div class="actnbr-panel__group"><a class="actnbr-menu__item actnbr-sitename" href="https://moviemusicuk.us"><img loading='lazy' alt='' src='https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=50' srcset='https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=50 1x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=75 1.5x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=100 2x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=150 3x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=200 4x' class='avatar avatar-50' height='50' width='50' /><span class="actnbr-menu__label">MOVIE MUSIC UK</span></a></div>																	<div class="actnbr-panel__group">
+										<div class="actnbr-message no-display" aria-live="polite"></div>
+										<form method="post" action="https://subscribe.wordpress.com" accept-charset="utf-8" class="no-display">
+																							<div class="actnbr-follow-count">Join 667 other subscribers</div>
+																							<input type="email" name="email" placeholder="Want updates? Enter your email" class="actnbr-email-field" aria-label="Email address" />
+											<input type="hidden" name="action" value="subscribe" />
+											<input type="hidden" name="blog_id" value="16550018" />
+											<input type="hidden" name="source" value="https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/" />
+											<input type="hidden" name="sub-type" value="actionbar-follow" />
+											<input type="hidden" id="_wpnonce" name="_wpnonce" value="05add84ade" />											<button type="submit" class="actnbr-button">Sign me up</button>
+										</form>
+										<p class="actnbr-login-nudge">
+											Have a WordPress.com account? <a href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmoviemusicuk.us%252F2017%252F11%252F30%252Fthe-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su%252F">Log in now.</a>										</p>
+									</div>
+																	</div>
+							</div>
+						</li>
+									<li class="actnbr-ellipsis actnbr-hidden">
+					<button type="button" class="actnbr-more-toggle" aria-haspopup="true" aria-expanded="false" aria-label="More options">
+						<svg class="actnbr-icon actnbr-icon-more-horizontal" width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M11 13h2v-2h-2v2zm-6 0h2v-2H5v2zm12-2v2h2v-2h-2z"/></svg>					</button>
+					<div class="actnbr-popover actnbr-menu" role="menu" aria-label="Site options">
+						<div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-sitename" href="https://moviemusicuk.us"><img loading='lazy' alt='' src='https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=50' srcset='https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=50 1x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=75 1.5x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=100 2x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=150 3x, https://moviemusicuk.us/wp-content/uploads/2019/04/mmukicon.jpg?w=200 4x' class='avatar avatar-50' height='50' width='50' /><span class="actnbr-menu__label">MOVIE MUSIC UK</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-shortlink" href="https://wp.me/p17rpM-29v"><span class="actnbr-menu__label actnbr-shortlink__text">Copy shortlink</span><span class="actnbr-menu__icon actnbr-shortlink__icon"><svg class="actnbr-icon actnbr-icon-copy" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path fill-rule="evenodd" clip-rule="evenodd" d="M5 4.5h11a.5.5 0 0 1 .5.5v11a.5.5 0 0 1-.5.5H5a.5.5 0 0 1-.5-.5V5a.5.5 0 0 1 .5-.5ZM3 5a2 2 0 0 1 2-2h11a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5Zm17 3v10.75c0 .69-.56 1.25-1.25 1.25H6v1.5h12.75a2.75 2.75 0 0 0 2.75-2.75V8H20Z"/></svg></span><span class="actnbr-menu__icon actnbr-shortlink__icon-copied"><svg class="actnbr-icon actnbr-icon-check" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" style="fill: none" stroke="currentColor" stroke-width="1.5"><path d="M7 12L10 15L17 8" vector-effect="non-scaling-stroke"/></svg></span></a><a role="menuitem" class="actnbr-menu__item actnbr-reader" href="https://wordpress.com/reader/blogs/16550018/posts/8277"><span class="actnbr-menu__label">View post in Reader</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-subs" href="https://subscribe.wordpress.com/"><span class="actnbr-menu__label">Manage subscriptions</span></a><a role="menuitem" class="actnbr-menu__item actnbr-signup" href="https://wordpress.com/start/"><span class="actnbr-menu__label">Sign up</span></a><a role="menuitem" class="actnbr-menu__item actnbr-login" href="https://wordpress.com/log-in?redirect_to=https%3A%2F%2Fr-login.wordpress.com%2Fremote-login.php%3Faction%3Dlink%26back%3Dhttps%253A%252F%252Fmoviemusicuk.us%252F2017%252F11%252F30%252Fthe-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su%252F"><span class="actnbr-menu__label">Log in</span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item flb-report" href="https://wordpress.com/abuse/?report_url=https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/" target="_blank" rel="noopener noreferrer"><span class="actnbr-menu__label">Report this content</span><span class="actnbr-menu__icon"><svg class="actnbr-icon actnbr-icon-external" width="18" height="18" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false" fill="currentColor"><path d="M19.5 4.5h-7V6h4.44l-5.97 5.97 1.06 1.06L18 7.06v4.44h1.5v-7Zm-13 1a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-3H17v3a.5.5 0 0 1-.5.5h-10a.5.5 0 0 1-.5-.5v-10a.5.5 0 0 1 .5-.5h3V5.5h-3Z"/></svg></span></a></div><div class="actnbr-menu__group" role="group"><a role="menuitem" class="actnbr-menu__item actnbr-fold" href=""><span class="actnbr-menu__label">Collapse this bar</span></a></div>					</div>
+				</li>
+			</ul>
+		</div>
+		<script>
+window.addEventListener( "DOMContentLoaded", function () {
+				var link = document.createElement( "link" );
+				link.href = "\/wp-content\/mu-plugins\/jetpack-plugin\/moon\/jetpack_vendor\/automattic\/jetpack-newsletter\/src\/..\/build\/action-bar.css?ver=35dd33285eb46dc308dd";
+				link.rel = "stylesheet";
+				document.head.appendChild( link );
+
+				var script = document.createElement( "script" );
+				script.src = "\/wp-content\/mu-plugins\/jetpack-plugin\/moon\/jetpack_vendor\/automattic\/jetpack-newsletter\/src\/..\/build\/action-bar.js?ver=35dd33285eb46dc308dd";
+				document.body.appendChild( script );
+			} );
+</script>
+<link rel="prefetch" href="/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/swiper.js" as="script" />
+		<div id="jp-carousel-loading-overlay" style="display: none;">
+			<div id="jp-carousel-loading-wrapper">
+				<span id="jp-carousel-library-loading"><svg class="jetpack-spinner" width="40" height="40" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
+			</div>
+		</div>
+		<div class="jp-carousel-overlay" style="display: none;">
+
+		<div class="jp-carousel-container">
+			<!-- The Carousel Swiper -->
+			<div
+				class="jp-carousel-wrap swiper jp-carousel-swiper-container jp-carousel-transitions"
+				itemscope
+				itemtype="https://schema.org/ImageGallery">
+				<div class="jp-carousel swiper-wrapper"></div>
+				<div class="jp-swiper-button-prev swiper-button-prev">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskPrev" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="9" height="12">
+							<path d="M16.2072 16.59L11.6496 12L16.2072 7.41L14.8041 6L8.8335 12L14.8041 18L16.2072 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskPrev)">
+							<rect x="0.579102" width="23.8823" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+				<div class="jp-swiper-button-next swiper-button-next">
+					<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+						<mask id="maskNext" mask-type="alpha" maskUnits="userSpaceOnUse" x="8" y="6" width="8" height="12">
+							<path d="M8.59814 16.59L13.1557 12L8.59814 7.41L10.0012 6L15.9718 12L10.0012 18L8.59814 16.59Z" fill="white"/>
+						</mask>
+						<g mask="url(#maskNext)">
+							<rect x="0.34375" width="23.8822" height="24" fill="#FFFFFF"/>
+						</g>
+					</svg>
+				</div>
+			</div>
+			<!-- The main close buton -->
+			<div class="jp-carousel-close-hint">
+				<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<mask id="maskClose" mask-type="alpha" maskUnits="userSpaceOnUse" x="5" y="5" width="15" height="14">
+						<path d="M19.3166 6.41L17.9135 5L12.3509 10.59L6.78834 5L5.38525 6.41L10.9478 12L5.38525 17.59L6.78834 19L12.3509 13.41L17.9135 19L19.3166 17.59L13.754 12L19.3166 6.41Z" fill="white"/>
+					</mask>
+					<g mask="url(#maskClose)">
+						<rect x="0.409668" width="23.8823" height="24" fill="#FFFFFF"/>
+					</g>
+				</svg>
+			</div>
+			<!-- Image info, comments and meta -->
+			<div class="jp-carousel-info">
+				<div class="jp-carousel-info-footer">
+					<div class="jp-carousel-pagination-container">
+						<div class="jp-swiper-pagination swiper-pagination"></div>
+						<div class="jp-carousel-pagination"></div>
+					</div>
+					<div class="jp-carousel-photo-title-container">
+						<div class="jp-carousel-photo-caption"></div>
+					</div>
+					<div class="jp-carousel-photo-icons-container">
+						<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-info" aria-label="Toggle photo metadata visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskInfo" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M12.7537 2C7.26076 2 2.80273 6.48 2.80273 12C2.80273 17.52 7.26076 22 12.7537 22C18.2466 22 22.7046 17.52 22.7046 12C22.7046 6.48 18.2466 2 12.7537 2ZM11.7586 7V9H13.7488V7H11.7586ZM11.7586 11V17H13.7488V11H11.7586ZM4.79292 12C4.79292 16.41 8.36531 20 12.7537 20C17.142 20 20.7144 16.41 20.7144 12C20.7144 7.59 17.142 4 12.7537 4C8.36531 4 4.79292 7.59 4.79292 12Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskInfo)">
+										<rect x="0.8125" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+							</span>
+						</a>
+												<a href="#" class="jp-carousel-icon-btn jp-carousel-icon-comments" aria-label="Toggle photo comments visibility">
+							<span class="jp-carousel-icon">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="maskComments" mask-type="alpha" maskUnits="userSpaceOnUse" x="2" y="2" width="21" height="20">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M4.3271 2H20.2486C21.3432 2 22.2388 2.9 22.2388 4V16C22.2388 17.1 21.3432 18 20.2486 18H6.31729L2.33691 22V4C2.33691 2.9 3.2325 2 4.3271 2ZM6.31729 16H20.2486V4H4.3271V18L6.31729 16Z" fill="white"/>
+									</mask>
+									<g mask="url(#maskComments)">
+										<rect x="0.34668" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+
+								<span class="jp-carousel-has-comments-indicator" aria-label="This image has comments."></span>
+							</span>
+						</a>
+											</div>
+				</div>
+				<div class="jp-carousel-info-extra">
+					<div class="jp-carousel-info-content-wrapper">
+						<div class="jp-carousel-photo-title-container">
+							<div class="jp-carousel-photo-title"></div>
+						</div>
+						<div class="jp-carousel-comments-wrapper">
+															<div id="jp-carousel-comments-loading">
+									<span>Loading Comments...</span>
+								</div>
+								<div class="jp-carousel-comments"></div>
+								<div id="jp-carousel-comment-form-container">
+									<span id="jp-carousel-comment-form-spinner"><svg class="jetpack-spinner" width="20" height="20" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" aria-hidden="true" focusable="false"><circle cx="50" cy="50" r="46" fill="none" stroke="#ddd" stroke-width="8"/><path d="M 50 4 A 46 46 0 0 1 96 50" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="round"><animateTransform attributeName="transform" type="rotate" dur="1.4s" from="0 50 50" to="360 50 50" repeatCount="indefinite"/></path></svg></span>
+									<div id="jp-carousel-comment-post-results"></div>
+																														<form id="jp-carousel-comment-form">
+												<label for="jp-carousel-comment-form-comment-field" class="screen-reader-text">Write a Comment...</label>
+												<textarea
+													name="comment"
+													class="jp-carousel-comment-form-field jp-carousel-comment-form-textarea"
+													id="jp-carousel-comment-form-comment-field"
+													placeholder="Write a Comment..."
+												></textarea>
+												<div id="jp-carousel-comment-form-submit-and-info-wrapper">
+													<div id="jp-carousel-comment-form-commenting-as">
+																													<fieldset>
+																<label for="jp-carousel-comment-form-email-field">Email (Required)</label>
+																<input type="text" name="email" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-email-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-author-field">Name (Required)</label>
+																<input type="text" name="author" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-author-field" />
+															</fieldset>
+															<fieldset>
+																<label for="jp-carousel-comment-form-url-field">Website</label>
+																<input type="text" name="url" class="jp-carousel-comment-form-field jp-carousel-comment-form-text-field" id="jp-carousel-comment-form-url-field" />
+															</fieldset>
+																											</div>
+													<input
+														type="submit"
+														name="submit"
+														class="jp-carousel-comment-form-button"
+														id="jp-carousel-comment-form-button-submit"
+														value="Post Comment" />
+												</div>
+											</form>
+																											</div>
+													</div>
+						<div class="jp-carousel-image-meta">
+							<div class="jp-carousel-title-and-caption">
+								<div class="jp-carousel-photo-info">
+									<div class="jp-carousel-caption" itemprop="caption description"></div>
+								</div>
+
+								<div class="jp-carousel-photo-description"></div>
+							</div>
+							<a class="jp-carousel-image-download" href="#" aria-label="Download image" target="_blank" style="display: none;">
+								<svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+									<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="3" y="3" width="19" height="18">
+										<path fill-rule="evenodd" clip-rule="evenodd" d="M5.84615 5V19H19.7775V12H21.7677V19C21.7677 20.1 20.8721 21 19.7775 21H5.84615C4.74159 21 3.85596 20.1 3.85596 19V5C3.85596 3.9 4.74159 3 5.84615 3H12.8118V5H5.84615ZM14.802 5V3H21.7677V10H19.7775V6.41L9.99569 16.24L8.59261 14.83L18.3744 5H14.802Z" fill="white"/>
+									</mask>
+									<g mask="url(#mask0)">
+										<rect x="0.870605" width="23.8823" height="24" fill="#FFFFFF"/>
+									</g>
+								</svg>
+								<span class="jp-carousel-download-text"></span>
+							</a>
+							<div class="jp-carousel-image-map" style="display: none;"></div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		</div>
+		
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https://moviemusicuk.us/2017/11/30/the-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su/":8277};
+	</script>
+						
+	<script type="text/javascript">
+		(function () {
+			var wpcom_reblog = {
+				source: 'toolbar',
+
+				toggle_reblog_box_flair: function (obj_id, post_id) {
+
+					// Go to site selector. This will redirect to their blog if they only have one.
+					const postEndpoint = `https://wordpress.com/post`;
+
+					// Ideally we would use the permalink here, but fortunately this will be replaced with the 
+					// post permalink in the editor.
+					const originalURL = `${ document.location.href }?page_id=${ post_id }`; 
+					
+					const url =
+						postEndpoint +
+						'?url=' +
+						encodeURIComponent( originalURL ) +
+						'&is_post_share=true' +
+						'&v=5';
+
+					const redirect = function () {
+						if (
+							! window.open( url, '_blank' )
+						) {
+							location.href = url;
+						}
+					};
+
+					if ( /Firefox/.test( navigator.userAgent ) ) {
+						setTimeout( redirect, 0 );
+					} else {
+						redirect();
+					}
+				},
+			};
+
+			window.wpcom_reblog = wpcom_reblog;
+		})();
+	</script>
+<script id="jetpack-carousel-js-extra">
+var jetpackSwiperLibraryPath = {"url":"/wp-content/mu-plugins/jetpack-plugin/moon/_inc/blocks/swiper.js"};
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https://moviemusicuk.us/wp-admin/admin-ajax.php","nonce":"3f89964792","display_exif":"1","display_comments":"1","single_image_gallery":"1","single_image_gallery_media_file":"","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","image_label":"Open image in full-screen.","download_original":"View full size \u003Cspan class=\"photo-size\"\u003E{0}\u003Cspan class=\"photo-size-times\"\u003E\u00d7\u003C/span\u003E{1}\u003C/span\u003E","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","copyright":"Copyright","comment_registration":"0","require_name_email":"1","login_url":"https://moviemusicuk.wordpress.com/wp-login.php?redirect_to=https%3A%2F%2Fmoviemusicuk.us%2F2017%2F11%2F30%2Fthe-last-emperor-ryuichi-sakamoto-david-byrne-and-cong-su%2F","blog_id":"16550018","meta_data":["camera","aperture","shutter_speed","focal_length","copyright"],"loading_comments":"Loading Comments...","stats_query_args":"blog=16550018&v=wpcom&tz=-7&user_id=0&subd=moviemusicuk","is_public":"1"};
+//# sourceURL=jetpack-carousel-js-extra
+</script>
+<script id="sharing-js-js-extra">
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+//# sourceURL=sharing-js-js-extra
+</script>
+<script crossorigin='anonymous' type='text/javascript'  src='/_static/??-eJydjtEKwjAMRX/Imoni9EH8FKlt2NqlaW0Xxv7eIpsPIgi+5SYnhwtTUibyiDxCEJVIOscFyA1Y4CEo2Gu2hHnrywYq7NiQ2Hr0BUwMoT6qjInmbXC8Ql+MHsekzbBkCDEy3KoM7uLIgtE5SkF6c+vih3bF1JRqm4/4f53S64xWWzu/Rsfd0uMaLrv23DTt4bg/+ScxVHb0'></script>
+<script id="sharing-js-js-after">
+window.WPCOM_sharing_popups = window.WPCOM_sharing_popups || {};
+window.WPCOM_sharing_popups[ "facebook" ] = "menubar=1,resizable=1,width=600,height=400";
+window.WPCOM_sharing_popups = window.WPCOM_sharing_popups || {};
+window.WPCOM_sharing_popups[ "twitter" ] = "menubar=1,resizable=1,width=600,height=350";
+window.WPCOM_sharing_popups = window.WPCOM_sharing_popups || {};
+window.WPCOM_sharing_popups[ "tumblr" ] = "menubar=1,resizable=1,width=450,height=450";
+//# sourceURL=sharing-js-js-after
+</script>
+<script id="wp-emoji-settings" type="application/json">
+{"baseUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/72x72/","ext":".png","svgUrl":"https://s0.wp.com/wp-content/mu-plugins/wpcom-smileys/twemoji/2/svg/","svgExt":".svg","source":{"concatemoji":"/wp-includes/js/wp-emoji-release.min.js?m=1783090810i&ver=7.2-alpha-63973"}}
+</script>
+<script type="module">
+/*! This file is auto-generated */
+var e="script#wp-emoji-settings",t=document.querySelector(e);if(!(t instanceof HTMLScriptElement))throw new Error("Element missing: "+e);const r=JSON.parse(t.text),s=(window._wpemojiSettings=r,"wpEmojiSettingsSupports"),o=["flag","emoji"];function i(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(s,JSON.stringify(t))}catch(e){}}function c(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0);const r=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data);return t.every((e,t)=>e===r[t])}function p(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var n=e.getImageData(16,16,1,1);for(let e=0;e<n.data.length;e++)if(0!==n.data[e])return!1;return!0}function u(e,t,n,r){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!r(e,"\ud83e\udec8")}return!1}function f(e,t,n,r){let a;const s=(a="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):document.createElement("canvas")).getContext("2d",{willReadFrequently:!0}),o=(s.textBaseline="top",s.font="600 32px Arial",{});return e.forEach(e=>{o[e]=t(s,e,n,r)}),o}function a(e){var t=document.createElement("script");t.src=e,t.defer=!0,document.head.appendChild(t)}r.supports={everything:!0,everythingExceptFlag:!0},new Promise(t=>{let n=function(){try{var e=JSON.parse(sessionStorage.getItem(s));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(o),u.toString(),c.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"});const a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=e=>{i(n=e.data),a.terminate(),t(n)})}catch(e){}i(n=f(o,u,c,p))}t(n)}).then(e=>{for(const n in e)r.supports[n]=e[n],r.supports.everything=r.supports.everything&&r.supports[n],"flag"!==n&&(r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&r.supports[n]);var t;r.supports.everythingExceptFlag=r.supports.everythingExceptFlag&&!r.supports.flag,r.supports.everything||((t=r.source||{}).concatemoji?a(t.concatemoji):t.wpemoji&&t.twemoji&&(a(t.twemoji),a(t.wpemoji)))});
+//# sourceURL=/wp-includes/js/wp-emoji-loader.min.js
+</script>
+	<iframe src='https://widgets.wp.com/likes/master.html?ver=20261019#ver=20261019' scrolling='no' id='likes-master' name='likes-master' style='display:none;'></iframe>
+	<div id='likes-other-gravatars' role="dialog" aria-hidden="true" tabindex="-1"><div class="likes-text"><span>%d</span></div><ul class="wpl-avatars sd-like-gravatars"></ul></div>
+	<script src="//stats.wp.com/w.js?70" defer></script> <script type="text/javascript">
+_tkq = window._tkq || [];
+_stq = window._stq || [];
+_tkq.push(['storeContext', {'blog_id':'16550018','blog_tz':'-7','user_lang':'en','blog_lang':'en','user_id':'0'}]);
+		// Prevent sending pageview tracking from WP-Admin pages.
+		_stq.push(['view', {'blog':'16550018','v':'wpcom','tz':'-7','user_id':'0','post':'8277','subd':'moviemusicuk'}]);
+		_stq.push(['extra', {'crypt':'UE5tW3cvZGRTd2hQLHElTm83dnRmLHQ0TFtGWS8yNkxjW2lzZnFdTU95UTJ3VFZNL29wYjIramhacUMxNGFNMWVBRWZbZk1MeCVqb0t1OUFYfFtJT0QuazA1R0pUJVU1ZmtNMXNRTDN5NT0rfkhOUVREMklDWDhzM1o4X2ZxX18mJi9EJT8wfFc4ZVNfSVdWa2NtVUhKLTNpJUJHbU45Unp8UEcmVHNMUUxhLX5PSklhX1YsP0NrQkl3cThtZ0phK2VtLQ=='}]);
+_stq.push([ 'clickTrackerInit', '16550018', '8277' ]);
+</script>
+<noscript><img src="https://pixel.wp.com/b.gif?v=noscript" style="height:1px;width:1px;overflow:hidden;position:absolute;bottom:1px;" alt="" /></noscript>
+<meta id="bilmur" property="bilmur:data" content="" data-provider="wordpress.com" data-service="simple" data-site-tz="America/Los_Angeles" data-custom-props="{&quot;enq_jquery&quot;:&quot;1&quot;,&quot;logged_in&quot;:&quot;0&quot;,&quot;wptheme&quot;:&quot;pub\/inove&quot;,&quot;wptheme_is_block&quot;:&quot;0&quot;}"   >
+		<script defer src="/wp-content/js/bilmur.min.js?i=19&amp;m=202643"></script> 	
+</body>
+</html>
+<!--
+	generated in 0.190 seconds
+	135412 bytes batcached for 300 seconds
+-->

@@ -1,0 +1,1446 @@
+--- PDF第1页 ---
+rast
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199 
+Research Article
+177
+Abstract
+This study explores music’s narrative and emotional functions in The Last Emperor (1987), focusing on the 
+strategic use of leitmotifs and traditional Chinese instruments. Rather than serving as a mere atmospheric 
+accompaniment, music in the film functions as an active narrative force that shapes character development, 
+emotional resonance, and cultural perception. Through a qualitative, interpretive framework, the research 
+examines how recurring musical themes—leitmotifs—are dynamically altered in instrumentation, tempo, 
+and harmony to reflect the protagonist Puyi’s psychological evolution. These motifs serve as structural 
+and emotional anchors, guiding the audience through the film’s shifting narrative and thematic contours. 
+Moreover, the study investigates the role of traditional Chinese instruments, particularly the erhu and 
+konghou, in reinforcing cultural identity and emotional nuance. Their expressive timbres and integration 
+into the Western orchestral fabric provide historical authenticity and a cross-cultural soundscape that 
+bridges Eastern and Western musical traditions. Drawing on music semiotics and film music theory, the 
+study employs thematic analysis, timbral examination, and audiovisual synchronization to understand 
+how these musical elements contribute to a multisensory cinematic experience. The findings suggest 
+that leitmotifs in The Last Emperor are not static musical tags but dynamic narrative agents that evolve 
+alongside the characters’ emotional and cultural transformations. Traditional Chinese instruments, when 
+merged with Western orchestration, act as cultural bridges and emotional amplifiers that heighten both 
+historical context and viewer empathy. Together, these musical strategies construct a layered narrative 
+experience that deepens the audience’s engagement intellectually, culturally, and emotionally. This study 
+contributes to the discourse on cross-cultural film scoring, demonstrating music’s capacity to construct 
+meaning, evoke emotion, and convey cultural identity in visually rich and sonically immersive narratives.
+Keywords
+cross-cultural scoring, emotional resonance, film music narrative, leitmotif, 
+traditional Chinese instruments
+Introduction
+In cinematic storytelling, music is crucial in 
+setting the emotional tone and reinforcing 
+narrative structure and cultural identity. 
+From sweeping orchestral scores to subtle 
+instrumental cues, film music can evoke 
+memory, guide audience interpretation, 
+and deepen character development. As 
+Lipscomb and Tolchinsky (2012) observe, 
+music also plays a vital communicative 
+role in cinema by shaping narrative 
+understanding through expressive nuance 
+and stylistic convention. While much 
+scholarly attention has been given to the 
+DOI 10.12975/rastmd.20251325 Submitted April 4, 2025 Accepted June 8, 2025
+general functions of film music, fewer 
+studies have examined the intricate 
+interplay 
+between 
+leitmotifs 
+and 
+traditional instrumentation, particularly in 
+films situated at the intersection of Eastern 
+and Western cultural narratives.
+The Last Emperor (1987), directed by 
+Bernardo Bertolucci, offers a rich canvas 
+for such exploration. As a historical epic 
+recounting the life of Puyi, the last Emperor 
+of China, the film navigates themes of 
+imperial legacy, personal transformation, 
+and political upheaval. What distinguishes 
+its musical approach is the integration 
+Musical narratives in The Last Emperor: The power of 
+leitmotifs and traditional Chinese instruments in storytelling
+Fu Yu
+Ph.D. candidate, Graduate School of Dankook University, Republic of Korea.
+Email: fugue123456789@163.com ORCID: 0009-0001-6350-9985
+Soo Hwan Ahn
+Corresponding Author: Soo Hwan Ahn, College of Music and Art, Music Composition, Dankook University, Republic 
+of Korea. Email: musicahn@dankook.ac.kr ORCID: 0009-0003-1718-3827
+
+
+--- PDF第2页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+178
+of 
+Western 
+leitmotif 
+techniques 
+with 
+traditional Chinese instruments, such as 
+the erhu and konghou (Figure 1). The erhu 
+is a two-stringed bowed instrument with a 
+cylindrical resonator covered in snakeskin, 
+often referred to as the “Chinese violin” 
+for its expressive, voice-like tone and wide 
+vibrato capabilities. The konghou is a plucked 
+string instrument resembling a vertical harp, 
+historically used in imperial court music and 
+revived in modern times for its bell-like clarity 
+and ornamental glissandi. These instruments 
+are not merely ornamental but play a 
+central role in shaping the film’s emotional 
+and cultural soundscape. Composed by 
+Ryuichi Sakamoto, David Byrne, and Cong 
+Su, the score merges emotional sensitivity 
+with cultural specificity, rendering music as 
+background ambiance and a vital narrative 
+force.
+Figure 1. Erhu and konghou
+This study explores how leitmotifs and 
+traditional Chinese instrumentation work 
+together to shape emotional perception and 
+narrative meaning in The Last Emperor. Using 
+a dual framework of leitmotif theory and 
+music semiotics, the research investigates 
+how recurring musical themes and culturally 
+coded timbres communicate psychological 
+states, cultural transitions, and evolving 
+identities. Through this lens, the study 
+demonstrates how music functions as a cross-
+cultural storytelling device, transcending 
+language, geography, and genre.
+Theoretical 
+Framework: 
+Leitmotif 
+Theory and Music Semiotics
+This study is grounded in two interrelated 
+theoretical perspectives—leitmotif theory 
+and music semiotics. 
+Leitmotif theory, rooted in 19th-century 
+Wagnerian opera, explores the structural 
+and narrative functions of recurring musical 
+themes assigned to characters, ideas, or 
+settings. These motifs establish thematic 
+coherence and psychological depth within 
+a 
+work 
+(Bribitzer-Stull, 
+2015; 
+Meyer, 
+2013). In cinema, leitmotifs function as 
+identifiers and evolving narrative agents. 
+Lehman (2018) conceptualized them as 
+“musical architecture”—flexible in tempo, 
+orchestration, and harmony—adapting to 
+character 
+development 
+and 
+emotional 
+shifts, thus enhancing narrative cohesion 
+and audience engagement. 
+Complementing this theory, music semiotics 
+approaches music as a symbolic system in 
+which sound operates as a signifier within a 
+multilayered cultural and emotional context. 
+According to Charles S. Peirce and Roman 
+Jakobson, musical signs can be classified as: 
+
+
+--- PDF第3页 ---
+Yu & Ahn
+179
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+	
+¾ Icons, which resemble the emotions 
+or actions they represent (e.g., rising 
+melodic lines suggesting aspiration); 
+	
+¾ Indexes, which point to emotional 
+or physical causes (e.g., dissonance 
+indicating tension); and
+	
+¾ Symbols, which rely on shared cultural 
+codes and associations (e.g., rhythmic 
+military patterns evoking nationalism) 
+(Tarasti, 2002). 
+Mammadova 
+(2025) 
+expands 
+on 
+this 
+foundation 
+by 
+emphasizing 
+the 
+three 
+dimensions of semiotic analysis: syntax (the 
+structural rules and patterns of musical 
+signs), semantics (the conveyed meanings 
+and emotional associations), and pragmatics 
+(the interaction between the sign and the 
+interpreter within a sociocultural context). 
+From 
+this 
+perspective, 
+each 
+musical 
+element—tone, rhythm, texture, or form—
+can serve not only expressive but also 
+communicative and structural functions. 
+Musical meaning, then, is not fixed but 
+emerges 
+through 
+cultural 
+experience, 
+performer interpretation, and audience 
+perception.
+Related Literature
+While film music’s narrative and emotional 
+role has been widely researched, few studies 
+have explored how leitmotifs and traditional 
+Chinese instrumentation function together 
+within a cross-cultural cinematic framework. 
+This study builds on previous works by 
+combining semiotic theory, psychological 
+research, and film music analysis to show 
+how music actively supports narrative 
+development, emotional resonance, and 
+cultural identity in The Last Emperor.
+Gorbman’s 
+(1987) 
+foundational 
+work 
+conceptualized film music as an “unheard” 
+semiotic system that influenced narrative 
+perception 
+even 
+when 
+not 
+noticed 
+consciously. Bribitzer-Stull (2015) and Meyer 
+(2013) extended this work by tracing the 
+evolution of leitmotifs from Wagnerian 
+opera to Hollywood cinema, demonstrating 
+how changes in motif harmony, rhythm, 
+and orchestration mirror shifts in character 
+psychology. Lehman (2018) emphasized 
+how networks of leitmotifs, particularly in 
+the Star Wars franchise, formed complex 
+emotional 
+architectures 
+that 
+enhanced 
+narrative cohesion. Similarly, Leinberger 
+(2021) explores thematic reuse in classical 
+Hollywood, 
+noting 
+Max 
+Steiner’s 
+self-
+referential use of love themes across films 
+like Now, Voyager and Mildred Pierce. These 
+studies affirmed that leitmotifs were flexible 
+narrative devices that grew in complexity 
+and significance alongside the characters 
+and plot.
+Simultaneously, Chattah (2006) and Chanan 
+(2019) applied music semiotics to film, 
+illustrating how musical gestures – modality, 
+timbre, and articulation – act as emotional 
+and cultural signs. Kendall (2010) revisited 
+semiotic theory in multimedia contexts, 
+underscoring how sound constructs meaning 
+in combination with visual media. Mera 
+(2002) adds a complementary perspective 
+by analyzing how musical humor and irony 
+shift audience interpretations contextually, 
+reinforcing the idea that musical meaning is 
+highly contingent on narrative framing. Tagg 
+(2012) underscored music’s communicative 
+role across cultural boundaries, describing 
+how audiovisual congruence can heighten 
+viewer interpretation and facilitate cross-
+cultural understanding.
+Empirical studies have added to this 
+theoretical base. Pallesen et al. (2005) 
+demonstrated how different chord types 
+elicited varying emotional responses – 
+major chords are rated as happy, minor 
+as sad, and dissonant as tense – especially 
+among musicians. Figure 2 illustrates these 
+findings, affirming the psychological basis for 
+associating musical harmony with emotional 
+valence. Parke et al. (2007) demonstrated 
+that articulation and timbre significantly 
+influenced emotional interpretation when 
+matched with ambiguous visuals.
+
+
+--- PDF第4页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+180
+Cohen’s (2005) experiments on audiovisual 
+congruence built on these findings by showing 
+how pitch and tempo influenced emotional 
+interpretation. Figure 3 illustrates how 
+auditory stimuli were created using varying 
+pitch heights (C3, C4, and C5) and rhythmic 
+values (quarter, eighth, and sixteenth 
+notes). Figure 4 shows visual stimuli of a 
+bouncing ball at corresponding heights and 
+speeds. When music and visuals matched 
+in tempo or register, participants reported 
+higher happiness (Figure 5). This suggests 
+that the emotional impact is amplified when 
+audiovisual components are synchronized.
+Figure 2. Emotional ratings (Mean ± SE) of major, minor, and dissonant chords. Musicians rated dissonant chords 
+as significantly more unpleasant and minor chords as significantly sadder than nonmusicians (extracted from 
+Pallesen et al., 2005)
+Figure 3. Representation of different musical soundtracks created from three tempos and three pitch heights of a 
+repeating tone (extracted from Cohen, 2005)
+
+
+--- PDF第5页 ---
+Yu & Ahn
+181
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+Figure 4. Representation of different video patterns created from three tempos and three heights of a bouncing 
+ball (extracted from Cohen, 2005)
+Figure 5. Mean rated happiness represented by 
+the bouncing ball under congruent and incongruent 
+audiovisual tempo and height combinations (data from 
+Cohen, 2005)
+Moving 
+to 
+traditional 
+instrumentation, 
+Cooke (2008) noted how instruments, such 
+as the erhu and konghou, functioned as 
+emotional amplifiers and cultural markers. 
+Hou (2024) found that these instruments 
+evoked nostalgia and longing, especially 
+when blended with Western orchestration. 
+Tian and Ng (2024) analyzed the erhu’s 
+frequency profile, showing a peak around 
+1600 Hz, which contributed to its piercing 
+and mournful tone (Figure 6). The konghou, 
+in contrast, resonated around 1000 Hz, 
+producing a bell-like clarity that evoked 
+serenity and elegance. These unique timbral 
+qualities were deployed in The Last Emperor 
+to signify emotional transformation and 
+cultural memory.
+
+
+--- PDF第6页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+182
+Figure 6. Frequency characteristics of the erhu and konghou
+Qiu et al. (2021) profiled the qudi, also known 
+as the dizi, a traditional Chinese transverse 
+bamboo flute that is widely used in various 
+genres of Chinese folk and classical music 
+(Figure 7). The instrument is known for its 
+bright and penetrating tone and features a 
+unique buzzing membrane (dimo) that adds 
+a distinctive timbral quality. Their study 
+demonstrated how the qudi’s tonal dynamics 
+effectively enriched dramatic tension in 
+audiovisual contexts. 
+Wang and Shpagina (2024) examined the 
+synthesis of traditional Chinese string 
+instruments with Western compositional 
+techniques, suggesting that such integration 
+not only preserved cultural heritage but also 
+enhanced emotional complexity in modern 
+film scores. This cross-cultural dialogue is 
+further illustrated in the works of Tan Dun, 
+in which traditional Chinese and Western 
+instruments interact to build multicultural 
+sonic narratives (Litvikh & Lyu, 2024)1.
+1 Give information about this instrument and show 
+their pictures. It will provide illustrative information 
+and will help readers to be more imaginative.
+Figure 7. Qudi, traditional Chinese bamboo flute
+Despite these advances, few studies have 
+systematically analyzed how leitmotifs and 
+traditional Chinese instruments interact to 
+convey character development and cultural 
+tension. One such study was conducted by 
+He (2024), examining the use of traditional 
+Chinese music elements in the film Full 
+River Red to show how they contribute to 
+emotional intensity and national symbolism 
+within contemporary Chinese cinema. This 
+gap is addressed through a case analysis of 
+The Last Emperor, which applied the above 
+frameworks to show how music enhanced 
+
+
+--- PDF第7页 ---
+Yu & Ahn
+183
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+the film’s emotional arc and cross-cultural 
+resonance. By analyzing musical motifs 
+and instrumental timbres in conjunction 
+with narrative shifts, this study revealed 
+how music transcends its supportive role 
+to become a central force in cinematic 
+storytelling.
+Research Aim and Problem
+The central aim of this study is to investigate 
+how music functions as an active narrative 
+force in The Last Emperor (1987) by analyzing 
+the interplay between “leitmotifs” and 
+“traditional Chinese instruments.” Rather 
+than treating film music as an atmospheric 
+accompaniment, this study positions it 
+as a “semiotic and narrative agent” that 
+contributes 
+to 
+character 
+development, 
+emotional 
+engagement, 
+and 
+cultural 
+representation.
+Specifically, this research addresses two 
+questions:
+	
+¾ How do leitmotifs function as narrative 
+and emotional tools in The Last Emperor?
+This question explores the use of recurring 
+thematic material to represent character 
+identity, psychological transformation, 
+and thematic cohesion. It investigates 
+how 
+variations 
+in 
+instrumentation, 
+tempo, and harmony reflect the evolving 
+emotional landscape of the protagonist, 
+Puyi, and contribute to the overall 
+narrative structure.
+	
+¾ How 
+does 
+the 
+integration 
+of 
+traditional Chinese musical instruments 
+contribute to the film’s cultural and 
+emotional depth?
+This 
+question 
+examines 
+the 
+role 
+of 
+instruments, such as the erhu and konghou, in 
+reinforcing the film’s historical authenticity 
+and cross-cultural resonance. It investigates 
+how these instruments function as cultural 
+signifiers and emotional amplifiers within 
+the score.
+This research is significant for two reasons. 
+First, it contributes to the expanding field of 
+music semiotics by illustrating how musical 
+motifs and instrumental timbres operate 
+as meaningful signs within a cinematic 
+context. Second, it provides a cross-cultural 
+perspective on film scoring, highlighting how 
+the fusion of Eastern and Western musical 
+idioms enhances narrative complexity and 
+emotional depth. Focusing on The Last 
+Emperor, a film that epitomizes cultural 
+hybridity, this study demonstrates the 
+“transformative power of music” in global 
+cinema and its capacity to bridge cultural, 
+historical, and emotional divides through 
+sonic storytelling.
+Methods
+Research Design
+This study employs a qualitative, interpretive 
+research design grounded in musicological 
+and semiotic analysis. Rather than relying 
+on statistical generalizations, it uncovers 
+the 
+nuanced 
+narrative 
+and 
+emotional 
+functions of film music through close reading 
+and detailed score analysis. The research 
+approach is interdisciplinary, integrating 
+music theory, semiotics, psychology, and 
+cultural studies to explore how sound shapes 
+meaning within audiovisual media.
+Data Sources
+The primary data for this study consisted of 
+the original score and soundtrack recordings 
+from The Last Emperor (1987), composed by 
+Ryuichi Sakamoto, David Byrne, and Cong 
+Su. Selected film scenes were transcribed 
+and analyzed for their melodic, harmonic, 
+rhythmic, and orchestration features. The 
+study focused on sequences that prominently 
+featured leitmotifs and traditional Chinese 
+instruments, including scenes from Puyi’s 
+childhood, exile, and moments of personal 
+transformation.
+Supplementary materials included:
+	
+¾ Interviews and commentaries from 
+the composers (when available)
+	
+¾ Published analyses and orchestration 
+notes
+
+
+--- PDF第8页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+184
+	
+¾ Visual 
+materials 
+(film 
+scenes) 
+synchronized with music for audiovisual 
+correlation
+	
+¾ Scholarly 
+literature 
+on 
+leitmotif 
+theory, music semiotics, and traditional 
+Chinese instruments
+Analytical Framework
+The analysis was conducted in three stages:
+	
+¾ Thematic 
+analysis: 
+Identifying 
+recurring leitmotifs and cataloging their 
+variations across narrative contexts.
+	
+¾ Timbre and instrumentation analysis: 
+Examining how the erhu, konghou, and 
+other traditional instruments interacted 
+with Western orchestration to support 
+emotional and cultural cues.
+	
+¾ Semiotic 
+interpretation: Applying 
+music semiotic theory to interpret how 
+musical gestures function metaphorically, 
+indexically, and symbolically within the 
+narrative.
+Moreover, 
+spectrogram 
+and 
+frequency 
+analysis were conducted on selected scenes 
+to visualize the acoustic characteristics of 
+traditional instruments and their interaction 
+with orchestral textures. These visualizations 
+substantiated the claims about timbral 
+contrast and narrative function.
+Procedure
+The film was viewed multiple times to identify 
+musically significant scenes. These were 
+analyzed frame-by-frame to synchronize 
+musical gestures with cinematic elements, 
+such as editing, lighting, and dialogue. 
+Transcriptions were made manually, using 
+notation software, to preserve musical 
+fidelity, and scene timings were logged to 
+ensure accurate cross-referencing between 
+visuals and sound.
+Ethics
+This study did not involve any human 
+participants, 
+animals, 
+or 
+personally 
+identifiable data, and, therefore, did not 
+require formal ethical approval according 
+to institutional and journal guidelines. 
+Nevertheless, 
+the 
+authors 
+maintained 
+high ethical standards by ensuring proper 
+attribution of all cited materials, securing 
+appropriate permissions for audiovisual 
+content 
+used 
+for 
+academic 
+purposes, 
+and 
+presenting 
+the 
+methodology 
+and 
+interpretations transparently. All musical 
+examples and visual stills were selected with 
+scholarly intent and used within the bounds 
+of educational fair use. This ethical stance 
+was taken to uphold academic integrity and 
+ensure the responsible treatment of creative 
+and cultural content throughout the study.
+Leitmotif as a Narrative Tool for The Last 
+Emperor
+This analysis explores the intricate use of 
+leitmotifs in The Last Emperor, a cinematic 
+masterpiece that interweaves music with 
+narratives to enhance emotional depth 
+and storytelling. The film, set against 
+the backdrop of the life of Puyi, the 
+last Emperor of China, uses music as a 
+background element and a narrative force 
+that parallels and intensifies the onscreen 
+drama. Through a detailed examination of 
+specific scenes, this study delves into how 
+the film’s score, with its unique motifs and 
+traditional Chinese instrumentation, echoes 
+the characters’ emotional arcs and historical 
+context. Each section of this analysis focuses 
+on key moments in the film, dissecting how 
+leitmotifs and their development reflect 
+Puyi’s journey from innocence to the 
+complexities of later life (Figures 8 and 9).
+
+
+--- PDF第9页 ---
+Yu & Ahn
+185
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+Figure 8. Variations of the “home” motif
+
+
+--- PDF第10页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+186
+Figure 9. Thematic persistence: Ostinato-based presentation of the “home” motif
+Puyi Taken from His Mother by Soldiers
+In the scene that shows Puyi being brought 
+to the palace, he is very young, facing 
+separation from his mother, and only 
+cries. The motif consists of two national 
+instruments (Chinese violin and Chinese harp) 
+playing in unison, and nationalism becomes 
+an important part of the theme. At this time, 
+the music depicts the image of the mother, 
+who embraces Puyi, and the accompaniment 
+of the string section is uncomplicated. The 
+slow melody is presented in the bass area, 
+which highlights the emotions of the mother 
+who, although living within the feudal family 
+system, is reluctant to lose her child.
+Exposition
+The most prominent musical motif is built 
+around a perfect fourth leap, ornamented 
+with 
+descending 
+auxiliary 
+tones 
+and 
+characterized by a distinct pentatonic style. 
+This motif recurs throughout the movie and 
+frequently accompanies key scenes involving 
+Puyi and his family.
+The motif employs relatively straightforward 
+developmental 
+techniques, 
+such 
+as 
+repetition, 
+sequence, 
+inversion, 
+and 
+transpositional progression, preserving the 
+motif’s essence, making it easily memorable 
+for the audience, and connecting it with the 
+
+
+--- PDF第11页 ---
+Yu & Ahn
+187
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+film’s narrative. Its application often follows 
+a ternary structure, serving as the primary 
+musical material for the exposition and 
+recapitulation sections, with a contrasting 
+“climax” theme often inserted in between. 
+The “home” theme is initially presented as 
+Puyi’s mother carries young Puyi out of the 
+room when he is taken to the palace for the 
+first time.
+The music is tranquil, presented in harmony 
+using two traditional Chinese instruments – 
+the Chinese harp (guzheng) and violin (ehru). 
+The guzheng is a horizontal plucked zither 
+with expressive pitch bending, while the 
+konghou is a vertical harp-like instrument 
+known for its lyrical and delicate tone. 
+Embellishments performed on the Chinese 
+harp are particularly characteristic of this 
+ethnic style. The melody follows the E-flat 
+major hexatonic scale, which consists of four 
+motif repetitions (Figure 10).
+Figure 10. Visualization reflected through instrumentation with the “home” motif
+Regarding harmony, the composer draws 
+inspiration primarily from the melody and 
+continually emphasizes it, using the motif’s 
+core intervals (perfect fourth and fifth) in 
+the development process. This maintains an 
+overall pentatonic musical style. Through 
+this tranquil, slow-paced, and ethnically rich 
+music, the composer contrasts preceding 
+musical elements, setting the scene for 
+women in a feudal family, slowly walking 
+toward the crowd and cradling their children.
+As the mother carries Puyi and approaches 
+the 
+crowd, 
+the 
+background 
+harmony 
+gradually builds tension by altering rhythms 
+and shifting to higher registers until Puyi 
+reaches the sedan chair, at which point the 
+music reaches its climax (Figure 11).
+
+
+--- PDF第12页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+188
+Figure 11. Notation example from the climax of the “home” motif in The Last Emperor
+Recapitulation
+At the end of the scene in which Puyi enters 
+the palace, Puyi’s mother walks out to bid 
+him farewell as he is taken away (Figure 
+12), and the music reintroduces the “home” 
+motif as its recurring segment. However, 
+the melody is no longer played in unison 
+with the Chinese harp (guzheng) and violin 
+(erhu). Instead, it is performed using a 
+Chinese violin solo with a string section. The 
+Chinese violin’s performance in the lower 
+register displays its unique timbre, which 
+carries a distinct sad tone. The solo theme’s 
+melody implies Puyi’s loneliness and sorrow 
+when he enters the palace with a nurse. The 
+collaboration with the string section, while 
+retaining the ethnic style, adds a tonal unity, 
+suggesting this segment’s conclusion, where 
+Puyi leaves his home (Figure 13).
+Background harmony initially maintains the 
+musical tension by utilizing a higher register. 
+However, toward the end, it lowers the 
+register, and the rhythm becomes steadier, 
+creating a conclusive atmosphere. As the 
+audience anticipates the music’s ending, the 
+composer skips the motif’s reappearance, 
+and the music abruptly concludes with a 
+modulatory cadence. As Puyi’s mother sadly 
+turns away, without looking back at the 
+departure procession, the music suddenly 
+ends, leaving the sound of receding hoofs. 
+The music’s incomplete quality indicates 
+that the movie has not concluded, leaving 
+room for further development.
+Figure 12. Puyi’s wet nurse watches as he is taken away by the guards (09:08)
+
+
+--- PDF第13页 ---
+Yu & Ahn
+189
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+Figure 13. Utilization of the “home” motif
+Wet Nurse Taken Away by Minister and 
+Soldiers
+In the image of losing the wet nurse, Puyi 
+has grown up a bit and has some thoughts 
+of his own, such as wanting to rebel against 
+the ministers who have controlled him for a 
+long time. Here, the music transitions back 
+to a traditional orchestral style, emphasizing 
+Puyi’s struggle against the entrenched 
+feudal forces that have controlled him 
+since childhood. The composition becomes 
+more grandiose, incorporating a fuller 
+orchestration with prominent brass and 
+woodwinds. The melody rises to a high 
+register, reinforced by multiple instruments 
+playing in unison, heightening the tension 
+between the opposing forces.
+The core motif representing the “home” 
+theme is repeatedly employed throughout 
+the movie’s score, however, each appearance 
+is adjusted according to the scene’s needs. 
+For example, Puyi realizes he can only be 
+the Emperor within the Forbidden City. 
+However, the rest of the world has become 
+a republic; his sorrowful moment recalls his 
+only family member, his wet nurse. At this 
+moment, he utters, “Where is Armo? Armo?” 
+and the music begins to play.
+Exposition
+In this section, the composer introduces two 
+bars of the string tremolo as an introductory 
+element. As the characters cautiously 
+remain in their positions, the tremolo effect 
+in the high register of the violins, with 
+sixth intervals, indirectly emphasizes their 
+helplessness in the face of the downfall of 
+the Imperial authority. When the theme 
+invoking Puyi’s brother’s crying is officially 
+reintroduced, it differs from the previous 
+version, as it incorporates an upbeat rhythm, 
+adding a musical pulse and leading to the 
+upcoming dynamic music (Figure 14).
+This film segment primarily depicts Puyi 
+searching for his wet nurse and involves several 
+running scenes (Figure 15). The background 
+musical accompaniment frequently employs 
+a steady rhythm composed of quarter 
+notes, creating a march-like musical style 
+that harmonizes with the film’s content. As 
+Puyi first runs off to find his wet nurse, the 
+musical theme changes, and the film’s focus 
+shifts. The thematic melody no longer uses 
+traditional ethnic instruments and is played 
+at a higher pitch, with music carried entirely 
+by the string section. The accompanying 
+voices feature a rhythmic pattern composed 
+of quarter notes that echo Puyi’s footsteps 
+as he searches for his wet nurse.
+
+
+--- PDF第14页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+190
+As numerous attendants rush toward Puyi, 
+the music transitions into sustained tremolos 
+with longer durations, emphasizing the 
+chaotic footsteps of the characters. Action 
+movies frequently employ the concept 
+where physical movement equals musical 
+events’ speed “to intensify visual action.”2 
+Meanwhile, the composer skillfully shortens 
+the duration of the thematic motif, subtly 
+signaling that the characters are closing 
+in on Puyi. The sudden introduction of the 
+brass French horn sections evokes the image 
+of adult males and amplifies the musical 
+tension, mirroring the plot’s progression 
+toward an intense phase (Figure 16).
+Figure 14. Utilization of the “home” motif to explain Puyi’s emotion
+Figure 15. After realizing the establishment of the Republic, Puyi sadly goes to look for his mother (49:54)
+2 See Juan R. Chattah’s dissertation, Semiotics, 
+pragmatics, and metaphor in film music analysis, p. 33.
+
+
+--- PDF第15页 ---
+Yu & Ahn
+191
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+Figure 16. “Home” motif with horn and tremolo
+Figure 17. Utilization of the “home” motif for the “open the door” scene
+Recapitulation
+In the concluding segment of Puyi’s pursuit of 
+his wet nurse, a new development emerges 
+in the recurring “home” theme. In contrast 
+to the music accompanying Puyi’s initial 
+search, the soundtrack incorporates three 
+additional instruments – a French horn, flute, 
+and oboe. These instruments create a fuller 
+sonic effect, subtly suggesting Puyi’s final 
+separation from his wet nurse (Figure 17).
+
+
+--- PDF第16页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+192
+The scene involves three distinct characters 
+– the attendees leading Puyi’s wet nurse 
+away, the wet nurse, and Puyi chasing after 
+her (Figure 18). The composer parallels this 
+by introducing three instruments. The flute, 
+with its transparent and melancholic tone 
+in the mid-range, symbolizes young Puyi’s 
+vulnerability and helplessness. The oboe, 
+playing in the midrange, carries a sense of 
+sorrow and features pronounced reed sounds, 
+signifying mournful weeping as Puyi’s wet 
+nurse departs. With its repetitive harmonies, 
+the French horn section represents the 
+attendees accompanying Puyi’s wet nurse. 
+Brass instruments are employed to allude 
+to male characters, and the rapid staccato 
+notes in this section convey the attendants’ 
+anxious demeanors as they constantly 
+glance back and fear Puyi’s pursuit. Overall, 
+this composition underscores the poignant 
+moment of Puyi’s final pursuit of his wet 
+nurse, with the instruments enhancing the 
+scene’s emotional depth and complexity.
+Figure 18. The guards take the wet nurse away, and Puyi runs after her (51:32~51:34)
+In another scene, the combination of flute, 
+clarinet, and first violin playing the thematic 
+motif at the same pitch level creates a 
+blended tonality that enhances the musical 
+tension, implying that Puyi’s eager pursuit 
+of his wet nurse has reached its zenith. The 
+music concludes with a modulation of the 
+motif, and as the music ends, Puyi’s calls 
+echo throughout the vast Forbidden City.
+Puyi’s Wife Is Taken Away by a Japanese 
+Doctor and Soldiers
+The primary conflict shifts in the scene 
+where the Japanese take away Puyi’s wife, 
+the Empress. The conflict is no longer 
+between Puyi and the feudal forces but 
+between Puyi and Japanese fascists. This is 
+the most intense part of the film, and the 
+music evolves into a “horror” style to depict 
+the cruelty of the Japanese. Thematic 
+motifs are no longer played in unison with 
+a large ensemble of instruments, and the 
+blending of different timbres is eliminated, 
+leaving only string instruments. The music 
+is reduced to two melodic lines with high 
+tension. The extended motif conveys Puyi’s 
+oppressed state under Japanese control, and 
+the tense sound of chromatic progression in 
+the accompanying voices hints at the fear of 
+the fascist rule.
+Exposition
+To exert greater control over Puyi, the 
+Japanese forcibly took his wife hostage 
+(Figure 19). Puyi attempts to stop them 
+by running after them, but he is too late. 
+The music is derived from this exposition 
+section’s “family” motif. However, this 
+creates a heightened and terrifying sonic 
+effect 
+along 
+with 
+the 
+accompanying 
+voices (Figure 20). The accompaniment 
+emphasizes the core motif’s perfect fourth 
+intervals while accentuating the half-step 
+progressions, portraying the aggressors’ 
+terrifying actions toward Puyi and his family. 
+Simultaneously, the “home” motif is played 
+relatively slowly by employing rhythmic 
+augmentation, creating a musical backdrop 
+that underscores Puyi’s helplessness in the 
+face of the Japanese.
+
+
+--- PDF第17页 ---
+Yu & Ahn
+193
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+Figure 19. Upon learning that the Japanese have taken the Empress, Puyi runs after her (03:09:04~03:09:44)
+Figure 20. Extended “home” motif
+At the film’s end, following Japan’s surrender 
+and the return of Puyi’s wife, she is driven 
+to madness by the torment inflicted by the 
+Japanese. When Puyi is reunited with his 
+wife, the music used when the Japanese 
+forcibly removed her is employed again. 
+Its tense sonic effects underscore the cruel 
+control exerted by the Japanese on Puyi and 
+his family.
+Recapitulation
+In the scene where the Japanese forcibly 
+take away Puyi’s wife, Puyi looks helpless 
+(Figure 21). At this moment, the “home” 
+motif’s reprise omits the auxiliary tones’ 
+embellishments and is composed of a perfect 
+fourth interval (Figure 22). This simplified 
+reprise meets the audience’s expectations. 
+It conveys Puyi’s sense of helplessness 
+and unspoken frustration in a concise and 
+subdued musical style.
+
+
+--- PDF第18页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+194
+Figure 21. Puyi is watching his wife being forcibly taken away by the Japanese
+Figure 22. Melodic simplification of the “home” motif
+Conclusion  
+This study examined how The Last Emperor 
+employed leitmotifs and traditional Chinese 
+instruments as narrative and emotional 
+tools. 
+It 
+investigated 
+how 
+leitmotifs 
+contributed to character development and 
+thematic cohesion, and how traditional 
+instrumentation 
+enhanced 
+the 
+film’s 
+emotional and cultural depth. The findings 
+demonstrated that music actively shaped the 
+storytelling process. Through the evolution of 
+leitmotifs and the integration of traditional 
+Chinese musical elements, the film achieved 
+a harmonious fusion of auditory and visual 
+storytelling, 
+resonating 
+with 
+audiences 
+across cultural and emotional contexts.
+Leitmotifs in The Last Emperor were more 
+than recurring themes. They were dynamic 
+narrative devices that evolved alongside 
+the story, reflecting the complexities of 
+Puyi’s psychological and emotional journeys. 
+From the poignant transformations of the 
+“home” motif to the intricate interplay of 
+cultural and emotional symbolism, these 
+motifs functioned as emotional signifiers and 
+structural anchors. They guided the audience 
+through Puyi’s shifting identity, struggles 
+with loss, and search for redemption, 
+providing a rich subtext that complemented 
+the visual narrative.
+The film’s integration of traditional Chinese 
+instruments, such as the erhu and konghou, 
+further enriched its soundscape. These 
+instruments did not exist in isolation; instead, 
+they were woven into the orchestral fabric, 
+blending with Western harmonic structures 
+and instrumental timbres. This cross-cultural 
+synthesis bridged the gap between the East 
+and West through the inclusion of Western 
+brass instruments and the harmonization 
+of Eastern melodic structures (pentatonic 
+scales) with Western orchestral techniques. 
+The 
+orchestration 
+allowed 
+Chinese 
+instruments 
+to 
+interact 
+with 
+Western 
+strings, woodwinds, and brass, creating a 
+unique hybrid sound that enhanced cultural 
+authenticity and cinematic universality. By 
+carefully layering these elements, the score 
+transcended cultural divisions, making the 
+film’s historical and emotional dimensions 
+more accessible to diverse audiences.
+By demonstrating the transformative power 
+of music in cinema, this study highlighted how 
+leitmotifs and traditional instrumentation 
+
+
+--- PDF第19页 ---
+Yu & Ahn
+195
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+did more than enhance atmosphere; they 
+functioned as narrative collaborators that 
+deepened audience engagement. As film 
+scoring evolved, The Last Emperor served as 
+a benchmark for composers and filmmakers 
+seeking to harness music’s potential as a 
+storytelling device. By combining cultural 
+specificity with universal emotional appeal, 
+the 
+film 
+illustrated 
+music’s 
+boundless 
+capacity to enhance storytelling, making it 
+a critical case study for future explorations 
+in film musicology. In summary, this study 
+finds that leitmotifs and traditional Chinese 
+instruments in The Last Emperor function as 
+dynamic semiotic tools that shape cultural 
+meaning, emotional depth, and narrative 
+continuity.
+Recommendations
+Future research should explore the cultural 
+interactions between Eastern and Western 
+film music. Comparative studies on the use 
+of traditional Asian instruments in Hollywood 
+films and Western orchestration in Chinese 
+cinema 
+could 
+provide 
+deeper 
+insights 
+into cross-cultural musical storytelling. 
+Additionally, examining audience perception 
+of film music would be valuable. While this 
+study focused on the structural and narrative 
+functions of leitmotifs and traditional 
+instruments, future research could analyze 
+how audiences from different cultural 
+backgrounds interpret pentatonic melodies, 
+leitmotifs, and traditional instruments, 
+offering a broader understanding of the 
+universality and cultural specificity of film 
+music.
+With advancements in AI-driven composition, 
+digital orchestration, and immersive sound 
+technology, it is necessary to investigate how 
+modern technology can integrate traditional 
+instruments 
+while 
+maintaining 
+cultural 
+authenticity. Research on virtual instrument 
+modeling of the erhu and konghou or 
+adaptive film scoring techniques would 
+provide valuable insights into the evolving 
+role of technology in film music composition.
+Furthermore, 
+a 
+comparative 
+analysis 
+of leitmotif usage across different film 
+traditions could enhance the understanding 
+of narrative musical techniques in various 
+cultural 
+contexts, 
+such 
+as 
+Wagnerian 
+leitmotifs 
+in 
+Hollywood 
+and 
+recurring 
+musical themes in Asian cinema. Research 
+should examine how composers balance the 
+preservation and innovation of traditional 
+music, particularly in historical films where 
+music serves as a cultural identifier and a 
+modern storytelling tool. Investigating how 
+composers maintain cultural authenticity 
+while 
+ensuring 
+accessibility 
+to 
+global 
+audiences would contribute to discussions on 
+the sustainability of cultural heritage in film 
+music. Addressing these research areas will 
+expand academic discourse on film music, 
+bridge cultural narratives, and advance 
+interdisciplinary approaches to storytelling 
+through sound.
+In addition to its academic contribution, this 
+study may also offer practical implications 
+for composers, arrangers, and educators 
+involved in cross-cultural film music. For 
+example, those working in applied settings 
+such as film scoring, music production, 
+or music pedagogy may find value in 
+understanding how traditional instruments 
+can 
+be 
+adapted 
+into 
+contemporary 
+audiovisual contexts without compromising 
+cultural integrity. The findings may support 
+the development of culturally sensitive 
+approaches to orchestration and inspire 
+new models of creative collaboration across 
+musical traditions.
+Limitations of the study
+While this study provides insights into 
+the leitmotifs and traditional Chinese 
+instruments utilized in The Last Emperor, 
+several limitations should be acknowledged. 
+The analysis primarily focused on musical 
+structure and narrative function without 
+empirical 
+validation 
+through 
+audience 
+perception studies. Future research could 
+incorporate listener response analysis or 
+eye-tracking and emotional response studies 
+to assess how different audiences interpret 
+these musical elements. This study relied 
+on 
+qualitative 
+musicological 
+analysis, 
+
+
+--- PDF第20页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+196
+which lacks quantitative support through 
+computational music analysis. Employing 
+spectrogram 
+analysis, 
+pitch-tracking 
+algorithms, and statistical methods could 
+provide a comprehensive understanding of 
+how leitmotifs evolve throughout the film.
+Additionally, this study focused on The 
+Last Emperor, limiting the generalizability 
+of 
+the 
+findings. 
+Comparative 
+studies 
+examining leitmotif usage and traditional 
+instrumentation 
+across 
+multiple 
+films, 
+particularly 
+within 
+other 
+cross-cultural 
+film scores, would offer broader insights 
+into global film music trends. This research 
+does not extensively address production 
+aspects, such as composer intent, director 
+influence, and industry constraints that 
+shape film music composition. Interviews 
+with composers, music supervisors, and 
+film editors could provide context regarding 
+the 
+decision-making 
+processes 
+behind 
+integrating traditional and Western musical 
+elements.
+Despite 
+these 
+limitations, 
+this 
+study 
+contributes to the understanding of film music 
+as a narrative force, highlighting the cultural 
+and emotional power of leitmotifs and 
+traditional instrumentation. Future research 
+will enhance the multidisciplinary discourse 
+on film music, cultural representation, and 
+audience perception in cinema. 
+Acknowledgment 
+The authors would like to express their 
+sincere appreciation to the editors and 
+anonymous reviewers of Rast Musicology 
+Journal for their valuable comments and 
+constructive suggestions, which significantly 
+improved the quality of this article. Their 
+insights helped refine the manuscript and 
+contributed to the development of its final 
+form.
+
+
+--- PDF第21页 ---
+Yu & Ahn
+197
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+References
+Bribitzer-Stull, M. (2015). Understanding the 
+leitmotif: From Wagner to Hollywood film 
+music. Cambridge University Press.
+Chanan, M. (2019). Concerning the iconic 
+signification of music in cinema. In M. 
+Grimshaw-Aagaard, M. Walther-Hansen, & M. 
+Knakkergaard (Eds.), The Oxford handbook 
+of sound and imagination (Vol. 1, pp. 585–
+607). Oxford University Press. 
+Chattah, J. R. (2006). Semiotics, pragmatics, 
+and metaphor in film music analysis [Doctoral 
+dissertation] 
+Florida 
+State 
+University. 
+https://www.proquest.com/openview/2be4
+4ec0b262b13568407cb5d5d77a64/1?pq-origs
+ite=gscholar&cbl=18750&diss=y 
+Cohen, A. J. (2005). How music influences 
+the interpretation of film and video: 
+Approaches from experimental psychology. 
+Selected Reports in Ethnomusicology, 12(1), 
+15–36. https://musicog.discoveryspace.ca/
+sites/default/files/how-music-influences-
+film-and-video.pdf 
+Cooke, M. (2008). A history of film music. 
+Cambridge University Press. 
+Gorbman, C. (1987). Unheard melodies: 
+Narrative film music. Indiana University 
+Press. 
+He, Z. (2024). The traditional Chinese music 
+elements in the soundtracks of the film Full 
+River Red. Journal of Education, Humanities 
+and Social Sciences, 35, 640–646. https://
+doi.org/10.54097/kabdng45
+Hou, N. (2024). Application of Chinese 
+folk music elements in the film from 
+the perspective of music diversification. 
+Journal of Education, Humanities and 
+Social Sciences, 26, 161–166. https://doi.
+org/10.54097/jx5ppt20
+Kendall, R. A. (2010). Music in film and 
+animation: Experimental semiotics applied 
+to visual, sound and musical structures. 
+Proceedings of SPIE - The International 
+Society for Optical Engineering, 7527, 
+752703. https://doi.org/10.1117/12.849097 
+Lehman, F. (2018). Hollywood harmony: 
+Musical 
+wonder 
+and 
+the 
+sound 
+of 
+cinema. 
+Oxford 
+University 
+Press. 
+https://global.oup.com/us/companion.
+websites/9780190606404/ 
+Leinberger, C. F. (2021). An Austrian in 
+Hollywood: Self-plagiarism and the “Love 
+Theme” in Max Steiner’s music for Now, 
+Voyager and Mildred Pierce. Journal of 
+Film Music, 9(1–2), 128–131. https://doi.
+org/10.1558/jfm.19071
+Lipscomb, S. D., & Tolchinsky, D. E. (2012). 
+The role of music communication in cinema. 
+In D. Miell, R. MacDonald, & D. J. Hargreaves 
+(Eds.), Music communication (pp. 383–404). 
+Oxford University Press.
+Litvikh, E. V., & Lyu, I. (2024). The 
+interaction of traditional Chinese and 
+western 
+musical 
+instruments 
+in 
+Tan 
+Dun’s work as a multicultural dialogue. 
+Культура и Искусство (Culture and Art), 
+(9), 41–56. https://doi.org/10.7256/2454-
+0625.2024.9.71670
+Mammadova, G. (2025). Scientific researches 
+in the musical semiotics. Ancient Land 
+International 
+Scientific 
+Journal, 
+7(3), 
+25–30. 
+https://doi.org/10.36719/2706-
+6185/45/25-30
+Mera, M. (2002). Is funny music funny? Contexts 
+and case studies of film music humor. Journal 
+of Popular Music Studies, 14(2), 91–113. 
+https://doi.org/10.1111/j.1533-1598.2002.
+tb00039.x
+Meyer, S. C. (2013). ‘Leitmotif’: On the 
+application of a word to film music. Journal 
+of Film Music, 5(1–2), 101–108. https://doi.
+org/10.1558/jfm.v5i1-2.101
+
+
+--- PDF第22页 ---
+Musical narratives in The Last Emperor: The power of leitmotifs and traditional Chinese...
+198
+Pallesen, K. J., Brattico, E., Bailey, C., 
+Korvenoja, A., Koivisto, J., Gjedde, A., 
+& Carlson, S. (2005). Emotion processing 
+of major, minor, and dissonant chords: A 
+functional magnetic resonance imaging 
+study. Annals of the New York Academy of 
+Sciences, 1060(1), 450–453. https://doi.
+org/10.1196/annals.1360.047
+Parke, R., Chew, E., & Kyriakakis, C. (2007). 
+Quantitative and visual analysis of the impact 
+of music on perceived emotion of film. 
+Computers in Entertainment, 5(3), Article 5. 
+https://doi.org/10.1145/1316511.1316516
+Qiu, J., Wu, S., Zhao, Y., Huang, H., & Wu, 
+L. (2021). Sound power characteristics of 
+Chinese traditional wind instrument Qudi. 
+International Journal of Architecture, Arts 
+and Applications, 7(1), 8–15. https://doi.
+org/10.11648/j.ijaaa.20210701.12
+Tagg, P. (2012). Music’s meanings: A modern 
+musicology for non-musos. Mass Media Music 
+Scholars’ 
+Press. 
+https://quaderna.org/
+wp-content/uploads/2014/04/philip-tagg-
+musics-meanings-a-modern-musicology-for-
+non-musos-new-york-huddersfield-mass-
+media-music-scholars-press-2012.pdf 
+Tarasti, E. (2002). Signs of music: A guide to 
+musical semiotics. Walter de Gruyter. 
+Tian, J., & Ng, M. L. (2024). Acoustic 
+profiling of Guqin music: Exploring the 
+unique 
+sound 
+quality 
+associated 
+with 
+an ancient Chinese musical instrument. 
+The Journal of the Acoustical Society of 
+America, 156(4_Supplement), A15. https://
+doi.org/10.1121/10.0034942
+Wang, N., & Shpagina, A. Y. (2024). 
+Contemporary compositions for Chinese 
+national string instruments: Synthesis of 
+tradition and innovation. Университетский 
+Научный Журнал, (University Scientific 
+Journal) (81), 32-37. https://doi.org/10.25
+807/22225064_2024_81_32
+
+
+--- PDF第23页 ---
+199
+RAST MUZIKOLOJI DERGISI | SUMMER 2025, 13(2) 177-199
+Yu & Ahn
+Dr. Soo Hwan Ahn is an associate professor of composition at Dankook University. His 
+research focuses on composition, music semiotics, and film music analysis. He holds a 
+Ph.D. in composition from the University of Huddersfield (UK), and degrees from Leeds 
+Beckett University, the University of Leeds, and Dankook University. He has published in 
+KCI-indexed journals on topics such as The King’s Speech and Minari, and composed music 
+for the SBS election broadcast and orchestras including the Prime Philharmonic.
+Affiliation: College of Music and Art, Music Composition, Dankook University.
+Email: musicahn@dankook.ac.kr
+ORCID: 0009-0003-1718-3827
+Research Gate: https://www.researchgate.net/profile/Soo-Hwan-Ahn
+AcademiaEdu: https://dankook.academia.edu/SooHwanAhn
+Google Scholar: https://scholar.google.com/citations?user=fZC3SEkAAAAJ&hl=ko
+Biodata of Authors
+Mr. Fu Yu is a Ph.D. candidate in music composition at Dankook University. His research 
+focuses on contemporary music and film scoring. He is currently writing a dissertation on 
+the use of modern compositional techniques in cinematic contexts and has participated in 
+various interdisciplinary music projects.
+Affiliation: Graduate School of Dankook University.
+Email: fugue123456789@163.com
+ORCID: 0009-0001-6350-9985
+AcademiaEdu: https://independent.academia.edu/fuyu49
+Google Scholar: https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=xyeG75YAAAAJ
+
+
+--- PDF第24页 ---
+200
