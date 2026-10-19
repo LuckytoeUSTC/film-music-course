@@ -2,8 +2,8 @@ from pathlib import Path
 import json,shutil,html
 ROOT=Path(__file__).resolve().parents[2]/'展示制作_20261018'
 OUT=ROOT/'交付'
-slides=json.loads((ROOT/'build'/'slides.json').read_text(encoding='utf-8'))
-sources=json.loads((ROOT/'build'/'sources.json').read_text(encoding='utf-8'))
+slides=json.loads((ROOT/'工具'/'slides.json').read_text(encoding='utf-8'))
+sources=json.loads((ROOT/'工具'/'sources.json').read_text(encoding='utf-8'))
 manifest=json.loads((ROOT/'研究'/'片段清单.json').read_text(encoding='utf-8'))
 imgs=OUT/'图片';imgs.mkdir(exist_ok=True)
 for d in slides:
@@ -11,9 +11,10 @@ for d in slides:
 refs=OUT/'参考资料';refs.mkdir(exist_ok=True)
 for f in ['评论阅读与取舍.md','证据与判断边界.md','片段清单.json']:
  shutil.copy2(ROOT/'研究'/f,refs/f)
-md=['# 双人逐页讲稿\n','主讲预算约37分钟，含主讲媒体和互动，实际以排练为准。末两页为备用。讲者A/B可互换，文件不使用成员姓名。\n','所有书签只用于检索。表中的视频区间不是音乐cue起止。声音与乐器的未决判断见《参考资料/证据与判断边界.md》，应在排练中实际回听后修订。\n']
+md=['# 双人逐页讲稿\n','沿用约37分钟的排练预算，含主讲媒体和互动；语言修订后的实际时长尚待排练，勿为凑时长刻意放慢。末两页为备用。讲者A/B可互换，文件不使用成员姓名。\n','所有书签只用于检索。表中的视频区间不是音乐cue起止。声音与乐器的未决判断见《参考资料/证据与判断边界.md》，应在排练中实际回听后修订。\n']
 for i,d in enumerate(slides,1):
  md += [f'## 第{i}页　{d["title"]}\n',f'讲者：{d["speaker"]}。时间预算：{d["minutes"]}分钟（含本页媒体与互动）。\n',d['notes']+'\n']
+ if d.get('prep'):md.append('**排练备忘（不朗读）**：'+d['prep']+'\n')
  if d.get('media'):md.append('播放：'+d['media']+ ('；'+d['secondMedia'] if d.get('secondMedia') else '')+'\n')
  if d['sources']:md.append('来源：'+'；'.join(d['sources'])+'。完整链接见来源表。\n')
 md += ['## 来源表\n']+[f'- {k}　{v}\n' for k,v in sources.items()]
@@ -52,7 +53,7 @@ PPT媒体已嵌入并做文件结构检查；实际PowerPoint播放行为与课�
 
 研究覆盖豆瓣、Ebert、Criterion、Washington Post、ReelViews、配乐专栏和一手访谈。每条来源的阅读范围、不同意见和未采用材料见“参考资料/评论阅读与取舍.md”。
 
-D盘电影、原声、字幕和书签原件未改动。原有思路文件、课程资料和截图未改动。当前包无成员姓名，也未上传、发布或发群。
+D盘电影、原声、字幕和书签原件未改动。原有思路文件、课程资料和截图未改动。当前生成的展示正文不使用成员姓名。成果已按用户授权上传公开GitHub仓库；未代发课程群。
 
 主讲预算约37分钟，另留答疑与机动。不是自动计时的保证，必须至少完整排练一次。备用片段不必全部播放。
 '''

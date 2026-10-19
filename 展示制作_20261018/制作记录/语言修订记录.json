@@ -1,0 +1,112 @@
+{
+  "time": "2026-10-18T23:25:19.668036+08:00",
+  "slides": [
+    {
+      "slide": 1,
+      "matched": 1
+    },
+    {
+      "slide": 2,
+      "matched": 3
+    },
+    {
+      "slide": 3,
+      "matched": 6
+    },
+    {
+      "slide": 4,
+      "matched": 5
+    },
+    {
+      "slide": 5,
+      "matched": 5
+    },
+    {
+      "slide": 6,
+      "matched": 2
+    },
+    {
+      "slide": 7,
+      "matched": 3
+    },
+    {
+      "slide": 8,
+      "matched": 3
+    },
+    {
+      "slide": 9,
+      "matched": 3
+    },
+    {
+      "slide": 10,
+      "matched": 3
+    },
+    {
+      "slide": 11,
+      "matched": 2
+    },
+    {
+      "slide": 12,
+      "matched": 2
+    },
+    {
+      "slide": 13,
+      "matched": 3
+    },
+    {
+      "slide": 14,
+      "matched": 5
+    },
+    {
+      "slide": 15,
+      "matched": 4
+    },
+    {
+      "slide": 16,
+      "matched": 5
+    },
+    {
+      "slide": 17,
+      "matched": 3
+    },
+    {
+      "slide": 18,
+      "matched": 5
+    },
+    {
+      "slide": 19,
+      "matched": 4
+    },
+    {
+      "slide": 20,
+      "matched": 6
+    },
+    {
+      "slide": 21,
+      "matched": 6
+    },
+    {
+      "slide": 22,
+      "matched": 5
+    },
+    {
+      "slide": 23,
+      "matched": 5
+    }
+  ],
+  "basis": "课程第三部分25—39、55—57页；原思路文件",
+  "scope": "23页文字与讲者备注；讲述与排练备忘分开；保持素材及版式",
+  "validation": {
+    "powerpoint_open": true,
+    "pdf_pages": 23,
+    "visual_review": "23页逐页检查，未发现遮挡或截断",
+    "source_text_and_notes_match": true,
+    "media_image_binaries_unchanged": 27,
+    "html_syntax_and_mock_render": true
+  },
+  "limits": [
+    "未完成本地音频听辨、真实点击播放及课堂设备排练。",
+    "语言修订后约37分钟仅沿用预算，实际时长待排练。"
+  ],
+  "validated_at": "2026-10-19T11:34:56.198515+08:00"
+}

@@ -1,45 +1,5 @@
 [
   {
-    "path": "双人逐页讲稿.md",
-    "bytes": 17290,
-    "sha256": "e2b61154edf808368b228c1e1c681bad2067d270f5ea77a9acf3842ba04956bf"
-  },
-  {
-    "path": "媒体回放.html",
-    "bytes": 3635,
-    "sha256": "390a615764fce2226e6465bb4f0daebecead639cc80a52c0e8fe21aba14c9565"
-  },
-  {
-    "path": "宫门之内的奔跑_展示稿.pptx",
-    "bytes": 69311867,
-    "sha256": "85307a5b35c53223813950998f6a6e7439c0ce2cd89e907e5637fca12db0aa4a"
-  },
-  {
-    "path": "宫门之内的奔跑_静态备份.pdf",
-    "bytes": 1211619,
-    "sha256": "61245ae0fad6529a7f668d7f625dd6e1ea92d16d19803f53305e4ef94435c3b5"
-  },
-  {
-    "path": "开始阅读.md",
-    "bytes": 1947,
-    "sha256": "1d22947cb84d8bd65af85bcaee2aec100f0426779fac2e4a0535286b4ec8bf30"
-  },
-  {
-    "path": "片段与现场顺序.md",
-    "bytes": 1890,
-    "sha256": "1a71829a0b961c6106fac8ec1b7e94e637f548186c873a7d2dfcd8665c776dc0"
-  },
-  {
-    "path": "离线展示.html",
-    "bytes": 22039,
-    "sha256": "6b81ac77005adb2b1c55c2090a64f5061298281ff3d9b5172e80138baa1f77b5"
-  },
-  {
-    "path": "课程群标题与大纲.md",
-    "bytes": 907,
-    "sha256": "299bbbe1a5e86e1434e316bfeabd077a3d30fa765b5e282f29c302b6a20abd76"
-  },
-  {
     "path": "参考资料/片段清单.json",
     "bytes": 2834,
     "sha256": "fb541d746acbe60e702174c4d88594a6148582d701f14d697edda312a21196cc"
@@ -53,6 +13,11 @@
     "path": "参考资料/评论阅读与取舍.md",
     "bytes": 8520,
     "sha256": "eb2228abec1f5b16d34529e737d04bb5985fd630f66284934cb4012f3f28e25e"
+  },
+  {
+    "path": "双人逐页讲稿.md",
+    "bytes": 21032,
+    "sha256": "7f9a46538bb2052a00abb79e1b1638b352d202cecdffeffcf74f3694edd23ae6"
   },
   {
     "path": "图片/00035_片头题字.jpg",
@@ -223,5 +188,40 @@
     "path": "媒体/音频_10.m4a",
     "bytes": 856493,
     "sha256": "166e29970c7becb153d84f093e718e4261812c81af3ff96bae25e9779ecff2a8"
+  },
+  {
+    "path": "媒体回放.html",
+    "bytes": 3635,
+    "sha256": "390a615764fce2226e6465bb4f0daebecead639cc80a52c0e8fe21aba14c9565"
+  },
+  {
+    "path": "宫门之内的奔跑_展示稿.pptx",
+    "bytes": 69313055,
+    "sha256": "e49d0919202bd4c0df723430d3f55f773906ebaabed89ee2208cc6ec85ab7f02"
+  },
+  {
+    "path": "宫门之内的奔跑_静态备份.pdf",
+    "bytes": 1234342,
+    "sha256": "324e8649eaf28ccb545abd646d66be8748f086d1c21fc8aef6f46086159b53e9"
+  },
+  {
+    "path": "开始阅读.md",
+    "bytes": 1910,
+    "sha256": "a0991fa9b090a3c31821609a83bfab85891f67763db1555ba8e85d7ddbd9909a"
+  },
+  {
+    "path": "片段与现场顺序.md",
+    "bytes": 1890,
+    "sha256": "1a71829a0b961c6106fac8ec1b7e94e637f548186c873a7d2dfcd8665c776dc0"
+  },
+  {
+    "path": "离线展示.html",
+    "bytes": 25327,
+    "sha256": "429a61a86ef25994fb436893dc3458246f0cef2d9b59ab36345eeb8978c4d0f7"
+  },
+  {
+    "path": "课程群标题与大纲.md",
+    "bytes": 907,
+    "sha256": "299bbbe1a5e86e1434e316bfeabd077a3d30fa765b5e282f29c302b6a20abd76"
   }
 ]
