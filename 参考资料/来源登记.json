@@ -325,5 +325,22 @@
     "url": "https://www.mixonline.com/recording/ryuichi-sakamoto-374280",
     "状态": "本次获取失败",
     "错误": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "T01",
+    "书目信息": "Science Museum Group, Fairlight CMI Series 3 Mainframe",
+    "url": "https://collection.sciencemuseumgroup.org.uk/objects/co8607596/fairlight-cmi-series-3-mainframe",
+    "本次保存时间": "2026-10-19T23:26:46.772148+08:00",
+    "阅读范围": "网络检索工具返回的博物馆条目摘要；用于设备一般功能，不证明本片具体型号",
+    "状态": "下载失败；已保存检索摘要和出处",
+    "错误": "HTTP Error 403: Forbidden",
+    "提取文本": "参考资料/网页提取/T01_检索摘要.txt"
+  },
+  {
+    "id": "COURSE_NEW",
+    "书目信息": "老师最新PPT配乐片单，末代皇帝条目",
+    "状态": "本地原图保留",
+    "文件": "归档/01_最新要求_20261014/PPT配乐片单_01至05.png",
+    "阅读范围": "末代皇帝条目：东方管弦与电子合成器碰撞"
   }
 ]

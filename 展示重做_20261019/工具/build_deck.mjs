@@ -72,7 +72,7 @@ for(let i=0;i<data.length;i++){
   text(s,String(i+1).padStart(2,'0'),1170,680,60,25,16,muted);
  }
  const imageNotes=(d.images||[]).map(f=>'原片静帧：'+f+'；本地资源D:/__Netdisk Download/The Last Emperor，HDR转SDR展示截图。').join('\n');
- s.speakerNotes.text=`讲者：${d.speaker}。本页含媒体/互动预算约${d.minutes}分钟。\n\n【讲述】\n${d.notes}\n\n【排练备忘，不朗读】\n${d.prep||""}\n\n${imageNotes}\n\n参考来源（2026-10-18检索）：\n${d.sources.map(k=>sources[k]||k).join('\n')}`;
+ s.speakerNotes.text=d.notes;
  console.log('build',i+1,d.title);
 }
 await (await PresentationFile.exportPptx(deck)).save(path.join(here,'candidate.pptx'));
